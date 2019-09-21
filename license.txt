@@ -27,4 +27,10 @@ http://kenney.nl/assets/voxel-pack
 default_acacia_leaves
 default_grass_5
 default_stone_block
-... more to be edited as needed
+
+*arranged by Sirobzeroone (using Kenney's textures, under same license):
+default_gold_block
+default_steel_block
+default_tin_block
+default_copper_block
+default_tin_block
