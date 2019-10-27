@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg978"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="default_diamond_all.svg">
+  <defs
+     id="defs972" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.6780349"
+     inkscape:cx="159.38358"
+     inkscape:cy="805.01781"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="5.5640267,238.38378"
+       orientation="0,1"
+       id="guide1523"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.5640266,238.38379"
+       orientation="1,0"
+       id="guide1525"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.73341,239.64438"
+       orientation="1,0"
+       id="guide1577"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.73341,217.20909"
+       orientation="0,1"
+       id="guide1623"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata975">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond.png"
+       id="path915"
+       d="m 16.861731,53.357624 -4.709583,0.515938 -1.905,-4.312709 3.505729,-3.135312 4.061354,2.341562 -0.9525,4.590521"
+       style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       y="41.682888"
+       x="5.5640264"
+       height="16.933332"
+       width="16.933332"
+       id="rect2291"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#63bbdb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 17.721627,49.243353 -0.07937,0.396875 -3.33375,1.28323 -3.743859,-0.661459 -0.145521,-0.3175 3.33375,-2.989791 3.96875,2.288645"
+       id="path1798"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#5caecc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 17.642252,49.640228 -0.01323,0.02646 -0.767292,3.690938 -2.553229,-2.434167 -2.156354,2.950104 -1.5875,-3.611562 3.743854,0.661458 3.33375,-1.283229"
+       id="path1800"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 10.419127,49.944499 -0.171979,-0.383646 3.505729,-3.135312 4.061354,2.341562 -0.0926,0.47625 -3.96875,-2.288645 -3.33375,2.989791"
+       id="path1802"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 16.861731,53.357624 -4.709583,0.515938 2.156354,-2.950104 2.553229,2.434166"
+       id="path1804"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g965">
+      <rect
+         inkscape:export-ydpi="86.296227"
+         inkscape:export-xdpi="86.296227"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mese_crystal_fragment.png"
+         y="41.682892"
+         x="26.73341"
+         height="16.933332"
+         width="16.933332"
+         id="rect2303"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         id="path2282"
+         d="m 36.608903,46.303042 -1.830338,0.506004 -4.034603,5.692662 0.240546,1.190413 0.356834,0.125605 0.03135,0.0061 -0.06498,-0.385526 0.06555,0.385526 0.02224,0.0169 0.536958,0.155339 7.092196,-2.917079 0.631582,-1.364721 -0.714803,-1.976847 -0.03648,0.04101 h -5.84e-4 l 0.03705,-0.04101 z"
+         style="fill:#66ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path1778"
+         d="m 35.501169,48.943565 -0.682333,-0.160517 0.146621,-0.62005 0.712066,0.148424 -0.176354,0.632143 m 3.403488,-1.165216 -1.843037,-1.144246 -1.829851,0.505878 -4.034896,5.692789 0.120239,0.595256 7.539408,-5.617216 0.04814,-0.03246 m -2.643746,-0.258172 1.039786,0.201942 -0.252145,0.965723 -1.041907,-0.220406 0.254266,-0.947259"
+         style="fill:#63bbdb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         id="path1780"
+         d="m 36.260911,47.520177 -0.254267,0.94726 1.041908,0.220405 0.252145,-0.965722 -1.039786,-0.201943 m -0.759742,1.423388 0.176354,-0.632143 -0.712066,-0.148424 -0.146621,0.62005 0.682333,0.160517 m -4.184054,4.484464 -0.0092,0.01019 0.06506,0.385801 0.02265,0.01656 0.536519,0.155406 7.09233,-2.916724 0.631612,-1.364837 -0.714606,-1.976802 -0.03682,0.04075 -7.587545,5.649677"
+         style="fill:#5caecc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path1782"
+         d="m 31.317112,53.428026 -0.120239,-0.595256 4.034896,-5.692789 1.829851,-0.505878 1.843037,1.144246 0.03682,-0.04074 -2.332817,-1.434608 -1.829852,0.505879 -4.034894,5.692787 0.240475,1.190514 0.356732,0.125461 0.03186,0.0063 -0.06506,-0.385801 0.0092,-0.01019"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 31.365064,53.773024 -0.0092,0.01019 0.01711,0.0408 0.02265,0.01656 0.536519,0.155406 7.09233,-2.916724 0.631612,-1.364837 -0.714606,-1.976802 -0.03714,0.04088 0.167956,1.908233 -0.452477,0.95273 -6.655393,2.874826"
+         id="path2289" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect2185"
+       width="16.933332"
+       height="16.933332"
+       x="5.5640264"
+       y="62.857578"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 17.708402,76.391021 0.171979,0.343959 -0.992187,1.005416 -1.243542,-0.648229 0.07938,-0.489479 1.164167,0.608542 0.820208,-0.820209"
+       id="path484"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 20.737881,71.218417 0.171979,0.343958 -1.336146,1.349376 -1.693333,-0.833438 0.07937,-0.489479 1.613958,0.79375 1.164167,-1.164167"
+       id="path490"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 20.645282,66.402993 0.171979,0.396875 0.833438,-0.105833 0.07937,-0.343959 0.0926,0.05292 -0.17197,0.820208 -0.833438,0.105834 -0.343958,-0.780521 0.171979,-0.145521"
+       id="path496"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 12.80038,75.160709 0.0926,0.05292 -0.595312,2.831041 -2.8971876,0.3175 -1.177395,-2.659065 0.171979,-0.145521 1.005417,2.275417 2.8971866,-0.3175 0.423334,-1.984375 0.07938,-0.370417"
+       id="path502"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 8.2627764,70.953834 0.03969,0.502708 -0.965729,0.423333 -0.714375,-0.78052 0.198437,-0.3175 0.515938,0.568854 0.926041,-0.396875"
+       id="path508"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 10.458818,66.270709 0.105833,0.463021 -1.2567706,0.767291 -1.084791,-0.9525 0.15875,-0.383646 0.926041,0.80698 1.1509376,-0.701146"
+       id="path510"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 9.5592354,72.461959 0.0926,0.05292 -0.171979,0.820209 -0.833438,0.105833 -0.343958,-0.780521 0.171979,-0.145521 0.171979,0.396876 0.833438,-0.105834 0.07937,-0.343958"
+       id="path518"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 14.678922,70.06748 0.03969,0.502708 -0.965729,0.423333 -0.714375,-0.780521 0.198437,-0.3175 0.515938,0.568855 0.926042,-0.396875"
+       id="path526"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g946"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(-7.0144929e-8,-9.671529)">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path482"
+         d="m 17.708402,86.06255 -0.820208,0.820209 -1.164167,-0.608542 -0.07938,-0.03969 0.05292,-0.357188 h 2.182812 L 17.7084,86.062547"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path488"
+         d="m 17.999444,80.400467 h 2.751666 l 0.15875,0.304271 -0.171979,0.185208 -1.164167,1.164167 -1.613958,-0.79375 -0.07937,-0.03969 0.119063,-0.820208"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path494"
+         d="m 21.756532,75.862855 -0.02646,0.15875 -0.07937,0.343959 -0.833438,0.105833 -0.171979,-0.396875 -0.0926,-0.211667 h 1.203854"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path498"
+         d="m 8.3950685,85.229113 -0.01323,-0.02646 h 4.3391665 l -0.423333,1.984377 -2.8971865,0.3175 -1.005417,-2.275417"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path506"
+         d="m 6.6223605,80.241717 h 1.653645 l 0.02646,0.357187 -0.03969,0.02646 -0.926041,0.396875 -0.515938,-0.568854 -0.198437,-0.211667"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path512"
+         d="m 10.458818,75.942238 -1.1509375,0.701146 -0.926041,-0.80698 -0.15875,-0.14552 0.119062,-0.291042 h 2.1166665 l 0.105833,0.47625 -0.105833,0.06615"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path520"
+         d="m 9.5592355,82.133488 -0.07937,0.343958 -0.833438,0.105834 -0.171979,-0.396876 -0.0926,-0.211666 h 1.203854 l -0.02646,0.15875"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path522"
+         d="m 13.236943,79.567029 -0.198438,-0.211666 h 1.653647 l 0.02646,0.357187 -0.03969,0.02646 -0.926042,0.396875 -0.515938,-0.568854"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+         id="path528"
+         d="m 16.650069,75.360154 h 2.182812 l -0.171979,0.185209 -0.820208,0.820208 -1.164167,-0.608542 -0.07938,-0.03969 0.05292,-0.357187"
+         style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 18.660902,65.873834 0.171979,0.343958 -0.992187,1.005417 -1.243542,-0.648229 0.07937,-0.48948 1.164167,0.608542 0.820208,-0.820208"
+       id="path530"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g957"
+       style="fill:#6ac8eb;fill-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_mineral_diamond.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(-7.0144929e-8,-9.671529)">
+      <path
+         id="path480"
+         d="m 15.697568,85.877342 0.15875,-1.031875 1.389062,-0.211667 0.635,1.243542 h -2.182812"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path486"
+         d="m 17.999443,80.400467 0.15875,-1.045104 1.878541,-0.3175 0.714375,1.362604 h -2.751666"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path492"
+         d="m 21.756539,75.862855 h -1.203854 l -0.07937,-0.171979 0.621771,-0.555625 0.727604,0.410104 -0.06615,0.3175"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path500"
+         d="m 8.381839,85.202655 -0.15875,-0.357188 2.156354,-1.931458 2.513542,1.441979 -0.0926,0.47625 -0.07937,0.370417 H 8.381848"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path504"
+         d="M 6.62236,80.241717 7.164755,79.315675 8.19663,79.540571 8.276,80.241717 H 6.622355"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path514"
+         d="m 8.342151,75.399842 0.423334,-1.045104 1.468437,0.105833 0.224896,0.939271 H 8.342151"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path516"
+         d="m 8.381839,81.974738 -0.07937,-0.171979 0.621771,-0.555625 0.727604,0.410104 -0.06615,0.3175 H 8.38184"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path524"
+         d="m 13.038505,79.355363 0.542396,-0.926042 1.031875,0.224896 0.07937,0.701146 H 13.0385"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path532"
+         d="m 16.650068,75.360154 0.15875,-1.031875 1.389062,-0.211666 0.635,1.243541 h -2.182812"
+         style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="62.857578"
+       x="26.733414"
+       height="16.933332"
+       width="16.933332"
+       id="rect2314"
+       style="opacity:1;fill:#5caecc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       inkscape:export-xdpi="95.999908"
+       inkscape:export-ydpi="95.999908" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#63bbdb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 43.66675,65.304967 v 2.129896 l -1.521355,0.343958 -0.46302,-1.997604 1.984375,-0.47625 m -4.1275,14.485937 h -2.566459 l 0.145521,-1.296458 2.526771,0.291042 -0.105833,1.005416 M 26.733416,67.434863 v -2.129896 h 0.01323 l 0.47625,2.010834 -0.489479,0.119062 m 10.239374,-4.577292 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291042 0.145521,-1.230313 m 1.574271,7.844896 0.926042,1.11125 -1.124479,0.912813 -0.912813,-1.11125 1.11125,-0.912813 m 3.611563,0.661459 -0.502709,1.362604 -1.362604,-0.529167 0.515938,-1.349375 1.349375,0.515938 m -4.114271,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957916,0.621771 -0.621771,-1.957917 m 3.307291,1.389063 1.44198,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.14552,-1.441979 m -7.236354,-2.923646 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 m -5.185833,-2.473854 0.674688,-2.606145 2.606145,0.674687 -0.674687,2.619375 -2.606146,-0.687917"
+       id="path112"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       inkscape:export-xdpi="95.999908"
+       inkscape:export-ydpi="95.999908" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#56a3bf;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 39.010083,65.939967 -0.833438,1.164167 -1.177395,-0.833438 0.846666,-1.177395 1.164167,0.846666 m -10.887605,-0.740833 -0.595312,-1.309688 1.322916,-0.582083 0.582084,1.296458 -1.309688,0.595313 m 2.659063,7.805208 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m -3.571875,4.92125 1.41552,-0.224896 0.224896,1.415521 -1.415521,0.224896 -0.224895,-1.415521 m 8.030104,-2.275417 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+       id="path114"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       inkscape:export-xdpi="95.999908"
+       inkscape:export-ydpi="95.999908" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#5098b2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 34.988416,67.792038 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+       id="path116"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       inkscape:export-xdpi="95.999908"
+       inkscape:export-ydpi="95.999908" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#63bbdb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 41.060604,69.154655 -0.992188,1.045104 -1.045104,-0.992188 0.992188,-1.045104 1.045104,0.992188 M 33.6655,65.304967 31.985395,67.130592 30.15977,65.450488 31.839875,63.624863 33.6655,65.304967 m 0.264583,12.832291 -2.566458,-0.568854 0.568854,-2.592916 2.579687,0.582083 -0.582083,2.579687"
+       id="path118"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       inkscape:export-xdpi="95.999908"
+       inkscape:export-ydpi="95.999908" />
+    <path
+       inkscape:export-ydpi="95.999908"
+       inkscape:export-xdpi="95.999908"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       d="M 26.780154,63.340867 V 62.857579 H 43.666742 V 79.772604 H 43.19106 V 63.340867 H 26.780154"
+       id="path1031"
+       inkscape:connector-curvature="0"
+       style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458338" />
+    <path
+       inkscape:export-ydpi="95.999908"
+       inkscape:export-xdpi="95.999908"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458338"
+       inkscape:connector-curvature="0"
+       id="path1033"
+       d="m 43.619998,79.307626 v 0.483286 H 26.73341 V 62.875887 h 0.475681 v 16.431739 h 16.410907" />
+    <rect
+       style="opacity:1;fill:#ced1e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1660"
+       width="4.2338767"
+       height="5.4030161"
+       x="5.5640264"
+       y="90.057968"
+       ry="0" />
+    <rect
+       ry="0"
+       y="90.057968"
+       x="9.7979031"
+       height="5.4030161"
+       width="4.2338767"
+       id="rect1662"
+       style="opacity:1;fill:#c3c6d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#b8bacc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1664"
+       width="4.2338767"
+       height="5.4030161"
+       x="14.03178"
+       y="90.057968"
+       ry="0" />
+    <rect
+       ry="0"
+       y="90.057968"
+       x="18.265656"
+       height="5.4030161"
+       width="4.2338767"
+       id="rect1666"
+       style="opacity:1;fill:#a8aaba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#9b9dab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1668"
+       width="4.2338767"
+       height="5.4030161"
+       x="22.499535"
+       y="90.057968"
+       ry="0" />
+    <rect
+       ry="0"
+       y="84.654953"
+       x="5.5640264"
+       height="5.4030161"
+       width="4.2338767"
+       id="rect893"
+       style="opacity:1;fill:#6ac8eb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#63bbdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect895"
+       width="4.2338767"
+       height="5.4030161"
+       x="9.7979031"
+       y="84.654953"
+       ry="0" />
+    <rect
+       ry="0"
+       y="84.654953"
+       x="14.03178"
+       height="5.4030161"
+       width="4.2338767"
+       id="rect897"
+       style="opacity:1;fill:#5caecc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#56a3bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect899"
+       width="4.2338767"
+       height="5.4030161"
+       x="18.265656"
+       y="84.654953"
+       ry="0" />
+    <rect
+       ry="0"
+       y="84.654953"
+       x="22.499535"
+       height="5.4030161"
+       width="4.2338767"
+       id="rect901"
+       style="opacity:1;fill:#5098b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       d="m 61.854163,64.454269 -0.0238,0.02419 q -0.1908,0.193521 -0.1908,0.483809 0,0.302379 0.21465,0.520093 0.20272,0.205618 0.50085,0.205618 0.28619,0 0.47699,-0.169333 l 0.0358,-0.03628 q 0.20272,-0.217714 0.20272,-0.520093 0,-0.302382 -0.20272,-0.508 -0.20272,-0.217715 -0.51277,-0.217715 -0.29812,0 -0.50084,0.217715 m -0.6201,-0.701523 h 2.43267 v 4.281708 l -10.68468,10.837318 h -4.34066 v -2.346475 l 12.5926,-12.77256 m -4.34066,0 h 2.5877 l -10.83971,10.994561 v -2.624665 l 8.25201,-8.369896 m -6.94027,13.062846 q -0.2862,0 -0.477,0.193522 l -0.0239,0.02419 q -0.21464,0.205621 -0.21464,0.508001 0,0.30238 0.21464,0.520096 0.20273,0.205618 0.50085,0.205618 0.31005,0 0.51277,-0.205618 l 0.0358,-0.03629 q 0.16695,-0.205618 0.16695,-0.483808 0,-0.302379 -0.20272,-0.508 -0.20272,-0.21771 -0.51277,-0.21771"
+       id="path4884"
+       inkscape:connector-curvature="0"
+       style="fill:#b4c6c7;stroke:none;stroke-width:0.26458332" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       d="m 47.683513,62.857592 h 16.93333 v 16.93332 h -16.93333 v -16.93332"
+       id="path4886"
+       inkscape:connector-curvature="0"
+       style="fill:#5caecc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       id="path983"
+       d="m 64.618172,65.286672 v 2.129896 l -1.521355,0.343958 -0.46302,-1.997604 1.984375,-0.47625 m -4.1275,14.485937 h -2.566459 l 0.145521,-1.296458 2.526771,0.291042 -0.105833,1.005416 M 47.684838,67.416568 v -2.129896 h 0.01323 l 0.47625,2.010834 -0.489479,0.119062 m 10.239374,-4.577292 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291042 0.145521,-1.230313 m 1.574271,7.844896 0.926042,1.11125 -1.124479,0.912813 -0.912813,-1.11125 1.11125,-0.912813 m 3.611563,0.661459 -0.502709,1.362604 -1.362604,-0.529167 0.515938,-1.349375 1.349375,0.515938 m -4.114271,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957916,0.621771 -0.621771,-1.957917 m 3.307291,1.389063 1.44198,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.14552,-1.441979 m -7.236354,-2.923646 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 m -5.185833,-2.473854 0.674688,-2.606145 2.606145,0.674687 -0.674687,2.619375 -2.606146,-0.687917"
+       style="fill:#62b8d8;fill-opacity:0.75;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       d="m 47.683513,63.341404 v -0.483812 h 16.93333 v 16.93332 h -0.47699 V 63.341404 h -16.45634"
+       id="path4892"
+       inkscape:connector-curvature="0"
+       style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       style="fill:#6ac8eb;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       id="path4894"
+       d="m 64.616843,79.307103 v 0.483809 h -16.93333 v -16.93332 h 0.477 v 16.449511 h 16.45633" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       id="path985"
+       d="m 59.961505,65.921672 -0.833438,1.164167 -1.177395,-0.833438 0.846666,-1.177395 1.164167,0.846666 M 49.0739,65.180839 l -0.595312,-1.309688 1.322916,-0.582083 0.582084,1.296458 -1.309688,0.595313 m 2.659063,7.805208 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m -3.571875,4.92125 1.41552,-0.224896 0.224896,1.415521 -1.415521,0.224896 -0.224895,-1.415521 m 8.030104,-2.275417 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+       style="fill:#62b8d8;fill-opacity:0.75;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       sodipodi:nodetypes="cccccccccc"
+       id="path987"
+       d="m 55.939838,67.773743 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+       style="fill:#5098b2;fill-opacity:0.75;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       id="path989"
+       d="m 62.012026,69.13636 -0.992188,1.045104 -1.045104,-0.992188 0.992188,-1.045104 1.045104,0.992188 m -7.395104,-3.849688 -1.680105,1.825625 -1.825625,-1.680104 1.680105,-1.825625 1.825625,1.680104 m 0.264583,12.832291 -2.566458,-0.568854 0.568854,-2.592916 2.579687,0.582083 -0.582083,2.579687"
+       style="fill:#62b8d8;fill-opacity:0.75;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_diamond_block.png"
+       style="fill:#6ac8eb;fill-opacity:0.75;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       id="path4898"
+       d="m 56.893433,63.752754 h 2.5877 l -10.83973,10.994552 v -2.624665 l 8.25201,-8.369896 m -8.25203,15.119033 v -2.346473 l 12.59266,-12.77256 h 2.43268 v 4.281709 l -10.68466,10.837324 h -4.34066"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+</svg>

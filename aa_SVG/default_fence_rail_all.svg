@@ -1,0 +1,3440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1042"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="default_fence_rail_all.svg">
+  <defs
+     id="defs1036" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3390174"
+     inkscape:cx="78.774598"
+     inkscape:cy="929.34666"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1666"
+       empspacing="4" />
+    <sodipodi:guide
+       position="6.3499998,276.22501"
+       orientation="0,1"
+       id="guide5601"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.3499996,276.22502"
+       orientation="1,0"
+       id="guide5603"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.458331,276.22501"
+       orientation="1,0"
+       id="guide5753"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.35,257.175"
+       orientation="0,1"
+       id="guide5785"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.1166667,238.125"
+       orientation="0,1"
+       id="guide6073"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-3.1749999,219.075"
+       orientation="0,1"
+       id="guide1129"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-3.1749999,200.025"
+       orientation="0,1"
+       id="guide1408"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="1.725"
+       x="-3.175"
+       height="4.7624993"
+       width="5.2916665"
+       id="rect5988"
+       style="opacity:1;fill:#9c7249;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#91673f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5990"
+       width="5.2916665"
+       height="4.7624993"
+       x="-3.175"
+       y="6.487494" />
+    <rect
+       y="11.250014"
+       x="-3.175"
+       height="4.7624993"
+       width="5.2916665"
+       id="rect5992"
+       style="opacity:1;fill:#8a6038;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#7b5632;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect6037"
+       width="5.2916665"
+       height="4.7624993"
+       x="-3.175"
+       y="16.012493" />
+    <g
+       id="g5599"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="3.8416667"
+         x="6.3499999"
+         height="16.933334"
+         width="16.933334"
+         id="rect1664"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="3.8416665"
+         x="12.7"
+         height="16.933332"
+         width="4.2333331"
+         id="rect5371"
+         style="opacity:1;fill:#91673f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         id="path5996-2"
+         d="M 13.492394,3.8416665 12.7,5.5349965 13.492394,7.2151065 12.7,8.9216665 13.492394,10.601766 12.7,12.308336 l 0.792394,1.6801 -0.792394,1.70656 0.792394,1.68011 -0.792394,1.70656 0.792394,1.6801 H 12.7 v -1.6801 -3.38667 -3.38666 -3.3866695 -3.38667 -1.69333 h 0.792394"
+         style="fill:#7b5632;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#7b5632;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 16.125569,3.8416667 0.807764,1.69333 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.6800993 0.807764,1.70657 -0.807764,1.6801 0.807764,1.70656 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.6801 h 0.807764 v -1.6801 -3.38667 -3.38666 -3.3866693 -3.38667 -1.69333 h -0.807764"
+         id="path5402"
+         sodipodi:nodetypes="ccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6000-2"
+         d="m 14.816667,12.308332 v 8.466667 H 14.2875 v -8.466667 h 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6002-5"
+         d="M 14.816666,9.1333333 V 12.308333 H 14.2875 V 9.1333333 h 0.529166"
+         style="fill:#9c7249;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 15.875,7.545833 V 16.0125 H 15.345833 V 7.545833 H 15.875"
+         id="path5422"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5424"
+         d="M 14.2875,3.8416667 V 8.3395833 H 13.758333 V 3.8416667 H 14.2875"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#9c7249;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 15.874999,16.0125 v 2.38125 H 15.345833 V 16.0125 h 0.529166"
+         id="path5426"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5428"
+         d="M 15.345833,3.8416667 V 4.9 H 14.816667 V 3.8416667 h 0.529166"
+         style="fill:#9c7249;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="7.0166669"
+         x="6.3499999"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect5430"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="7.0166669"
+         x="16.933332"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect5432"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="15.483334"
+         x="6.3499994"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect5434"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="15.483334"
+         x="16.933332"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect5436"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 11.90625,16.277084 H 6.3499995 V 15.747917 H 11.90625 v 0.529167"
+         id="path5438"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5440"
+         d="m 23.283334,16.277084 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5442"
+         d="m 22.489584,16.277083 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5444"
+         d="M 12.7,17.335417 H 10.31875 V 16.80625 H 12.7 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 8.4666664,8.604167 H 6.3499999 V 8.075 h 2.1166665 v 0.529167"
+         id="path5446"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5448"
+         d="m 23.283333,8.6041667 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 9.2604166,8.604166 H 8.2020833 V 8.075 h 1.0583333 v 0.529166"
+         id="path5450"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5452"
+         d="M 20.108333,8.075 H 17.4625 V 7.545833 h 2.645833 V 8.075"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 21.695835,17.335417 H 17.991669 V 16.80625 h 3.704166 v 0.529167"
+         id="path5454"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         y="11.25"
+         x="6.3499999"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect5529"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         y="11.25"
+         x="16.933332"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect5531"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5556"
+         d="M 8.4666664,8.604167 H 6.3499999 V 8.075 h 2.1166665 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 9.7895831,12.04375 H 6.35 v -0.529167 h 3.4395831 v 0.529167"
+         id="path5558"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5560"
+         d="M 7.4083333,12.04375 H 6.35 v -0.529166 h 1.0583333 v 0.529166"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 23.283333,12.043749 h -2.116666 v -0.529166 h 2.116666 v 0.529166"
+         id="path5562"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 20.372917,12.8375 h -2.645833 v -0.529167 h 2.645833 V 12.8375"
+         id="path5564"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5566"
+         d="M 12.7,13.102083 H 8.7312501 V 12.572916 H 12.7 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g5984">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5640"
+         width="8.2689772"
+         height="2.1166666"
+         x="26.458328"
+         y="15.483335" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5642"
+         width="8.6643581"
+         height="2.1166666"
+         x="34.727306"
+         y="15.483335" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5636"
+         width="8.7873116"
+         height="2.1166666"
+         x="26.45833"
+         y="7.0166683" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5638"
+         width="8.1460238"
+         height="2.1166666"
+         x="35.24564"
+         y="7.0166683" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5616"
+         width="16.933334"
+         height="16.933334"
+         x="26.458332"
+         y="3.8416681" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5618"
+         width="2.1166658"
+         height="16.933332"
+         x="33.866669"
+         y="3.8416679" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 34.925,17.6 v 3.175 H 34.395833 V 17.6 H 34.925"
+         id="path5624"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#9c7249;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 34.924999,9.1333346 V 10.191667 H 34.395833 V 9.1333346 h 0.529166"
+         id="path5626"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5628"
+         d="M 35.983333,8.6041664 V 11.779167 H 35.454166 V 8.6041664 h 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 34.395833,3.8416681 V 7.0166667 H 33.866666 V 3.8416681 h 0.529167"
+         id="path5630"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5632"
+         d="m 35.983333,17.864583 v 1.5875 h -0.529166 v -1.5875 h 0.529166"
+         style="fill:#9c7249;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#9c7249;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 35.454166,3.841668 V 4.9000013 H 34.925 V 3.841668 h 0.529166"
+         id="path5634"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5644"
+         d="m 32.014583,16.277085 h -5.556251 v -0.529167 h 5.556251 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.391667,16.277085 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         id="path5646"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 42.597917,16.277084 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+         id="path5648"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 32.808333,17.335418 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+         id="path5650"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5652"
+         d="m 28.574999,8.6041683 h -2.116666 v -0.529167 h 2.116666 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.391666,8.604168 h -2.38125 V 8.075001 h 2.38125 v 0.529167"
+         id="path5654"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5656"
+         d="m 29.36875,8.6041673 h -1.058334 v -0.529166 h 1.058334 v 0.529166"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 38.629166,9.1333337 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+         id="path5658"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5660"
+         d="m 41.804168,17.335418 h -3.704166 v -0.529167 h 3.704166 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 28.574999,8.6041683 h -2.116666 v -0.529167 h 2.116666 v 0.529167"
+         id="path5666"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5711"
+         d="M 34.925,10.191667 V 12.04375 H 34.395833 V 10.191667 H 34.925"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 35.983333,18.922908 v 1.852083 h -0.529167 v -1.852083 h 0.529167"
+         id="path5713"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5715"
+         d="m 34.395834,7.5458333 h -2.910417 v -0.529167 h 2.910417 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 33.072918,8.604166 H 31.485417 V 8.075 h 1.587501 v 0.529166"
+         id="path5717"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5719"
+         d="m 36.247917,16.0125 h -0.79375 v -0.529167 h 0.79375 V 16.0125"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 35.983333,13.895833 v 1.5875 h -0.529167 v -1.5875 h 0.529167"
+         id="path5721"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         y="11.25"
+         x="26.458334"
+         height="2.1166666"
+         width="8.7873116"
+         id="rect1016"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="11.25"
+         x="35.245644"
+         height="2.1166666"
+         width="8.1460238"
+         id="rect1018"
+         style="opacity:1;fill:#966b41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 40.48125,12.837499 h 1.058334 V 12.308333 H 40.48125 v 0.529166"
+         id="path1020"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1022"
+         d="m 41.275001,12.8375 h 2.116666 V 12.308333 H 41.275001 V 12.8375"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1024"
+         d="m 33.866667,11.779167 h -2.38125 V 11.25 h 2.38125 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1026"
+         d="m 29.633333,12.837499 h -1.587501 v -0.529166 h 1.587501 v 0.529166"
+         style="fill:#a1764b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <rect
+       style="opacity:1;fill:#f0eada;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5988-9"
+       width="5.2916665"
+       height="4.7625017"
+       x="-3.175"
+       y="20.775" />
+    <rect
+       y="25.537495"
+       x="-3.175"
+       height="4.7625017"
+       width="5.2916665"
+       id="rect5990-2"
+       style="opacity:1;fill:#dbd2c7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#bfb1a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5992-6"
+       width="5.2916665"
+       height="4.7625017"
+       x="-3.175"
+       y="30.300014" />
+    <rect
+       y="35.0625"
+       x="-3.175"
+       height="4.7625017"
+       width="5.2916665"
+       id="rect6037-0"
+       style="opacity:1;fill:#a79885;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g5922"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092"
+       transform="translate(0,-0.18199933)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5787"
+         width="16.933334"
+         height="16.933334"
+         x="6.3499994"
+         y="23.073666" />
+      <rect
+         style="opacity:1;fill:#ebe5d4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5789"
+         width="4.2333331"
+         height="16.933332"
+         x="12.7"
+         y="23.073666" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#d9d0c6;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 13.492394,23.073666 12.7,24.766996 l 0.792394,1.68011 -0.792394,1.70656 0.792394,1.6801 -0.792394,1.70657 0.792394,1.6801 -0.792394,1.70656 0.792394,1.68011 -0.792394,1.70656 0.792394,1.6801 H 12.7 v -1.6801 -3.38667 -3.38666 -3.38667 -3.38667 -1.69333 h 0.792394"
+         id="path5791"
+         sodipodi:nodetypes="ccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         id="path5793"
+         d="m 16.125569,23.073667 0.807764,1.69333 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.680099 0.807764,1.70657 -0.807764,1.6801 0.807764,1.70656 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.6801 h 0.807764 v -1.6801 -3.38667 -3.38666 -3.386669 -3.38667 -1.69333 h -0.807764"
+         style="fill:#d9d0c6;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 16.933333,30.481999 h -1.212689 v -0.529167 h 1.212689 v 0.529167"
+         id="path5795"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 15.720644,30.481999 h -0.931185 v -0.529166 h 0.931185 v 0.529166"
+         id="path5797"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5799"
+         d="M 14.834805,25.296163 H 12.7 v -0.529167 h 2.134805 v 0.529167"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 14.2875,33.739584 H 12.7 v -0.529167 h 1.5875 v 0.529167"
+         id="path5801"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5803"
+         d="m 16.933333,28.153667 h -1.121025 v -0.529166 h 1.121025 v 0.529166"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 15.893138,25.296163 h -1.058333 v -0.529166 h 1.058333 v 0.529166"
+         id="path5805"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5807"
+         width="6.3499999"
+         height="2.1166666"
+         x="6.3499994"
+         y="26.248667" />
+      <rect
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5809"
+         width="6.3499999"
+         height="2.1166666"
+         x="16.933332"
+         y="26.248667" />
+      <rect
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5811"
+         width="6.3499999"
+         height="2.1166666"
+         x="6.349999"
+         y="34.715332" />
+      <rect
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5813"
+         width="6.3499999"
+         height="2.1166666"
+         x="16.933332"
+         y="34.715332" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5815"
+         d="M 11.90625,35.509084 H 6.3499994 V 34.979917 H 11.90625 v 0.529167"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 23.283334,35.509084 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         id="path5817"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 22.489584,35.509083 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+         id="path5819"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 12.7,36.567417 H 10.31875 V 36.03825 H 12.7 v 0.529167"
+         id="path5821"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5823"
+         d="M 8.4666663,27.836167 H 6.3499998 V 27.307 h 2.1166665 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 23.283333,27.836167 h -2.38125 V 27.307 h 2.38125 v 0.529167"
+         id="path5825"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5827"
+         d="M 9.2604165,27.836166 H 8.2020832 V 27.307 h 1.0583333 v 0.529166"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 20.108333,27.307 H 17.4625 v -0.529167 h 2.645833 V 27.307"
+         id="path5829"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5831"
+         d="M 21.695835,36.567417 H 17.991669 V 36.03825 h 3.704166 v 0.529167"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5833"
+         width="6.3499999"
+         height="2.1166666"
+         x="6.3499994"
+         y="30.481998"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5835"
+         width="6.3499999"
+         height="2.1166666"
+         x="16.933332"
+         y="30.481998"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 8.4666663,27.836167 H 6.3499998 V 27.307 h 2.1166665 v 0.529167"
+         id="path5837"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5839"
+         d="M 9.789583,31.27575 H 6.3499999 V 30.746583 H 9.789583 v 0.529167"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 7.4083332,31.27575 H 6.3499999 v -0.529166 h 1.0583333 v 0.529166"
+         id="path5841"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5843"
+         d="m 23.283333,31.275749 h -2.116666 v -0.529166 h 2.116666 v 0.529166"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5845"
+         d="m 20.372917,32.0695 h -2.645833 v -0.529167 h 2.645833 V 32.0695"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 12.7,32.334083 H 8.73125 V 31.804916 H 12.7 v 0.529167"
+         id="path5847"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5882"
+         d="m 14.625608,38.313666 h -1.925609 v -0.529167 h 1.925609 v 0.529167"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5884"
+         d="M 14.625608,38.313666 H 13.909583 V 37.7845 h 0.716025 v 0.529166"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path5886"
+         d="m 16.933332,36.831998 h -1.5875 v -0.529167 h 1.5875 v 0.529167"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5986"
+       width="8.2689772"
+       height="2.1166666"
+       x="26.458324"
+       y="34.533333" />
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5989"
+       width="8.6643581"
+       height="2.1166666"
+       x="34.727303"
+       y="34.533333" />
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5991"
+       width="8.7873116"
+       height="2.1166666"
+       x="26.458326"
+       y="26.066666" />
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5993"
+       width="8.1460238"
+       height="2.1166666"
+       x="35.245636"
+       y="26.066666" />
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5995"
+       width="16.933334"
+       height="16.933334"
+       x="26.458328"
+       y="22.891666" />
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5997"
+       width="2.1166658"
+       height="16.933332"
+       x="33.866665"
+       y="22.891666" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 34.924997,36.649998 v 3.175 H 34.39583 v -3.175 h 0.529167"
+       id="path5999"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 34.924996,28.183333 v 1.058332 H 34.39583 v -1.058332 h 0.529166"
+       id="path6001"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6003"
+       d="m 35.98333,27.654164 v 3.175001 h -0.529167 v -3.175001 h 0.529167"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 34.39583,22.891666 v 3.174999 h -0.529167 v -3.174999 h 0.529167"
+       id="path6005"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6007"
+       d="m 35.98333,36.914581 v 1.5875 h -0.529166 v -1.5875 h 0.529166"
+       style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 35.454163,22.891666 v 1.058333 h -0.529166 v -1.058333 h 0.529166"
+       id="path6009"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6011"
+       d="m 32.01458,35.327083 h -5.556251 v -0.529167 h 5.556251 v 0.529167"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 43.391664,35.327083 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+       id="path6013"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 42.597914,35.327082 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+       id="path6015"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 32.80833,36.385416 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+       id="path6017"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6019"
+       d="M 28.574996,27.654166 H 26.45833 v -0.529167 h 2.116666 v 0.529167"
+       style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 43.391663,27.654166 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+       id="path6021"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6023"
+       d="m 29.368747,27.654165 h -1.058334 v -0.529166 h 1.058334 v 0.529166"
+       style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 38.629163,28.183332 H 35.98333 v -0.529167 h 2.645833 v 0.529167"
+       id="path6025"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6027"
+       d="m 41.804165,36.385416 h -3.704166 v -0.529167 h 3.704166 v 0.529167"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 28.574996,27.654166 H 26.45833 v -0.529167 h 2.116666 v 0.529167"
+       id="path6029"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6031"
+       d="m 34.924997,29.241665 v 1.852083 H 34.39583 v -1.852083 h 0.529167"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 35.98333,37.972906 v 1.852083 h -0.529167 v -1.852083 h 0.529167"
+       id="path6033"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6035"
+       d="m 34.395831,26.595831 h -2.910417 v -0.529167 h 2.910417 v 0.529167"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.072915,27.654164 h -1.587501 v -0.529166 h 1.587501 v 0.529166"
+       id="path6037"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path6039"
+       d="m 36.247914,35.062498 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 35.98333,32.945831 v 1.5875 h -0.529167 v -1.5875 h 0.529167"
+       id="path6041"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       y="39.825001"
+       x="-3.175"
+       height="4.7624998"
+       width="5.2916665"
+       id="rect5988-2"
+       style="opacity:1;fill:#79736d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#6c6660;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5990-0"
+       width="5.2916665"
+       height="4.7624998"
+       x="-3.175"
+       y="44.58749" />
+    <rect
+       y="49.350014"
+       x="-3.175"
+       height="4.7624998"
+       width="5.2916665"
+       id="rect5992-8"
+       style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#504b46;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect6037-5"
+       width="5.2916665"
+       height="4.7624998"
+       x="-3.175"
+       y="54.112503" />
+    <g
+       id="g6383"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_acacia_wood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0,1.0544556)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6199"
+         width="16.933334"
+         height="16.933334"
+         x="6.3499994"
+         y="40.900444" />
+      <rect
+         style="opacity:1;fill:#5e5953;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6201"
+         width="4.2333331"
+         height="16.933332"
+         x="12.7"
+         y="40.900444" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#504b46;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 13.492394,40.900446 12.7,42.593775 13.492394,44.273885 12.7,45.980446 13.492394,47.660545 12.7,49.367115 l 0.792394,1.6801 -0.792394,1.70656 0.792394,1.68011 -0.792394,1.70656 0.792394,1.6801 H 12.7 v -1.6801 -3.38667 -3.38666 -3.386669 -3.386671 -1.69333 h 0.792394"
+         id="path6203"
+         sodipodi:nodetypes="ccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         id="path6205"
+         d="m 16.125569,40.900446 0.807764,1.69333 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.680099 0.807764,1.70657 -0.807764,1.6801 0.807764,1.70656 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.6801 h 0.807764 v -1.6801 -3.38667 -3.38666 -3.386669 -3.38667 -1.69333 h -0.807764"
+         style="fill:#504b46;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 14.816667,49.367111 v 8.466667 H 14.2875 v -8.466667 h 0.529167"
+         id="path6207"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 14.816666,46.192112 v 3.175 H 14.2875 v -3.175 h 0.529166"
+         id="path6209"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6211"
+         d="m 15.875,44.604612 v 8.466667 H 15.345833 V 44.604612 H 15.875"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 14.2875,40.900446 v 4.497916 H 13.758333 V 40.900446 H 14.2875"
+         id="path6213"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6215"
+         d="m 15.874999,53.071279 v 2.38125 h -0.529166 v -2.38125 h 0.529166"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 15.345833,40.900446 v 1.058333 h -0.529166 v -1.058333 h 0.529166"
+         id="path6217"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6219"
+         width="6.3499999"
+         height="2.1166666"
+         x="6.3499994"
+         y="44.075447" />
+      <rect
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6221"
+         width="6.3499999"
+         height="2.1166666"
+         x="16.933332"
+         y="44.075447" />
+      <rect
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6223"
+         width="6.3499999"
+         height="2.1166666"
+         x="6.349999"
+         y="52.542114" />
+      <rect
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6225"
+         width="6.3499999"
+         height="2.1166666"
+         x="16.933332"
+         y="52.542114" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6227"
+         d="M 11.90625,53.335863 H 6.3499992 V 52.806696 H 11.90625 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 23.283334,53.335863 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         id="path6229"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 22.489584,53.335862 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+         id="path6231"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 12.7,54.394196 H 10.31875 V 53.865029 H 12.7 v 0.529167"
+         id="path6233"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6235"
+         d="M 8.4666661,45.662946 H 6.3499996 v -0.529167 h 2.1166665 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 23.283333,45.662946 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+         id="path6237"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6239"
+         d="M 9.2604163,45.662945 H 8.202083 v -0.529166 h 1.0583333 v 0.529166"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 20.108333,45.133779 H 17.4625 v -0.529167 h 2.645833 v 0.529167"
+         id="path6241"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6243"
+         d="m 21.695835,54.394196 h -3.704166 v -0.529167 h 3.704166 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6245"
+         width="6.3499999"
+         height="2.1166666"
+         x="6.3499994"
+         y="48.308781"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect6247"
+         width="6.3499999"
+         height="2.1166666"
+         x="16.933332"
+         y="48.308781"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 8.4666661,45.662946 H 6.3499996 v -0.529167 h 2.1166665 v 0.529167"
+         id="path6249"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6251"
+         d="M 9.7895828,49.102529 H 6.3499997 v -0.529167 h 3.4395831 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 7.408333,49.102529 H 6.3499997 V 48.573363 H 7.408333 v 0.529166"
+         id="path6253"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6255"
+         d="m 23.283333,49.102528 h -2.116666 v -0.529166 h 2.116666 v 0.529166"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6257"
+         d="m 20.372917,49.896279 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 12.7,50.160862 H 8.7312498 V 49.631695 H 12.7 v 0.529167"
+         id="path6259"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g6319"
+       transform="translate(-2.0345052e-6,38.100001)"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_acacia_wood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="15.483335"
+         x="26.458328"
+         height="2.1166666"
+         width="8.2689772"
+         id="rect6263"
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="15.483335"
+         x="34.727306"
+         height="2.1166666"
+         width="8.6643581"
+         id="rect6265"
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="7.0166683"
+         x="26.45833"
+         height="2.1166666"
+         width="8.7873116"
+         id="rect6267"
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="7.0166683"
+         x="35.24564"
+         height="2.1166666"
+         width="8.1460238"
+         id="rect6269"
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="3.8416681"
+         x="26.458332"
+         height="16.933334"
+         width="16.933334"
+         id="rect6271"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="3.8416679"
+         x="33.866669"
+         height="16.933332"
+         width="2.1166658"
+         id="rect6273"
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6275"
+         d="m 34.925,17.6 v 3.175 H 34.395833 V 17.6 H 34.925"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6277"
+         d="M 34.924999,9.1333346 V 10.191667 H 34.395833 V 9.1333346 h 0.529166"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 35.983333,8.6041664 V 11.779167 H 35.454166 V 8.6041664 h 0.529167"
+         id="path6279"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6281"
+         d="M 34.395833,3.8416681 V 7.0166667 H 33.866666 V 3.8416681 h 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 35.983333,17.864583 v 1.5875 h -0.529166 v -1.5875 h 0.529166"
+         id="path6283"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6285"
+         d="M 35.454166,3.841668 V 4.9000013 H 34.925 V 3.841668 h 0.529166"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 32.014583,16.277085 h -5.556251 v -0.529167 h 5.556251 v 0.529167"
+         id="path6287"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6289"
+         d="m 43.391667,16.277085 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6291"
+         d="m 42.597917,16.277084 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6293"
+         d="m 32.808333,17.335418 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 28.574999,8.6041683 h -2.116666 v -0.529167 h 2.116666 v 0.529167"
+         id="path6295"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6297"
+         d="m 43.391666,8.604168 h -2.38125 V 8.075001 h 2.38125 v 0.529167"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 29.36875,8.6041673 h -1.058334 v -0.529166 h 1.058334 v 0.529166"
+         id="path6299"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6301"
+         d="m 38.629166,9.1333337 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 41.804168,17.335418 h -3.704166 v -0.529167 h 3.704166 v 0.529167"
+         id="path6303"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6305"
+         d="m 28.574999,8.6041683 h -2.116666 v -0.529167 h 2.116666 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 34.925,10.191667 V 12.04375 H 34.395833 V 10.191667 H 34.925"
+         id="path6307"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6309"
+         d="m 35.983333,18.922908 v 1.852083 h -0.529167 v -1.852083 h 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 34.395834,7.5458333 h -2.910417 v -0.529167 h 2.910417 v 0.529167"
+         id="path6311"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6313"
+         d="M 33.072918,8.604166 H 31.485417 V 8.075 h 1.587501 v 0.529166"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 36.247917,16.0125 h -0.79375 v -0.529167 h 0.79375 V 16.0125"
+         id="path6315"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path6317"
+         d="m 35.983333,13.895833 v 1.5875 h -0.529167 v -1.5875 h 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 30.427083,17.335418 h -1.077181 v -0.529167 h 1.077181 v 0.529167"
+         id="path6385"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1059"
+         width="8.2689772"
+         height="2.1166666"
+         x="-43.39167"
+         y="11.249999"
+         transform="scale(-1,1)" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#655f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1061"
+         width="8.6643581"
+         height="2.1166666"
+         x="-35.122692"
+         y="11.249999"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1063"
+         d="m 37.835415,12.043749 h 5.556251 v -0.529167 h -5.556251 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 26.458331,12.043749 h 0.79375 v -0.529167 h -0.79375 v 0.529167"
+         id="path1065"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 27.252081,12.043748 h 1.852083 v -0.529166 h -1.852083 v 0.529166"
+         id="path1067"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 37.041665,13.102082 h 2.38125 v -0.529167 h -2.38125 v 0.529167"
+         id="path1069"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1071"
+         d="m 28.04583,13.102082 h 3.704166 V 12.572915 H 28.04583 v 0.529167"
+         style="fill:#6c6660;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1075"
+         d="m 39.422915,13.102082 h 1.077181 v -0.529167 h -1.077181 v 0.529167"
+         style="fill:#79736d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1032"
+       d="m 34.924999,32.416667 v 1.058332 h -0.529166 v -1.058332 h 0.529166"
+       style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <g
+       id="g1057"
+       transform="matrix(-1,0,0,1,69.849996,0)"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092">
+      <rect
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1028"
+         width="8.7873116"
+         height="2.1166666"
+         x="26.45833"
+         y="30.299999" />
+      <rect
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         style="opacity:1;fill:#f2ecdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1030"
+         width="8.1460238"
+         height="2.1166666"
+         x="35.24564"
+         y="30.299999" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1034"
+         d="m 28.574999,31.8875 h -2.116666 v -0.529167 h 2.116666 V 31.8875"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.391666,31.8875 h -2.38125 v -0.529167 h 2.38125 V 31.8875"
+         id="path1036"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1038"
+         d="m 29.36875,31.887499 h -1.058334 v -0.529166 h 1.058334 v 0.529166"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 38.629166,32.416666 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+         id="path1040"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 28.574999,31.8875 h -2.116666 v -0.529167 h 2.116666 V 31.8875"
+         id="path1042"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1044"
+         d="m 34.395834,30.829165 h -2.910417 v -0.529167 h 2.910417 v 0.529167"
+         style="fill:#bfb1a0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_aspen_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#dbd2c7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 33.072918,31.887498 h -1.587501 v -0.529166 h 1.587501 v 0.529166"
+         id="path1046"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#997c47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1121"
+       width="5.2916665"
+       height="4.7624998"
+       x="-3.175"
+       y="58.875004" />
+    <rect
+       y="63.637493"
+       x="-3.175"
+       height="4.7624998"
+       width="5.2916665"
+       id="rect1123"
+       style="opacity:1;fill:#856b3e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1125"
+       width="5.2916665"
+       height="4.7624998"
+       x="-3.175"
+       y="68.400017" />
+    <rect
+       y="73.162506"
+       x="-3.175"
+       height="4.7624998"
+       width="5.2916665"
+       id="rect1127"
+       style="opacity:1;fill:#4f3f25;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1203"
+       width="16.933334"
+       height="16.933334"
+       x="6.3499999"
+       y="60.991665"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1205"
+       width="4.2333331"
+       height="16.933332"
+       x="12.700001"
+       y="60.991665"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1389"
+       d="m 14.287501,66.378508 h -1.5875 v -0.529167 h 1.5875 v 0.529167"
+       style="fill:#4d4c1e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#4d4c1e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 14.975752,72.681546 h 1.925609 v -0.529167 h -1.925609 v 0.529167"
+       id="path1385"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 16.933334,68.4 h -1.212689 v -0.529167 h 1.212689 V 68.4"
+       id="path1211"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 15.720645,68.4 H 14.78946 v -0.529166 h 0.931185 V 68.4"
+       id="path1213"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1215"
+       d="m 14.834806,63.214164 h -2.134805 v -0.529167 h 2.134805 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 14.287501,71.657585 h -1.5875 v -0.529167 h 1.5875 v 0.529167"
+       id="path1217"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1219"
+       d="m 16.933334,66.071668 h -1.121025 v -0.529166 h 1.121025 v 0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 15.893139,63.214164 h -1.058333 v -0.529166 h 1.058333 v 0.529166"
+       id="path1221"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1223"
+       width="6.3499999"
+       height="2.1166666"
+       x="6.3499999"
+       y="64.166664"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1225"
+       width="6.3499999"
+       height="2.1166666"
+       x="16.933332"
+       y="64.166664"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1227"
+       width="6.3499999"
+       height="2.1166666"
+       x="6.3499994"
+       y="72.633331"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1229"
+       width="6.3499999"
+       height="2.1166666"
+       x="16.933332"
+       y="72.633331"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1231"
+       d="M 11.906251,73.427085 H 6.35 v -0.529167 h 5.556251 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.283335,73.427085 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+       id="path1233"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 22.489585,73.427084 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+       id="path1235"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 12.700001,74.485418 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+       id="path1237"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1239"
+       d="M 8.4666669,65.754168 H 6.3500004 v -0.529167 h 2.1166665 v 0.529167"
+       style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.283334,65.754168 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+       id="path1241"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1243"
+       d="M 9.2604171,65.754167 H 8.2020838 v -0.529166 h 1.0583333 v 0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 20.108334,65.225001 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+       id="path1245"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1247"
+       d="M 21.695836,74.485418 H 17.99167 v -0.529167 h 3.704166 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1249"
+       width="6.3499999"
+       height="2.1166666"
+       x="6.3499999"
+       y="68.400002"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1251"
+       width="6.3499999"
+       height="2.1166666"
+       x="16.933332"
+       y="68.400002"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 8.4666669,65.754168 H 6.3500004 v -0.529167 h 2.1166665 v 0.529167"
+       id="path1253"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1255"
+       d="M 9.7895836,69.193751 H 6.3500005 v -0.529167 h 3.4395831 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 7.4083338,69.193751 H 6.3500005 v -0.529166 h 1.0583333 v 0.529166"
+       id="path1257"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1259"
+       d="m 23.283334,69.19375 h -2.116666 v -0.529166 h 2.116666 v 0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1261"
+       d="m 20.372918,69.987501 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 12.700001,70.252084 H 8.7312506 v -0.529167 h 3.9687504 v 0.529167"
+       id="path1263"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1265"
+       d="M 14.625609,76.231667 H 12.7 V 75.7025 h 1.925609 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1267"
+       d="m 14.625609,76.231667 h -0.716025 v -0.529166 h 0.716025 v 0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1269"
+       d="m 16.933333,74.749999 h -1.5875 v -0.529167 h 1.5875 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#4f3f25;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 13.492395,60.991667 -0.792394,1.69333 0.792394,1.68011 -0.792394,1.70656 0.792394,1.6801 -0.792394,1.70657 0.792394,1.6801 -0.792394,1.70656 0.792394,1.68011 -0.792394,1.70656 0.792394,1.6801 h -0.792394 v -1.6801 -3.38667 -3.38666 -3.38667 -3.38667 -1.69333 h 0.792394"
+       id="path1207"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       id="path1209"
+       d="m 16.12557,60.991668 0.807764,1.69333 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.680099 0.807764,1.70657 -0.807764,1.6801 0.807764,1.70656 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.6801 h 0.807764 v -1.6801 -3.38667 -3.38666 -3.386669 -3.38667 -1.69333 H 16.12557"
+       style="fill:#4f3f25;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#666528;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 14.975752,72.681546 h 0.716025 V 72.15238 h -0.716025 v 0.529166"
+       id="path1387"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       y="72.633331"
+       x="-43.391666"
+       height="2.1166666"
+       width="8.2689772"
+       id="rect1273"
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092"
+       transform="scale(-1,1)" />
+    <rect
+       y="72.633331"
+       x="-35.122688"
+       height="2.1166666"
+       width="8.6643581"
+       id="rect1275"
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092"
+       transform="scale(-1,1)" />
+    <rect
+       y="64.166664"
+       x="-43.391666"
+       height="2.1166666"
+       width="8.7873116"
+       id="rect1277"
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092"
+       transform="scale(-1,1)" />
+    <rect
+       y="64.166664"
+       x="-34.604355"
+       height="2.1166666"
+       width="8.1460238"
+       id="rect1279"
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092"
+       transform="scale(-1,1)" />
+    <rect
+       y="60.991665"
+       x="-43.391663"
+       height="16.933334"
+       width="16.933334"
+       id="rect1281"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092"
+       transform="scale(-1,1)" />
+    <rect
+       y="60.991665"
+       x="-35.983326"
+       height="16.933332"
+       width="2.1166658"
+       id="rect1283"
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1285"
+       d="m 34.924993,74.749998 v 3.175 h 0.529167 v -3.175 h -0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1287"
+       d="m 34.924994,66.283333 v 1.058332 h 0.529166 v -1.058332 h -0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.86666,65.754164 v 3.175001 h 0.529167 V 65.754164 H 33.86666"
+       id="path1289"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1291"
+       d="m 35.45416,60.991666 v 3.174999 h 0.529167 V 60.991666 H 35.45416"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.86666,75.014581 v 1.5875 h 0.529166 v -1.5875 H 33.86666"
+       id="path1293"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1295"
+       d="m 34.395827,60.991666 v 1.058333 h 0.529166 v -1.058333 h -0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 37.83541,73.427083 h 5.556251 V 72.897916 H 37.83541 v 0.529167"
+       id="path1297"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1299"
+       d="m 26.458326,73.427083 h 0.79375 v -0.529167 h -0.79375 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1301"
+       d="m 27.252076,73.427082 h 1.852083 v -0.529166 h -1.852083 v 0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1303"
+       d="m 37.04166,74.485416 h 2.38125 v -0.529167 h -2.38125 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 41.274994,65.754166 h 2.116666 v -0.529167 h -2.116666 v 0.529167"
+       id="path1305"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1307"
+       d="m 26.458327,65.754166 h 2.38125 v -0.529167 h -2.38125 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 40.481243,65.754165 h 1.058334 v -0.529166 h -1.058334 v 0.529166"
+       id="path1309"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1311"
+       d="m 31.220827,66.283332 h 2.645833 v -0.529167 h -2.645833 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 28.045825,74.485416 h 3.704166 v -0.529167 h -3.704166 v 0.529167"
+       id="path1313"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1315"
+       d="m 41.274994,65.754166 h 2.116666 v -0.529167 h -2.116666 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 34.924993,67.341665 v 1.852083 h 0.529167 v -1.852083 h -0.529167"
+       id="path1317"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1319"
+       d="m 33.86666,76.072906 v 1.852083 h 0.529167 V 76.072906 H 33.86666"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 35.454159,64.695831 h 2.910417 v -0.529167 h -2.910417 v 0.529167"
+       id="path1321"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1323"
+       d="m 36.777075,65.754164 h 1.587501 v -0.529166 h -1.587501 v 0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.602076,73.162498 h 0.79375 v -0.529167 h -0.79375 v 0.529167"
+       id="path1325"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1327"
+       d="m 33.86666,71.045831 v 1.5875 h 0.529167 v -1.5875 H 33.86666"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 34.924991,70.516667 v 1.058332 h 0.529166 v -1.058332 h -0.529166"
+       id="path1329"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1331"
+       width="8.7873116"
+       height="2.1166666"
+       x="26.458324"
+       y="68.400002" />
+    <rect
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       style="opacity:1;fill:#695431;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1333"
+       width="8.1460238"
+       height="2.1166666"
+       x="35.245636"
+       y="68.400002" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1335"
+       d="m 28.574993,69.9875 h -2.116666 v -0.529167 h 2.116666 V 69.9875"
+       style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 43.39166,69.9875 h -2.38125 v -0.529167 h 2.38125 V 69.9875"
+       id="path1337"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1339"
+       d="M 29.368744,69.987499 H 28.31041 v -0.529166 h 1.058334 v 0.529166"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 38.62916,70.516666 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+       id="path1341"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 28.574993,69.9875 h -2.116666 v -0.529167 h 2.116666 V 69.9875"
+       id="path1343"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1345"
+       d="m 34.395828,68.929165 h -2.910417 v -0.529167 h 2.910417 v 0.529167"
+       style="fill:#856b3e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092" />
+    <path
+       inkscape:export-ydpi="96.000092"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_junglewood.png"
+       inkscape:connector-curvature="0"
+       style="fill:#997c47;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.072912,69.987498 h -1.587501 v -0.529166 h 1.587501 v 0.529166"
+       id="path1347"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       y="77.925003"
+       x="-3.175"
+       height="4.7624998"
+       width="5.2916665"
+       id="rect1400"
+       style="opacity:1;fill:#7a4f26;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#63401f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1402"
+       width="5.2916665"
+       height="4.7624998"
+       x="-3.175"
+       y="82.687492" />
+    <rect
+       y="87.45002"
+       x="-3.175"
+       height="4.7624998"
+       width="5.2916665"
+       id="rect1404"
+       style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#332110;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1406"
+       width="5.2916665"
+       height="4.7624998"
+       x="-3.175"
+       y="92.212509" />
+    <g
+       id="g1671"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_pine_wood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="80.041664"
+         x="6.3499994"
+         height="16.933334"
+         width="16.933334"
+         id="rect1432"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="80.041664"
+         x="12.7"
+         height="16.933332"
+         width="4.2333331"
+         id="rect1434"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         id="path1436"
+         d="M 13.492394,80.041668 12.7,81.734997 13.492394,83.415107 12.7,85.121668 13.492394,86.801767 12.7,88.508337 l 0.792394,1.6801 -0.792394,1.70656 0.792394,1.68011 -0.792394,1.70656 0.792394,1.6801 H 12.7 v -1.6801 -3.38667 -3.38666 -3.386669 -3.386671 -1.69333 h 0.792394"
+         style="fill:#332110;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#332110;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 16.125569,80.041668 0.807764,1.69333 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.680099 0.807764,1.70657 -0.807764,1.6801 0.807764,1.70656 -0.807764,1.68011 0.807764,1.70656 -0.807764,1.6801 h 0.807764 v -1.6801 -3.38667 -3.38666 -3.386669 -3.38667 -1.69333 h -0.807764"
+         id="path1438"
+         sodipodi:nodetypes="ccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1440"
+         d="M 14.816667,88.508333 V 96.975 H 14.2875 v -8.466667 h 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1442"
+         d="m 14.816666,85.333334 v 3.175 H 14.2875 v -3.175 h 0.529166"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 15.875,83.745834 v 8.466667 H 15.345833 V 83.745834 H 15.875"
+         id="path1444"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1446"
+         d="m 14.2875,80.041668 v 4.497916 H 13.758333 V 80.041668 H 14.2875"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 15.874999,92.212501 v 2.38125 h -0.529166 v -2.38125 h 0.529166"
+         id="path1448"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1450"
+         d="m 15.345833,80.041668 v 1.058333 h -0.529166 v -1.058333 h 0.529166"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         y="83.216667"
+         x="6.3499994"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect1452"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="83.216667"
+         x="16.933332"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect1454"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="91.683334"
+         x="6.349999"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect1456"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="91.683334"
+         x="16.933332"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect1458"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 11.90625,92.477085 H 6.3499994 V 91.947918 H 11.90625 v 0.529167"
+         id="path1460"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1462"
+         d="m 23.283334,92.477085 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1464"
+         d="m 22.489584,92.477084 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1466"
+         d="M 12.7,93.535418 H 10.31875 V 93.006251 H 12.7 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 8.4666663,84.804168 H 6.3499998 v -0.529167 h 2.1166665 v 0.529167"
+         id="path1468"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1470"
+         d="m 23.283333,84.804168 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 9.2604165,84.804167 H 8.2020832 v -0.529166 h 1.0583333 v 0.529166"
+         id="path1472"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1474"
+         d="M 20.108333,84.275001 H 17.4625 v -0.529167 h 2.645833 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 21.695835,93.535418 h -3.704166 v -0.529167 h 3.704166 v 0.529167"
+         id="path1476"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         y="87.450005"
+         x="6.3499994"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect1478"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_wood.png"
+         y="87.450005"
+         x="16.933332"
+         height="2.1166666"
+         width="6.3499999"
+         id="rect1480"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1482"
+         d="M 8.4666663,84.804168 H 6.3499998 v -0.529167 h 2.1166665 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 9.789583,88.243751 H 6.3499999 V 87.714584 H 9.789583 v 0.529167"
+         id="path1484"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1486"
+         d="M 7.4083332,88.243751 H 6.3499999 v -0.529166 h 1.0583333 v 0.529166"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 23.283333,88.24375 h -2.116666 v -0.529166 h 2.116666 v 0.529166"
+         id="path1488"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 20.372917,89.037501 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+         id="path1490"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1492"
+         d="M 12.7,89.302084 H 8.73125 V 88.772917 H 12.7 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_acacia_tree.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g1710"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_pine_wood.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1496"
+         width="8.2689772"
+         height="2.1166666"
+         x="26.458326"
+         y="91.670105" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1498"
+         width="8.6643581"
+         height="2.1166666"
+         x="34.727306"
+         y="91.670105" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1500"
+         width="8.7873116"
+         height="2.1166666"
+         x="26.458328"
+         y="83.203438" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1502"
+         width="8.1460238"
+         height="2.1166666"
+         x="35.24564"
+         y="83.203438" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1504"
+         width="16.933334"
+         height="16.933334"
+         x="26.45833"
+         y="80.028435" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1506"
+         width="2.1166658"
+         height="16.933332"
+         x="33.866669"
+         y="80.028435" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 34.924998,93.786768 v 3.175 h -0.529167 v -3.175 h 0.529167"
+         id="path1508"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 34.924997,85.320103 v 1.058332 h -0.529166 v -1.058332 h 0.529166"
+         id="path1510"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1512"
+         d="m 35.983331,84.790934 v 3.175001 h -0.529167 v -3.175001 h 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 34.395831,80.028436 v 3.174999 h -0.529167 v -3.174999 h 0.529167"
+         id="path1514"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1516"
+         d="m 35.983331,94.051351 v 1.5875 h -0.529166 v -1.5875 h 0.529166"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 35.454164,80.028436 v 1.058333 h -0.529166 v -1.058333 h 0.529166"
+         id="path1518"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1520"
+         d="M 32.014581,92.463853 H 26.45833 v -0.529167 h 5.556251 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.391665,92.463853 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         id="path1522"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 42.597915,92.463852 h -1.852083 v -0.529166 h 1.852083 v 0.529166"
+         id="path1524"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 32.808331,93.522186 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+         id="path1526"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1528"
+         d="m 28.574997,84.790936 h -2.116666 v -0.529167 h 2.116666 v 0.529167"
+         style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.391664,84.790936 h -2.38125 v -0.529167 h 2.38125 v 0.529167"
+         id="path1530"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1532"
+         d="m 29.368748,84.790935 h -1.058334 v -0.529166 h 1.058334 v 0.529166"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 38.629164,85.320102 h -2.645833 v -0.529167 h 2.645833 v 0.529167"
+         id="path1534"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1536"
+         d="M 41.804166,93.522186 H 38.1 v -0.529167 h 3.704166 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 28.574997,84.790936 h -2.116666 v -0.529167 h 2.116666 v 0.529167"
+         id="path1538"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1540"
+         d="m 34.924998,86.378435 v 1.852083 h -0.529167 v -1.852083 h 0.529167"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 35.983331,95.109676 v 1.852083 h -0.529167 v -1.852083 h 0.529167"
+         id="path1542"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1544"
+         d="m 34.395832,83.732601 h -2.910417 v -0.529167 h 2.910417 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 33.072916,84.790934 h -1.587501 v -0.529166 h 1.587501 v 0.529166"
+         id="path1546"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1548"
+         d="m 36.247915,92.199268 h -0.79375 v -0.529167 h 0.79375 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 35.983331,90.082601 v 1.5875 h -0.529167 v -1.5875 h 0.529167"
+         id="path1550"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1552"
+         d="M 30.427081,93.522186 H 29.3499 v -0.529167 h 1.077181 v 0.529167"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         transform="scale(-1,1)"
+         y="87.436768"
+         x="-43.39167"
+         height="2.1166666"
+         width="8.2689772"
+         id="rect1554"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         transform="scale(-1,1)"
+         y="87.436768"
+         x="-35.122692"
+         height="2.1166666"
+         width="8.6643581"
+         id="rect1556"
+         style="opacity:1;fill:#4c3118;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 37.835413,88.230517 h 5.556251 V 87.70135 h -5.556251 v 0.529167"
+         id="path1558"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1560"
+         d="m 26.458329,88.230517 h 0.79375 V 87.70135 h -0.79375 v 0.529167"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1562"
+         d="m 27.252079,88.230516 h 1.852083 V 87.70135 h -1.852083 v 0.529166"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1564"
+         d="m 37.041663,89.28885 h 2.38125 v -0.529167 h -2.38125 v 0.529167"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#63401f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 28.045828,89.28885 h 3.704166 v -0.529167 h -3.704166 v 0.529167"
+         id="path1566"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_fence_rail_wood.png"
+         inkscape:connector-curvature="0"
+         style="fill:#7a4f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 39.422913,89.28885 h 1.077181 v -0.529167 h -1.077181 v 0.529167"
+         id="path1568"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1959 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="35.983334mm"
+   height="135.46666mm"
+   viewBox="0 0 35.983334 135.46666"
+   version="1.1"
+   id="svg976"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="fire_all.svg">
+  <defs
+     id="defs970" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1519801"
+     inkscape:cx="63.008308"
+     inkscape:cy="-78.343475"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="4.0766907e-08,101.6"
+       orientation="0,1"
+       id="guide1563"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.933334,101.60001"
+       orientation="1,0"
+       id="guide1589"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.050001,101.60001"
+       orientation="1,0"
+       id="guide1593"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="35.983329,101.6"
+       orientation="1,0"
+       id="guide1611"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="38.099995,101.6"
+       orientation="1,0"
+       id="guide1613"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata973">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.0766907e-8,-4.4060745)">
+    <g
+       transform="translate(-1.5648822,-44.251406)"
+       id="g5649"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="65.590813"
+         x="1.5648822"
+         height="16.933332"
+         width="16.933334"
+         id="rect5492"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5550"
+         d="m 7.0923355,82.486059 -4.9288923,-5.056721 3.1111361,-4.325087 0.050186,-2.532709 1.1541331,3.117181 -0.3512621,3.117179 1.6057407,-2.688567 -0.9534119,-4.208194 2.5591687,-3.818547 -0.5207044,4.167656 1.4239356,3.391509 1.756283,-2.29892 -0.752691,-2.454781 1.505382,2.259956 -0.501789,3.000287 1.304675,1.597554 -0.150543,-3.156146 2.057365,-1.948238 -0.250902,2.727533 1.50538,5.182314 -3.763467,3.935443 z"
+         style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5552"
+         d="m 8.4936755,82.481094 -2.9220882,-4.114653 2.9346944,-3.269664 -0.097705,-1.814402 1.5148272,1.92549 -1.2705162,1.851429 1.0842727,1.208391 1.9454276,-1.023248 -2.1501159,-3.925033 1.4171209,-2.592004 -0.09774,2.554975 4.007022,4.665606 -2.00745,4.540727 z"
+         style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5554"
+         d="m 9.5620661,79.108685 -0.9511967,1.652206 1.6057566,1.727817 2.057364,-0.661719 0.903231,-2.830684 -0.954356,-1.766384 -0.09942,1.950194 -1.254494,1.61754 -1.0537729,-0.374235 z"
+         style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 13.211162,69.802377 14.679981,69.115285 14.530944,70.7274 13.211162,69.802377"
+         id="path5591"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5593"
+         d="m 10.726106,66.836775 1.025411,0.304895 -0.779999,0.729639 -0.245411,-1.034533"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5595"
+         d="M 2.8997112,72.251822 4.4009304,72.864901 3.1153676,73.849003 2.8997112,72.251822"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:transform-center-y="1.1065391"
+         inkscape:transform-center-x="0.55326953"
+         inkscape:connector-curvature="0"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 6.4136224,67.324006 0.018381,1.069622 -0.9308199,-0.52378 0.9124383,-0.54584"
+         id="path5597"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5599"
+         d="m 4.5329449,70.08651 -0.010724,-1.069726 0.9270468,0.53043 -0.9163222,0.539295"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5601"
+         d="m 6.0186162,75.538432 0.018381,1.069622 -0.9308199,-0.52378 0.9124383,-0.54584"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="0.55326953"
+         inkscape:transform-center-y="1.1065391" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5603"
+         d="m 8.8173392,71.311407 -0.2400963,1.299106 -0.9981347,-0.86225 1.238231,-0.436856"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:transform-center-y="0.0018606"
+         inkscape:transform-center-x="-1.063543"
+         inkscape:connector-curvature="0"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 14.164324,75.621625 0.986427,-0.413994 -0.140963,1.058727 -0.845461,-0.644732"
+         id="path5605"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5607"
+         d="M 4.443208,77.609667 5.256919,77.355865 5.0650765,78.18497 4.4432114,77.60967"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-0.86781035"
+         inkscape:transform-center-y="0.11383129" />
+      <path
+         inkscape:transform-center-y="0.16447093"
+         inkscape:transform-center-x="-1.2538757"
+         inkscape:connector-curvature="0"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 7.4008272,79.351648 1.175709,-0.366712 -0.2771881,1.197951 -0.898516,-0.831235"
+         id="path5609"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5611"
+         d="m 12.083524,75.900938 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-0.8731402"
+         inkscape:transform-center-y="0.49842529" />
+      <path
+         inkscape:transform-center-y="0.49842529"
+         inkscape:transform-center-x="-0.8731402"
+         inkscape:connector-curvature="0"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 10.362241,78.667286 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+         id="path5613"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5615"
+         d="M 7.3929114,77.743752 8.2426388,77.676639 7.8717799,78.442592 7.3929138,77.743754"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-0.88475125"
+         inkscape:transform-center-y="0.37229129" />
+      <path
+         inkscape:transform-center-y="0.47717229"
+         inkscape:transform-center-x="-0.87743445"
+         inkscape:connector-curvature="0"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 7.661057,69.738678 0.8520724,0.02266 -0.4493872,0.722683 -0.402683,-0.745341"
+         id="path5617"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1595"
+       width="16.933332"
+       height="16.933332"
+       x="19.049999"
+       y="21.339409"
+       ry="0.20071855"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="0.20071855"
+       y="4.4060745"
+       x="19.049999"
+       height="16.933332"
+       width="16.933332"
+       id="rect1597"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1599"
+       width="16.933332"
+       height="16.933332"
+       x="19.049999"
+       y="38.272743"
+       ry="0.20071855"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="0.20071855"
+       y="55.206078"
+       x="19.049999"
+       height="16.933332"
+       width="16.933332"
+       id="rect1601"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1603"
+       width="16.933332"
+       height="16.933332"
+       x="19.049999"
+       y="72.139412"
+       ry="0.20071855"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="0.20071855"
+       y="89.072746"
+       x="19.049999"
+       height="16.933332"
+       width="16.933332"
+       id="rect1605"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1607"
+       width="16.933332"
+       height="16.933332"
+       x="19.049999"
+       y="106.00608"
+       ry="0.20071855"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="0.20071855"
+       y="122.93941"
+       x="19.049999"
+       height="16.933332"
+       width="16.933332"
+       id="rect1609"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1690"
+       transform="translate(1.1906215,0.65751197)"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 23.978893,20.673193 -4.928892,-5.056721 3.111136,-4.325087 0.05019,-2.532709 1.154133,3.117181 -0.351262,3.117179 1.605741,-2.688567 -0.953412,-4.208194 2.559169,-3.818547 -0.520705,4.167656 1.423936,3.391509 1.756283,-2.29892 -0.752691,-2.454781 1.505382,2.259956 -0.501789,3.000287 1.304675,1.597554 -0.150543,-3.156146 2.057365,-1.948238 -0.250902,2.727533 1.50538,5.182314 -3.763467,3.935443 z"
+         id="path1619"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccc" />
+      <path
+         style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 25.380234,20.668228 -2.922089,-4.114653 2.934695,-3.269664 -0.09771,-1.814402 1.514827,1.92549 -1.270516,1.851429 1.084272,1.208391 1.945428,-1.023248 -2.150116,-3.925033 1.417121,-2.592004 -0.09774,2.554975 4.007022,4.665606 -2.00745,4.540727 z"
+         id="path1621"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 26.448624,17.295819 -0.951197,1.652206 1.605757,1.727817 2.057364,-0.661719 0.903231,-2.830684 -0.954356,-1.766384 -0.09942,1.950194 -1.254494,1.61754 -1.053773,-0.374235 z"
+         id="path1623"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1625"
+         d="M 30.09772,7.989511 31.566539,7.302419 31.417502,8.914534 30.09772,7.989511"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 27.612664,5.023909 28.638075,5.328804 27.858076,6.058443 27.612665,5.02391"
+         id="path1627"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 19.786269,10.438956 1.501219,0.613079 -1.285562,0.984102 -0.215657,-1.597181"
+         id="path1629"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1631"
+         d="m 23.30018,5.51114 0.01838,1.069622 -0.930819,-0.52378 0.912438,-0.54584"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="0.55326953"
+         inkscape:transform-center-y="1.1065391" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 21.419503,8.273644 -0.01072,-1.069726 0.927047,0.53043 -0.916322,0.539295"
+         id="path1633"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:transform-center-y="1.1065391"
+         inkscape:transform-center-x="0.55326953"
+         inkscape:connector-curvature="0"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 22.905174,13.725566 0.01838,1.069622 -0.93082,-0.52378 0.912439,-0.54584"
+         id="path1635"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 25.703897,9.498541 -0.240096,1.299106 -0.998135,-0.86225 1.238231,-0.436856"
+         id="path1637"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1639"
+         d="m 31.050882,13.808759 0.986427,-0.413994 -0.140963,1.058727 -0.845461,-0.644732"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-1.063543"
+         inkscape:transform-center-y="0.0018606" />
+      <path
+         inkscape:transform-center-y="0.11383129"
+         inkscape:transform-center-x="-0.86781035"
+         inkscape:connector-curvature="0"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 21.329766,15.796801 0.813711,-0.253802 -0.191843,0.829105 -0.621865,-0.5753"
+         id="path1641"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1643"
+         d="M 24.287385,17.538782 25.463094,17.17207 25.185906,18.370021 24.28739,17.538786"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-1.2538757"
+         inkscape:transform-center-y="0.16447093" />
+      <path
+         inkscape:transform-center-y="0.49842529"
+         inkscape:transform-center-x="-0.8731402"
+         inkscape:connector-curvature="0"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 28.970082,14.088072 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+         id="path1645"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1647"
+         d="m 27.248799,16.85442 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-0.8731402"
+         inkscape:transform-center-y="0.49842529" />
+      <path
+         inkscape:transform-center-y="0.37229129"
+         inkscape:transform-center-x="-0.88475125"
+         inkscape:connector-curvature="0"
+         style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 24.279469,15.930886 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+         id="path1649"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1651"
+         d="M 24.547615,7.925812 25.399687,7.948472 24.9503,8.671155 24.547617,7.925814"
+         style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-0.87743445"
+         inkscape:transform-center-y="0.47717229" />
+    </g>
+    <path
+       style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.169514,38.264039 -4.928892,-5.056721 2.372164,-5.02059 0.09366,-2.92393 1.849636,3.117181 0.03996,3.247586 1.21452,-1.73225 -0.866474,-3.164939 0.603066,-4.035892 1.435395,4.385001 1.336998,2.348254 0.886904,-1.86423 1.551164,-1.976623 -0.885411,2.607708 0.454528,1.261528 1.304675,1.38021 0.15374,-2.851864 1.709613,-2.643741 -0.207434,3.336098 1.505381,5.660473 -3.763467,3.935443 z"
+       id="path1692"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.570855,38.259074 -1.450792,-0.0267 -2.210269,-3.783674 0.226543,-3.684931 1.183098,2.313554 1.829337,-2.20257 0.293511,-2.379498 1.558296,2.490586 -0.594298,1.789955 0.899848,1.392814 1.453633,-1.146197 -0.367889,-2.186275 1.417122,-2.592004 -0.09774,2.554975 2.655117,2.988322 -2.437772,4.479253 z"
+       id="path1694"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.117831,34.886665 -0.386101,1.739144 0.953723,1.59741 3.274495,-0.0097 0.859762,-2.395995 -0.954356,-1.766384 -0.09942,1.950194 -1.81959,-2.859763 -1.010305,3.146751 z"
+       id="path1696"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1698"
+       d="m 31.697057,23.038588 1.294866,0.976138 -1.494258,0.623154 0.199392,-1.599292"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-y="0.91284816"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 28.238189,25.005548 29.2636,25.310443 28.483601,26.040082 28.23819,25.005549"
+       id="path1700"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 21.605763,26.04391 0.833643,1.390887 -1.618905,0.01654 0.785262,-1.40743"
+       id="path1702"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 22.63904,23.616318 1.05553,-0.174028 -0.382568,0.997204 -0.67296,-0.823171"
+       id="path1706"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="-1.0848989"
+       inkscape:transform-center-x="-0.66632047"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.120251,29.93053 0.1192,-1.063118 0.855808,0.639033 -0.975007,0.424084"
+       id="path1708"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 27.064295,28.166574 -1.316675,0.108108 0.571114,-1.188939 0.745561,1.080831"
+       id="path1710"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1712"
+       d="m 32.241503,31.399605 0.986427,-0.413994 -0.140963,1.058727 -0.845461,-0.644732"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-1.063543"
+       inkscape:transform-center-y="0.0018606"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.11383129"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 21.694477,31.475013 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       id="path1714"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1716"
+       d="m 24.956378,32.869242 1.175709,-0.366712 -0.277188,1.197951 -0.898516,-0.831235"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-1.2538757"
+       inkscape:transform-center-y="0.16447093"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 30.160703,31.678918 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       id="path1718"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1720"
+       d="m 28.135137,31.706721 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.905208,34.130297 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       id="path1722"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1724"
+       d="m 26.042519,23.386679 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.649587,28.950706 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1751"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1753"
+       d="m 25.169515,55.197374 -4.928892,-5.056721 0.343509,-4.959116 3.044431,-3.231302 -0.793763,3.363079 1.761243,3.247586 1.21452,-1.73225 0.178591,-3.103465 -0.07315,-2.744929 2.111614,3.155513 0.291933,2.225305 0.886904,-1.86423 1.551164,-1.976623 -0.45509,2.607708 0.02421,1.261528 1.304675,1.38021 0.15374,-2.23712 1.832562,-2.274895 -0.330383,3.090201 1.505381,4.92278 -3.763467,3.935443 z"
+       style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1755"
+       d="m 26.570856,55.192409 -1.450792,-0.0267 -2.702064,-4.091046 -0.388201,-4.176727 2.289637,3.112722 2.198183,-2.940263 -0.01386,-3.731934 1.558296,4.150394 -1.33199,2.28175 1.084271,1.208391 1.146261,-2.683057 2.152561,2.055458 1.785968,-3.760017 1.193223,3.661514 -0.480078,1.69736 -2.683669,3.249765 z"
+       style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1757"
+       d="m 25.748986,49.545447 -0.754948,2.968632 1.691416,2.642475 3.274495,-0.0097 1.966301,-2.457469 -0.58551,-3.057347 -1.820703,2.87231 -1.573692,-1.261429 -1.194728,0.933673 z"
+       style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.91284816"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 30.713468,39.910449 1.294866,0.976138 -1.494258,0.623154 0.199392,-1.599292"
+       id="path1759"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1761"
+       d="m 27.131651,40.586446 1.025411,0.304895 -0.779999,0.729639 -0.245411,-1.034533"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1763"
+       d="m 23.883341,40.151184 1.296688,-0.97372 0.184747,1.608414 -1.481438,-0.634694"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1765"
+       d="m 21.116863,42.072546 0.929659,0.529306 -0.925035,0.533933 -0.0046,-1.063233"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1769"
+       d="m 31.177779,47.841249 -0.444309,1.24415 -0.847763,-1.010467 1.292072,-0.233683"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.0018606"
+       inkscape:transform-center-x="-1.063543"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 32.241504,48.33294 0.986427,-0.413994 -0.140963,1.058727 -0.845461,-0.644732"
+       id="path1771"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1773"
+       d="m 21.141208,45.826424 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:transform-center-y="0.11383129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.16447093"
+       inkscape:transform-center-x="-1.2538757"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 26.185867,48.142768 1.175709,-0.366712 -0.277188,1.197951 -0.898516,-0.831235"
+       id="path1775"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1777"
+       d="m 29.300063,49.841741 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 28.749882,46.795824 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       id="path1779"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1781"
+       d="m 23.966683,50.387414 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:transform-center-y="0.37229129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.583544,44.192901 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1783"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1785"
+       d="m 33.526639,41.580834 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 32.204252,51.063632 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       id="path1787"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.11383129"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 32.145125,45.150206 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       id="path1789"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 30.944715,43.732438 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1791"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.169512,72.130708 -4.928892,-5.056721 0.22056,-3.299307 1.015776,-4.583739 1.111943,4.039297 2.007141,2.263996 1.21452,-1.73225 -0.957781,-2.899227 1.638336,-2.527584 0.130047,3.12643 1.575437,1.463959 0.641007,-3.95436 2.657703,-2.099571 -1.00836,3.3454 0.516005,2.982811 0.628457,1.503159 0.461112,-1.560902 2.016985,-1.844574 -0.514806,2.721355 1.198009,4.185087 -3.763467,3.935443 z"
+       id="path1793"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.570853,72.125743 -1.450792,-0.0267 -3.501231,-5.013162 2.0093,-3.193137 0.691303,3.051248 1.890811,-2.20257 0.293512,-2.748344 1.373873,2.675009 0.696665,2.589122 0.346578,-3.463663 1.26921,-2.744532 -0.239617,3.329204 1.16269,2.906513 1.11458,-1.023204 0.97876,-2.675339 0.885851,3.60004 -0.480078,1.69736 -2.683669,3.249765 z"
+       id="path1795"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.54815,66.232883 -1.861487,2.907158 1.998788,2.949847 3.274495,-0.0097 0.754118,-1.854003 1.396606,-1.279684 -1.5691,0.26227 -1.205959,1.028078 -2.004013,-0.277839 -1.194728,-0.910558 z"
+       id="path1797"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1799"
+       d="m 31.942953,56.474937 1.294866,0.976138 -1.494258,0.623154 0.199392,-1.599292"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-y="0.91284816"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 25.779211,57.089459 1.025411,0.304895 -0.779999,0.729639 -0.245411,-1.034533"
+       id="path1801"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.084171,62.00247 1.296688,-0.97372 0.184747,1.608414 -1.481438,-0.634694"
+       id="path1803"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 20.809487,57.837867 0.991133,0.529306 -0.986204,0.533933 -0.0049,-1.063233"
+       id="path1805"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 22.325463,64.03689 -0.444309,1.24415 -0.847763,-1.010467 1.292072,-0.233683"
+       id="path1807"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1809"
+       d="m 30.950539,65.389223 0.986427,-0.413994 -0.140963,1.058727 -0.845461,-0.644732"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-1.063543"
+       inkscape:transform-center-y="0.0018606"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.11383129"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 25.321464,60.977001 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       id="path1811"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1813"
+       d="m 27.230929,68.088347 1.175709,-0.366712 -0.277188,1.197951 -0.898516,-0.831235"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-1.2538757"
+       inkscape:transform-center-y="0.16447093"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 29.85333,67.82014 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       id="path1815"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1817"
+       d="m 27.766289,63.298837 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 22.675718,66.828953 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       id="path1819"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1821"
+       d="m 22.477002,60.08117 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 34.018431,63.309171 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1823"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1825"
+       d="m 32.63457,65.845362 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:transform-center-y="0.37229129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1827"
+       d="m 29.3173,59.56309 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:transform-center-y="0.11383129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1829"
+       d="m 33.034841,59.682182 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1831"
+       d="m 26.794502,64.861772 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:transform-center-y="0.37229129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1833"
+       d="m 29.177112,65.791485 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 27.886749,56.57713 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1835"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1837"
+       d="m 24.830589,89.070099 -4.928892,-5.056721 1.450048,-3.422256 -0.644033,-2.954667 2.157008,2.164328 1.392397,2.632842 1.21452,-1.73225 -0.09714,-2.622592 0.746958,-2.250949 0.744791,2.450211 0.99143,1.586908 0.425847,-3.95436 1.950747,-2.376206 -0.608776,3.191714 0.393056,2.460279 1.273938,2.456012 0.461112,-1.560902 2.016985,-1.844574 -0.514806,2.721355 1.198009,4.185087 -3.763467,3.935443 z"
+       style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1839"
+       d="m 26.23193,89.065134 -1.450792,-0.0267 -2.794275,-4.029572 0.533914,-3.193137 1.459733,2.067658 2.198183,-0.880871 0.07835,-0.01273 -0.101513,-0.02987 0.02044,0.0072 1.145745,-1.250585 -0.82092,-2.683057 3.110738,2.284139 1.16269,2.906513 1.022368,-1.146153 1.286132,-0.892581 -0.681746,1.602122 0.103929,2.988322 -2.253348,2.296912 z"
+       style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1841"
+       d="m 25.655957,84.647659 -1.154531,2.138729 0.861512,2.242891 4.258085,-0.0097 1.768445,-1.761791 -0.355414,-1.832954 -1.01583,1.522495 -1.021536,0.228911 -1.604429,-1.722487 -1.133254,0.933674 z"
+       style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.91284816"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 30.927812,77.133529 1.294866,0.976138 -1.494258,0.623154 0.199392,-1.599292"
+       id="path1843"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1845"
+       d="m 25.839871,72.737888 1.025411,0.304895 -0.779999,0.729639 -0.245411,-1.034533"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1847"
+       d="m 22.099767,75.191923 1.296688,-0.97372 0.184747,1.608414 -1.481438,-0.634694"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1849"
+       d="m 23.206174,78.15835 0.991133,0.529306 -0.986204,0.533933 -0.0049,-1.063233"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1851"
+       d="m 22.214961,79.550962 -0.801679,0.365614 0.08944,-0.875148 0.712236,0.509534"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.0018606"
+       inkscape:transform-center-x="-1.063543"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 25.447766,80.883966 0.986427,-0.413994 -0.140963,1.058727 -0.845461,-0.644732"
+       id="path1853"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1855"
+       d="m 32.45168,79.852835 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:transform-center-y="0.11383129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.16447093"
+       inkscape:transform-center-x="-1.2538757"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 25.355146,83.460141 1.175709,-0.366712 -0.277188,1.197951 -0.898516,-0.831235"
+       id="path1857"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1859"
+       d="m 29.391459,85.251326 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 27.427366,80.238228 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       id="path1861"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1863"
+       d="m 23.105225,84.813409 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:transform-center-y="0.37229129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 20.754905,73.362835 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1865"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1867"
+       d="m 33.802457,77.267054 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 28.023177,81.678214 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       id="path1869"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.11383129"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 29.408698,80.098733 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       id="path1871"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 31.743065,73.025321 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1873"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 27.10106,84.475299 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       id="path1875"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.3903884"
+       inkscape:transform-center-x="-0.68388816"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 31.604537,84.032494 0.666439,0.03973 -0.370447,0.554134 -0.29599,-0.593868"
+       id="path1877"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1879"
+       d="m 26.963819,76.436555 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 21.2513,82.339626 0.178201,0.862906 -0.833351,-0.281797 0.655149,-0.581106"
+       id="path1881"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="3.7520669"
+       inkscape:transform-center-y="-0.1504892"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1883"
+       width="16.933332"
+       height="16.933332"
+       x="19.049999"
+       y="89.072746"
+       ry="0.20071855"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1885"
+       d="m 25.169509,105.99737 -4.928892,-5.05672 0.22056,-3.299303 1.015776,-4.583739 1.111943,4.039297 2.007141,2.263996 1.21452,-1.73225 -0.957781,-2.899227 1.638336,-2.527584 0.130047,3.12643 1.575437,1.463959 0.641007,-3.95436 2.657703,-2.099571 -1.00836,3.3454 0.516005,2.982811 0.628457,1.503159 0.461112,-1.560902 2.016985,-1.844574 -0.514806,2.721355 1.198009,4.185083 -3.763467,3.93545 z"
+       style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1887"
+       d="m 26.57085,105.99241 -1.450792,-0.0267 -3.501231,-5.01316 2.0093,-3.193139 0.691303,3.051249 1.890811,-2.202571 0.293512,-2.748344 1.373873,2.675009 0.696665,2.589126 0.346578,-3.463667 1.26921,-2.744532 -0.239617,3.329204 1.16269,2.906515 1.11458,-1.02321 0.97876,-2.675335 0.885851,3.600035 -0.480078,1.69736 -2.683669,3.24977 z"
+       style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1889"
+       d="m 26.548147,100.09955 -1.861487,2.90716 1.998788,2.94984 3.274495,-0.01 0.754118,-1.854 1.396606,-1.27968 -1.5691,0.26227 -1.205959,1.02808 -2.004013,-0.27784 -1.194728,-0.91056 z"
+       style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.91284816"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 31.94295,90.341604 1.294866,0.976138 -1.494258,0.623154 0.199392,-1.599292"
+       id="path1891"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1893"
+       d="m 25.779208,90.956126 1.025411,0.304895 -0.779999,0.729639 -0.245411,-1.034533"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1895"
+       d="m 23.084168,95.869137 1.296688,-0.97372 0.184747,1.608414 -1.481438,-0.634694"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1897"
+       d="m 20.809484,91.704534 0.991133,0.529306 -0.986204,0.533933 -0.0049,-1.063233"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1899"
+       d="m 22.32546,97.903557 -0.444309,1.24415 -0.847763,-1.010467 1.292072,-0.233683"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.0018606"
+       inkscape:transform-center-x="-1.063543"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="M 30.950536,99.25589 31.936963,98.841896 31.796,99.900623 30.950539,99.255891"
+       id="path1901"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1903"
+       d="m 25.321461,94.843668 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:transform-center-y="0.11383129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.16447093"
+       inkscape:transform-center-x="-1.2538757"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 27.230926,101.95501 1.175709,-0.36671 -0.277188,1.19795 -0.898516,-0.83123"
+       id="path1905"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1907"
+       d="m 29.853327,101.68681 0.850862,0.0507 -0.47296,0.70748 -0.3779,-0.75821"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 27.766286,97.165504 0.850862,0.05073 -0.47296,0.707479 -0.3779,-0.758208"
+       id="path1909"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1911"
+       d="m 22.675715,100.69562 0.849728,-0.0671 -0.370859,0.76595 -0.478866,-0.69884"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:transform-center-y="0.37229129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 22.476999,93.947837 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1913"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1915"
+       d="M 34.018428,97.175838 34.8705,97.198498 34.421113,97.921181 34.01843,97.17584"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 32.634567,99.712029 0.849728,-0.06711 -0.370859,0.765951 -0.478866,-0.698836"
+       id="path1917"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.11383129"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 29.317297,93.429757 0.813711,-0.253802 -0.191843,0.829105 -0.621864,-0.5753"
+       id="path1919"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.034838,93.548849 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       id="path1921"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 26.794499,98.728439 0.849728,-0.06711 -0.370859,0.765953 -0.478866,-0.698838"
+       id="path1923"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 29.177109,99.658152 0.850862,0.05073 -0.47296,0.707478 -0.3779,-0.758207"
+       id="path1925"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1927"
+       d="m 27.886746,90.443797 0.852072,0.02266 -0.449387,0.722683 -0.402683,-0.745341"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.169512,122.93071 -4.928892,-5.05673 0.343509,-4.95911 3.044431,-3.2313 -0.793763,3.36308 1.761243,3.24758 1.21452,-1.73225 0.178591,-3.10346 -0.07315,-2.74493 2.111614,3.15551 0.291933,2.22531 0.886904,-1.86423 1.551164,-1.97663 -0.45509,2.60771 0.02421,1.26153 1.304675,1.38021 0.15374,-2.23712 1.832562,-2.2749 -0.330383,3.0902 1.505381,4.92278 -3.763467,3.93545 z"
+       id="path1929"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.570853,122.92574 -1.450792,-0.0267 -2.702064,-4.09105 -0.388201,-4.17672 2.289637,3.11272 2.198183,-2.94026 -0.01386,-3.73194 1.558296,4.1504 -1.33199,2.28175 1.084271,1.20839 1.146261,-2.68306 2.152561,2.05546 1.785968,-3.76002 1.193223,3.66152 -0.480078,1.69736 -2.683669,3.24976 z"
+       id="path1931"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.748983,117.27878 -0.754948,2.96863 1.691416,2.64248 3.274495,-0.01 1.966301,-2.45747 -0.58551,-3.05735 -1.820703,2.87231 -1.573692,-1.26143 -1.194728,0.93367 z"
+       id="path1933"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1935"
+       d="m 30.713465,107.64378 1.294866,0.97614 -1.494258,0.62315 0.199392,-1.59929"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-y="0.91284816"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 27.131648,108.31978 1.025411,0.30489 -0.779999,0.72964 -0.245411,-1.03453"
+       id="path1937"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.883338,107.88452 1.296688,-0.97372 0.184747,1.60841 -1.481438,-0.63469"
+       id="path1939"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 21.11686,109.80588 0.929659,0.5293 -0.925035,0.53394 -0.0046,-1.06324"
+       id="path1941"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 31.177776,115.57458 -0.444309,1.24415 -0.847763,-1.01047 1.292072,-0.23368"
+       id="path1943"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1945"
+       d="m 32.241501,116.06627 0.986427,-0.41399 -0.140963,1.05872 -0.845461,-0.64473"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-1.063543"
+       inkscape:transform-center-y="0.0018606"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.11383129"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 21.141205,113.55976 0.813711,-0.25381 -0.191843,0.82911 -0.621864,-0.5753"
+       id="path1947"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1949"
+       d="m 26.185864,115.8761 1.175709,-0.36671 -0.277188,1.19795 -0.898516,-0.83124"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-1.2538757"
+       inkscape:transform-center-y="0.16447093"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 29.30006,117.57507 0.850862,0.0507 -0.47296,0.70748 -0.3779,-0.75821"
+       id="path1951"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1953"
+       d="m 28.749879,114.52916 0.850862,0.0507 -0.47296,0.70747 -0.3779,-0.7582"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.37229129"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 23.96668,118.12075 0.849728,-0.0671 -0.370859,0.76595 -0.478866,-0.69884"
+       id="path1955"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1957"
+       d="m 23.583541,111.92623 0.852072,0.0227 -0.449387,0.72269 -0.402683,-0.74535"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 33.526636,109.31417 0.852072,0.0227 -0.449387,0.72268 -0.402683,-0.74534"
+       id="path1959"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1961"
+       d="m 32.204249,118.79696 0.849728,-0.0671 -0.370859,0.76596 -0.478866,-0.69884"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:transform-center-y="0.37229129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1963"
+       d="m 32.145122,112.88354 0.813711,-0.2538 -0.191843,0.8291 -0.621864,-0.5753"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:transform-center-y="0.11383129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1965"
+       d="m 30.944712,111.46577 0.852072,0.0227 -0.449387,0.72268 -0.402683,-0.74534"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1967"
+       d="m 25.169515,139.86403 -4.928892,-5.05672 2.372164,-5.02059 0.09366,-2.92393 1.849636,3.11718 0.03996,3.24759 1.21452,-1.73225 -0.866474,-3.16494 0.603066,-4.03589 1.435395,4.385 1.336998,2.34825 0.886904,-1.86423 1.551164,-1.97662 -0.885411,2.60771 0.454528,1.26153 1.304675,1.38021 0.15374,-2.85187 1.709613,-2.64374 -0.207434,3.3361 1.505381,5.66047 -3.763467,3.93545 z"
+       style="fill:#f27804;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1969"
+       d="m 26.570856,139.85907 -1.450792,-0.0267 -2.210269,-3.78367 0.226543,-3.68494 1.183098,2.31356 1.829337,-2.20257 0.293511,-2.3795 1.558296,2.49059 -0.594298,1.78995 0.899848,1.39282 1.453633,-1.1462 -0.367889,-2.18628 1.417122,-2.592 -0.09774,2.55497 2.655117,2.98833 -2.437772,4.47925 z"
+       style="fill:#ffca29;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1971"
+       d="m 26.117832,136.48666 -0.386101,1.73914 0.953723,1.59741 3.274495,-0.01 0.859762,-2.39599 -0.954356,-1.76638 -0.09942,1.95019 -1.81959,-2.85976 -1.010305,3.14675 z"
+       style="fill:#fdf177;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.91284816"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 31.697058,124.63858 1.294866,0.97614 -1.494258,0.62316 0.199392,-1.5993"
+       id="path1973"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1975"
+       d="m 28.23819,126.60554 1.025411,0.3049 -0.779999,0.72964 -0.245411,-1.03454"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1977"
+       d="m 21.605764,127.64391 0.833643,1.39088 -1.618905,0.0165 0.785262,-1.40743"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1979"
+       d="m 22.639041,125.21631 1.05553,-0.17402 -0.382568,0.9972 -0.67296,-0.82317"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1981"
+       d="m 23.120252,131.53053 0.1192,-1.06312 0.855808,0.63903 -0.975007,0.42408"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.66632047"
+       inkscape:transform-center-y="-1.0848989"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1983"
+       d="m 27.064296,129.76657 -1.316675,0.10811 0.571114,-1.18894 0.745561,1.08083"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.0018606"
+       inkscape:transform-center-x="-1.063543"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 32.241504,132.9996 0.986427,-0.41399 -0.140963,1.05872 -0.845461,-0.64473"
+       id="path1985"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1987"
+       d="m 21.694478,133.07501 0.813711,-0.2538 -0.191843,0.8291 -0.621864,-0.5753"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.86781035"
+       inkscape:transform-center-y="0.11383129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.16447093"
+       inkscape:transform-center-x="-1.2538757"
+       inkscape:connector-curvature="0"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 24.956379,134.46924 1.175709,-0.36671 -0.277188,1.19795 -0.898516,-0.83124"
+       id="path1989"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1991"
+       d="m 30.160704,133.27891 0.850862,0.0507 -0.47296,0.70748 -0.3779,-0.75821"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:transform-center-y="0.49842529"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.49842529"
+       inkscape:transform-center-x="-0.8731402"
+       inkscape:connector-curvature="0"
+       style="fill:#ffca29;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 28.135138,133.30672 0.850862,0.0507 -0.47296,0.70748 -0.3779,-0.75821"
+       id="path1993"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1995"
+       d="m 23.905209,135.73029 0.849728,-0.0671 -0.370859,0.76596 -0.478866,-0.69884"
+       style="fill:#fdf177;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.88475125"
+       inkscape:transform-center-y="0.37229129"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="0.47717229"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:connector-curvature="0"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 26.04252,124.98667 0.852072,0.0227 -0.449387,0.72269 -0.402683,-0.74534"
+       id="path1997"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path1999"
+       d="m 33.649588,130.5507 0.852072,0.0227 -0.449387,0.72268 -0.402683,-0.74534"
+       style="fill:#f27804;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-0.87743445"
+       inkscape:transform-center-y="0.47717229"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_basic_flame_animated.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect2001"
+       width="16.933332"
+       height="16.933332"
+       x="1.9947688e-06"
+       y="4.4060745"
+       ry="0.20071855"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_flint_steel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1024"
+       width="16.933332"
+       height="16.933332"
+       x="1.9947688e-06"
+       y="4.4060745"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_flint_steel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2078"
+       transform="matrix(0.911114,0,0,0.911114,1.5504768,-0.00562071)"
+       style="stroke-width:1.09755719"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\fire\fire_flint_steel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_flint.png"
+         style="stroke-width:0.98804444"
+         transform="matrix(1.2209898,0,0,1.0106218,-7.0958512,-37.243589)"
+         id="g1022">
+        <path
+           style="fill:#807b72;fill-opacity:1;stroke:none;stroke-width:0.26142028"
+           d="m 9.7990872,43.289446 -3.5718749,6.361369 0.1720826,0.765329 0.1188558,0.527616 0.1193726,0.554487 0.01292,0.02635 1.5213542,6.86263 4.7893705,-1.029393 0.780315,-7.654314 0.07958,-0.738973 0.10542,-0.950331 z"
+           id="path1006"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path988"
+           d="m 6.3991398,50.415981 0.119062,0.52789 3.7041672,1.37252 3.518958,-2.613064 0.07937,-0.739047 -4.0216672,-4.619049 -3.399895,6.07075"
+           style="fill:#96968a;fill-opacity:1;stroke:none;stroke-width:0.26142028"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path990"
+           d="m 6.3991398,50.415981 3.399895,-6.07075 4.0216672,4.619049 0.105833,-0.950205 -4.1275002,-4.724629 -3.571875,6.361092 0.17198,0.765443"
+           style="fill:#b2b2a5;fill-opacity:1;stroke:none;stroke-width:0.26142028"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path992"
+           d="m 13.741327,49.703327 -3.518958,2.613064 -3.7041672,-1.37252 0.119063,0.554288 0.01323,0.02639 1.521354,6.862588 2.0505212,-6.07075 2.738437,5.041361 0.780521,-7.654426"
+           style="fill:#858579;fill-opacity:1;stroke:none;stroke-width:0.26142028"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path994"
+           d="m 8.1718478,58.387141 4.7889582,-1.029387 -2.738437,-5.041363 -2.0505212,6.07075"
+           style="fill:#737369;fill-opacity:1;stroke:none;stroke-width:0.26142028"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path122"
+         d="m 9.6626692,7.0156664 -1.3457902,1.4263669 0.3684279,1.7715077 -1.3457901,1.426368 0.3684279,1.771508 -0.9840379,1.492209 0.7301799,1.837352 -0.9840377,1.492207 0.7301799,1.837351 3.0662821,0.82561 2.943334,-1.571892 -1.010734,-2.072276 -1.826616,1.008079 -1.4885074,-0.436569 1.3178264,-3.931128 0.175014,-4.161223 1.601238,-0.1912815 1.970083,2.1447455 0.726239,-2.397271 -1.95259,-2.0579477 z"
+         style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.29039538" />
+      <path
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.29039538"
+         d="m 9.6626692,7.0156664 -0.8847323,1.4878413 0.3684279,1.7715073 -1.3457901,1.426368 0.3684279,1.771508 -0.9840379,1.492209 0.7301799,1.837352 -0.9840377,1.492207 0.269122,1.775877 3.0662821,0.82561 3.588815,-1.940738 -1.656215,-1.70343 -1.826616,1.008079 -1.4885074,-0.436569 1.3178264,-3.931128 0.175014,-4.161223 1.601238,-0.1912815 1.970083,2.1447455 0.726239,-2.397271 -1.95259,-2.0579477 z"
+         id="path2060"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2064"
+         d="M 13.948149,11.684601 12.141192,8.9309955 10.376828,9.7311368 11.978066,9.5398554 Z"
+         style="fill:#9b9dab;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29039538px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#9b9dab;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29039538px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 12.199111,17.251978 -1.66349,1.616939 -1.6516334,-1.045429 1.4885074,0.436569 z"
+         id="path2066"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

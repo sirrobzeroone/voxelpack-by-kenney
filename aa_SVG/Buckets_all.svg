@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="125.29392mm"
+   height="29.31389mm"
+   viewBox="0 0 125.29393 29.313891"
+   version="1.1"
+   id="svg2395"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Buckets_all.svg"
+   inkscape:export-filename="C:\Users\Rob\Documents\GitHub\voxelpack-by-kenney\SVG\Metal_Blocks.png"
+   inkscape:export-xdpi="49.371422"
+   inkscape:export-ydpi="49.371422">
+  <defs
+     id="defs2389" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7976853"
+     inkscape:cx="273.53473"
+     inkscape:cy="-0.12710461"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="1.9869303,1.3982101"
+       orientation="0,1"
+       id="guide1058"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1060" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2392">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.6395295,1.8006045)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect6143"
+       width="29.104166"
+       height="29.104166"
+       x="4.6264596"
+       y="-2.9890902"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+       inkscape:export-xdpi="55.854549"
+       inkscape:export-ydpi="55.854549" />
+    <rect
+       inkscape:export-ydpi="41.890911"
+       inkscape:export-xdpi="41.890911"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_water.png"
+       y="-1.5908806"
+       x="65.735443"
+       height="29.104166"
+       width="29.104166"
+       id="rect6145-1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g927"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+       inkscape:export-xdpi="55.854549"
+       inkscape:export-ydpi="55.854549"
+       transform="translate(1.9869302,-1.2285335)">
+      <path
+         inkscape:export-ydpi="41.890911"
+         inkscape:export-xdpi="41.890911"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+         sodipodi:nodetypes="cczccc"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         id="path815"
+         d="m 25.364781,11.610419 -1.878542,11.90625 c 0,0 -2.939793,1.058333 -6.35,1.058333 -3.410206,0 -6.350001,-1.058333 -6.350001,-1.058333 L 8.920926,11.610419 h 16.443855" />
+      <path
+         inkscape:export-ydpi="41.890911"
+         inkscape:export-xdpi="41.890911"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+         sodipodi:nodetypes="cczccc"
+         style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         id="path809"
+         d="m 25.576447,10.274273 -0.211666,1.336146 c 0,0 -4.547211,1.131923 -8.258722,1.131923 -3.711512,0 -8.185133,-1.131923 -8.185133,-1.131923 L 8.709259,10.274273 h 16.867188" />
+      <path
+         inkscape:export-ydpi="41.890911"
+         inkscape:export-xdpi="41.890911"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+         style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         id="path813"
+         d="m 12.940934,18.740176 q 0.211667,-0.224896 0.436563,0 l 1.362604,1.362604 0.0926,0.132292 q 0.06615,0.15875 -0.0926,0.3175 l -1.362604,1.362604 q -0.224896,0.224896 -0.436563,0 L 11.57833,20.552572 q -0.171979,-0.15875 -0.0926,-0.3175 l 0.0926,-0.132292 1.362604,-1.362604 m 4.101042,0.79375 q 0.211667,-0.224896 0.436562,0 l 1.362605,1.362604 q 0.224895,0.224896 0,0.449792 l -1.362605,1.362604 q -0.224895,0.224896 -0.436562,0 l -1.362604,-1.362604 q -0.238125,-0.224896 0,-0.449792 l 1.362604,-1.362604 m -0.859896,-5.344583 2.288646,2.288646 q 0.370417,0.370416 0,0.740833 l -2.288646,2.288646 -0.754062,0.01323 -2.288646,-2.288646 q -0.383646,-0.383646 0,-0.767291 l 2.288646,-2.288646 0.754062,0.01323" />
+      <g
+         id="g900">
+        <path
+           d="m 7.875822,5.5250028 v -0.529166 c 0,0 4.952395,1.12155 9.260417,1.058333 13.402135,-2.184645 8.772153,0.4626292 0,0.529167 -5.003411,0 -9.260417,-1.058334 -9.260417,-1.058334"
+           id="path807"
+           inkscape:connector-curvature="0"
+           style="fill:#d5d9ed;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+           inkscape:export-xdpi="41.890911"
+           inkscape:export-ydpi="41.890911" />
+        <path
+           sodipodi:nodetypes="ccscccccccccscccccccccscccccccc"
+           inkscape:connector-curvature="0"
+           style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 22.666605,6.2359421 C 23.586537,5.969549 24.05369,5.6526333 24.068064,5.2851952 v -0.01378 c 0,-0.4409266 -0.682762,-0.8175511 -2.048287,-1.1298734 -0.891183,-0.2020915 -1.904546,-0.339881 -3.040088,-0.4133685 1.767995,0.082673 3.334754,0.2801715 4.700279,0.5924946 1.221785,0.275579 2.105782,0.5006352 2.651992,0.6751686 l 0.06469,0.2755787 v 0.055119 c 0.0094,0.08758 9.9e-5,0.1566062 -0.06469,0.2365613 -0.29955,0.4340015 -1.085233,0.8427896 -2.522627,1.1826702 l -0.129373,0.02756 c -1.82549,0.4225546 -4.017516,0.6338319 -6.576078,0.6338319 -2.572935,0 -4.76496,-0.2112773 -6.576077,-0.6338319 L 10.42001,6.7457661 C 8.9682422,6.4058855 8.1201803,6.0062962 7.8758242,5.5469981 L 7.8111374,5.3265346 V 5.2714156 L 7.8758244,4.9958369 C 8.4220337,4.8213035 9.3060305,4.5962473 10.527815,4.3206683 c 1.365525,-0.3215089 2.946658,-0.5190071 4.7434,-0.5924946 -1.164289,0.064299 -2.199213,0.2020882 -3.10477,0.4133685 -1.351151,0.3123223 -2.026726,0.6889468 -2.026726,1.1298734 v 0.01378 c 0.01437,0.3674381 0.481526,0.6843538 1.401459,0.9507469 l 0.625267,0.1653474 c 0.905557,0.2112773 1.940481,0.3490668 3.10477,0.4133684 l 1.832677,0.055119 1.854238,-0.055119 c 1.149915,-0.064299 2.170465,-0.2020881 3.061649,-0.4133684 l 0.646827,-0.1653474"
+           id="path1842" />
+        <path
+           sodipodi:nodetypes="ccccccccscccccsccccccscccccccccsccccccc"
+           inkscape:connector-curvature="0"
+           style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 22.666605,6.2359421 22.019777,6.0705947 C 21.128594,5.8685032 20.115231,5.7307138 18.979689,5.6572263 l -1.875798,-0.055119 -1.832677,0.055119 C 14.106924,5.721525 13.072,5.8593144 12.166443,6.0705947 L 11.541176,6.2359421 C 10.621244,5.969549 10.154091,5.6526333 10.139717,5.2851952 v -0.01378 c 0,-0.4409266 0.675575,-0.8175511 2.026726,-1.1298734 C 13.072,3.9302645 14.106924,3.792475 15.271214,3.7281733 l 1.832677,-0.055119 1.875798,0.055119 c 1.135542,0.073488 2.148905,0.211277 3.040088,0.4133685 1.365525,0.3123223 2.048287,0.6889468 2.048287,1.1298734 v 0.01378 C 24.053691,5.6526333 23.586538,5.969549 22.666605,6.2359421 M 7.811139,5.3265315 7.8758258,5.546995 c 0.2443561,0.4592981 1.0924181,0.8588874 2.5441862,1.198768 l 0.107811,0.02756 c 1.811117,0.4225547 4.003142,0.633832 6.576077,0.633832 2.558561,0 4.750587,-0.2112773 6.576077,-0.633832 l 0.129374,-0.02756 C 25.24674,6.4058824 26.073815,6.1373753 26.318172,5.6780772 L 26.375963,5.528904 26.3751,5.6572263 26.245727,6.2359421 C 26.145114,6.557451 25.987,6.8651808 25.771386,7.1591315 24.405862,8.05017 22.954095,8.638072 21.416084,8.9228375 v 0.8267369 c -1.293655,0.3674386 -2.73105,0.5511576 -4.312183,0.5511576 -2.572935,0 -4.76496,-0.4914493 -6.576077,-1.474348 L 12.68391,8.9917314 V 8.3579005 C 11.419006,8.2936016 10.154101,8.0547664 8.8891936,7.6413948 8.4436017,7.2004685 8.1345622,6.7319842 7.9620749,6.2359421 L 7.8327176,5.6572263 7.8111553,5.3265315"
+           id="path1844" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 15.271214,3.7281735 Q 12.5761,3.8384048 10.527813,4.3206681 8.6951365,4.7340366 7.8758226,4.9958367 8.2423566,4.2931106 10.527813,3.7695099 q 2.716675,-0.633831 6.576078,-0.633831 3.837842,0 6.576077,0.633831 2.285456,0.5236007 2.651992,1.2263268 Q 25.512645,4.7340366 23.679968,4.3206681 21.631681,3.8521835 18.979689,3.7281735 l -1.875798,-0.055119 -1.832677,0.055119"
+           id="path1846" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#9b9dab;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 22.666605,6.2359421 -0.646828,0.1653474 q -1.336775,0.316916 -3.061649,0.4133684 l -1.854237,0.055119 -1.832677,-0.055119 Q 13.524779,6.7182096 12.166443,6.4012895 L 11.541176,6.2359421 12.166443,6.0705947 q 1.358336,-0.316916 3.104771,-0.4133684 l 1.832677,-0.055119 1.875798,0.055119 q 1.703313,0.1102312 3.040088,0.4133684 l 0.646828,0.1653474"
+           id="path1848" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#9c6a38;stroke:none;stroke-width:0.26458332"
+           d="M 25.771375,7.1591315 Q 25.081427,8.0685421 23.679968,8.826384 22.623483,9.3913211 21.416073,9.7495744 V 8.9228375 q 2.307016,-0.4271482 4.355302,-1.763706 M 10.527813,8.826384 Q 9.5144505,8.2752268 8.8891839,7.6413948 10.786544,8.261448 12.683905,8.3579005 V 8.9917314 L 10.527813,8.826384"
+           id="path1850" />
+      </g>
+      <path
+         inkscape:export-ydpi="41.890911"
+         inkscape:export-xdpi="41.890911"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+         sodipodi:nodetypes="cczcczc"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         id="path811"
+         d="M 7.810777,10.261264 7.797768,5.3949128 c 0.177316,1.0231553 4.47522,2.0767961 9.191291,1.997914 4.716071,-0.078882 8.836682,-0.7432117 9.407597,-1.945878 v 4.8273242 c 0,0 -4.609885,1.326271 -9.297212,1.389488 -4.687326,0.06322 -9.288667,-1.402497 -9.288667,-1.402497 z" />
+    </g>
+    <g
+       id="g891"
+       transform="matrix(1.6298409,0,0,1.0415506,-21.999996,-0.99828677)"
+       style="stroke-width:0.7675156"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_river_water.png"
+       inkscape:export-xdpi="55.854549"
+       inkscape:export-ydpi="55.854549">
+      <g
+         id="g982">
+        <g
+           transform="matrix(0.61355683,0,0,0.96010699,32.574401,-0.22106159)"
+           id="g951"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+           inkscape:export-xdpi="55.854549"
+           inkscape:export-ydpi="55.854549">
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             sodipodi:nodetypes="cczccc"
+             style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path929"
+             d="m 25.364781,11.610419 -1.878542,11.90625 c 0,0 -2.939793,1.058333 -6.35,1.058333 -3.410206,0 -6.350001,-1.058333 -6.350001,-1.058333 L 8.920926,11.610419 h 16.443855" />
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             sodipodi:nodetypes="cczccc"
+             style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path931"
+             d="m 25.576447,10.274273 -0.211666,1.336146 c 0,0 -4.547211,1.131923 -8.258722,1.131923 -3.711512,0 -8.185133,-1.131923 -8.185133,-1.131923 L 8.709259,10.274273 h 16.867188" />
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path933"
+             d="m 12.940934,18.740176 q 0.211667,-0.224896 0.436563,0 l 1.362604,1.362604 0.0926,0.132292 q 0.06615,0.15875 -0.0926,0.3175 l -1.362604,1.362604 q -0.224896,0.224896 -0.436563,0 L 11.57833,20.552572 q -0.171979,-0.15875 -0.0926,-0.3175 l 0.0926,-0.132292 1.362604,-1.362604 m 4.101042,0.79375 q 0.211667,-0.224896 0.436562,0 l 1.362605,1.362604 q 0.224895,0.224896 0,0.449792 l -1.362605,1.362604 q -0.224895,0.224896 -0.436562,0 l -1.362604,-1.362604 q -0.238125,-0.224896 0,-0.449792 l 1.362604,-1.362604 m -0.859896,-5.344583 2.288646,2.288646 q 0.370417,0.370416 0,0.740833 l -2.288646,2.288646 -0.754062,0.01323 -2.288646,-2.288646 q -0.383646,-0.383646 0,-0.767291 l 2.288646,-2.288646 0.754062,0.01323" />
+          <g
+             id="g947">
+            <path
+               d="m 7.875822,5.5250028 v -0.529166 c 0,0 4.952395,1.12155 9.260417,1.058333 13.402135,-2.184645 8.772153,0.4626292 0,0.529167 -5.003411,0 -9.260417,-1.058334 -9.260417,-1.058334"
+               id="path935"
+               inkscape:connector-curvature="0"
+               style="fill:#d5d9ed;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               sodipodi:nodetypes="ccccc"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+               inkscape:export-xdpi="41.890911"
+               inkscape:export-ydpi="41.890911" />
+            <path
+               sodipodi:nodetypes="ccscccccccccscccccccccscccccccc"
+               inkscape:connector-curvature="0"
+               style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="M 22.666605,6.2359421 C 23.586537,5.969549 24.05369,5.6526333 24.068064,5.2851952 v -0.01378 c 0,-0.4409266 -0.682762,-0.8175511 -2.048287,-1.1298734 -0.891183,-0.2020915 -1.904546,-0.339881 -3.040088,-0.4133685 1.767995,0.082673 3.334754,0.2801715 4.700279,0.5924946 1.221785,0.275579 2.105782,0.5006352 2.651992,0.6751686 l 0.06469,0.2755787 v 0.055119 c 0.0094,0.08758 9.9e-5,0.1566062 -0.06469,0.2365613 -0.29955,0.4340015 -1.085233,0.8427896 -2.522627,1.1826702 l -0.129373,0.02756 c -1.82549,0.4225546 -4.017516,0.6338319 -6.576078,0.6338319 -2.572935,0 -4.76496,-0.2112773 -6.576077,-0.6338319 L 10.42001,6.7457661 C 8.9682422,6.4058855 8.1201803,6.0062962 7.8758242,5.5469981 L 7.8111374,5.3265346 V 5.2714156 L 7.8758244,4.9958369 C 8.4220337,4.8213035 9.3060305,4.5962473 10.527815,4.3206683 c 1.365525,-0.3215089 2.946658,-0.5190071 4.7434,-0.5924946 -1.164289,0.064299 -2.199213,0.2020882 -3.10477,0.4133685 -1.351151,0.3123223 -2.026726,0.6889468 -2.026726,1.1298734 v 0.01378 c 0.01437,0.3674381 0.481526,0.6843538 1.401459,0.9507469 l 0.625267,0.1653474 c 0.905557,0.2112773 1.940481,0.3490668 3.10477,0.4133684 l 1.832677,0.055119 1.854238,-0.055119 c 1.149915,-0.064299 2.170465,-0.2020881 3.061649,-0.4133684 l 0.646827,-0.1653474"
+               id="path937" />
+            <path
+               sodipodi:nodetypes="ccccccccscccccsccccccscccccccccsccccccc"
+               inkscape:connector-curvature="0"
+               style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="M 22.666605,6.2359421 22.019777,6.0705947 C 21.128594,5.8685032 20.115231,5.7307138 18.979689,5.6572263 l -1.875798,-0.055119 -1.832677,0.055119 C 14.106924,5.721525 13.072,5.8593144 12.166443,6.0705947 L 11.541176,6.2359421 C 10.621244,5.969549 10.154091,5.6526333 10.139717,5.2851952 v -0.01378 c 0,-0.4409266 0.675575,-0.8175511 2.026726,-1.1298734 C 13.072,3.9302645 14.106924,3.792475 15.271214,3.7281733 l 1.832677,-0.055119 1.875798,0.055119 c 1.135542,0.073488 2.148905,0.211277 3.040088,0.4133685 1.365525,0.3123223 2.048287,0.6889468 2.048287,1.1298734 v 0.01378 C 24.053691,5.6526333 23.586538,5.969549 22.666605,6.2359421 M 7.811139,5.3265315 7.8758258,5.546995 c 0.2443561,0.4592981 1.0924181,0.8588874 2.5441862,1.198768 l 0.107811,0.02756 c 1.811117,0.4225547 4.003142,0.633832 6.576077,0.633832 2.558561,0 4.750587,-0.2112773 6.576077,-0.633832 l 0.129374,-0.02756 C 25.24674,6.4058824 26.073815,6.1373753 26.318172,5.6780772 L 26.375963,5.528904 26.3751,5.6572263 26.245727,6.2359421 C 26.145114,6.557451 25.987,6.8651808 25.771386,7.1591315 24.405862,8.05017 22.954095,8.638072 21.416084,8.9228375 v 0.8267369 c -1.293655,0.3674386 -2.73105,0.5511576 -4.312183,0.5511576 -2.572935,0 -4.76496,-0.4914493 -6.576077,-1.474348 L 12.68391,8.9917314 V 8.3579005 C 11.419006,8.2936016 10.154101,8.0547664 8.8891936,7.6413948 8.4436017,7.2004685 8.1345622,6.7319842 7.9620749,6.2359421 L 7.8327176,5.6572263 7.8111553,5.3265315"
+               id="path939" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="M 15.271214,3.7281735 Q 12.5761,3.8384048 10.527813,4.3206681 8.6951365,4.7340366 7.8758226,4.9958367 8.2423566,4.2931106 10.527813,3.7695099 q 2.716675,-0.633831 6.576078,-0.633831 3.837842,0 6.576077,0.633831 2.285456,0.5236007 2.651992,1.2263268 Q 25.512645,4.7340366 23.679968,4.3206681 21.631681,3.8521835 18.979689,3.7281735 l -1.875798,-0.055119 -1.832677,0.055119"
+               id="path941" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#9b9dab;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="m 22.666605,6.2359421 -0.646828,0.1653474 q -1.336775,0.316916 -3.061649,0.4133684 l -1.854237,0.055119 -1.832677,-0.055119 Q 13.524779,6.7182096 12.166443,6.4012895 L 11.541176,6.2359421 12.166443,6.0705947 q 1.358336,-0.316916 3.104771,-0.4133684 l 1.832677,-0.055119 1.875798,0.055119 q 1.703313,0.1102312 3.040088,0.4133684 l 0.646828,0.1653474"
+               id="path943" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#9c6a38;stroke:none;stroke-width:0.26458332"
+               d="M 25.771375,7.1591315 Q 25.081427,8.0685421 23.679968,8.826384 22.623483,9.3913211 21.416073,9.7495744 V 8.9228375 q 2.307016,-0.4271482 4.355302,-1.763706 M 10.527813,8.826384 Q 9.5144505,8.2752268 8.8891839,7.6413948 10.786544,8.261448 12.683905,8.3579005 V 8.9917314 L 10.527813,8.826384"
+               id="path945" />
+          </g>
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             sodipodi:nodetypes="cczcczc"
+             style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path949"
+             d="M 7.810777,10.261264 7.797768,5.3949128 c 0.177316,1.0231553 4.47522,2.0767961 9.191291,1.997914 4.716071,-0.078882 8.836682,-0.7432117 9.407597,-1.945878 v 4.8273242 c 0,0 -4.609885,1.326271 -9.297212,1.389488 -4.687326,0.06322 -9.288667,-1.402497 -9.288667,-1.402497 z" />
+        </g>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect6145"
+           width="29.104166"
+           height="29.104166"
+           x="34.651726"
+           y="-1.7605566"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_river_water.png"
+           inkscape:export-xdpi="41.890911"
+           inkscape:export-ydpi="41.890911"
+           transform="matrix(0.61355683,0,0,0.96010699,12.9331,-0.22106159)" />
+        <path
+           sodipodi:nodetypes="ccccccccccccccccccc"
+           id="path953"
+           d="m 47.309524,5.1492783 c -0.09701,0.2204857 -0.317499,0.4189228 -0.661458,0.5953115 l -0.145521,0.06615 -0.396875,0.15875 -0.3175,0.105833 -1.561042,0.291042 -1.137708,0.05292 -1.124479,-0.05292 c -0.582083,-0.052913 -1.11125,-0.1499273 -1.5875,-0.291042 l -0.3175,-0.105833 -0.383646,-0.15875 c -0.423333,-0.194028 -0.687917,-0.4145138 -0.79375,-0.6614575 0.132291,-0.3086807 0.524757,-0.5820837 1.177396,-0.820209 0.555625,-0.2028473 1.190625,-0.335139 1.905,-0.396875 l 0.820208,-0.03969 0.304271,-0.01323 1.150937,0.05292 c 0.696737,0.070556 1.318508,0.2028477 1.865313,0.396875 0.661459,0.2381253 1.062743,0.5115283 1.203854,0.820209"
+           style="fill:#5bdcf8;fill-opacity:1;stroke:none;stroke-width:0.20307182"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="55.854549"
+       inkscape:export-xdpi="55.854549"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_river_water.png"
+       style="stroke-width:0.7675156"
+       transform="matrix(1.6298409,0,0,1.0415506,7.1041705,-0.99828677)"
+       id="g1056">
+      <g
+         id="g1054">
+        <g
+           inkscape:export-ydpi="55.854561"
+           inkscape:export-xdpi="55.854561"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_water.png"
+           id="g1048"
+           transform="matrix(0.61355683,0,0,0.96010699,32.574401,-0.22106159)">
+          <path
+             d="m 25.364781,11.610419 -1.878542,11.90625 c 0,0 -2.939793,1.058333 -6.35,1.058333 -3.410206,0 -6.350001,-1.058333 -6.350001,-1.058333 L 8.920926,11.610419 h 16.443855"
+             id="path1026"
+             inkscape:connector-curvature="0"
+             style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             sodipodi:nodetypes="cczccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-ydpi="41.890911" />
+          <path
+             d="m 25.576447,10.274273 -0.211666,1.336146 c 0,0 -4.547211,1.131923 -8.258722,1.131923 -3.711512,0 -8.185133,-1.131923 -8.185133,-1.131923 L 8.709259,10.274273 h 16.867188"
+             id="path1028"
+             inkscape:connector-curvature="0"
+             style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             sodipodi:nodetypes="cczccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-ydpi="41.890911" />
+          <path
+             d="m 12.940934,18.740176 q 0.211667,-0.224896 0.436563,0 l 1.362604,1.362604 0.0926,0.132292 q 0.06615,0.15875 -0.0926,0.3175 l -1.362604,1.362604 q -0.224896,0.224896 -0.436563,0 L 11.57833,20.552572 q -0.171979,-0.15875 -0.0926,-0.3175 l 0.0926,-0.132292 1.362604,-1.362604 m 4.101042,0.79375 q 0.211667,-0.224896 0.436562,0 l 1.362605,1.362604 q 0.224895,0.224896 0,0.449792 l -1.362605,1.362604 q -0.224895,0.224896 -0.436562,0 l -1.362604,-1.362604 q -0.238125,-0.224896 0,-0.449792 l 1.362604,-1.362604 m -0.859896,-5.344583 2.288646,2.288646 q 0.370417,0.370416 0,0.740833 l -2.288646,2.288646 -0.754062,0.01323 -2.288646,-2.288646 q -0.383646,-0.383646 0,-0.767291 l 2.288646,-2.288646 0.754062,0.01323"
+             id="path1030"
+             inkscape:connector-curvature="0"
+             style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-ydpi="41.890911" />
+          <g
+             id="g1044">
+            <path
+               inkscape:export-ydpi="41.890911"
+               inkscape:export-xdpi="41.890911"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+               sodipodi:nodetypes="ccccc"
+               style="fill:#d5d9ed;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               inkscape:connector-curvature="0"
+               id="path1032"
+               d="m 7.875822,5.5250028 v -0.529166 c 0,0 4.952395,1.12155 9.260417,1.058333 13.402135,-2.184645 8.772153,0.4626292 0,0.529167 -5.003411,0 -9.260417,-1.058334 -9.260417,-1.058334" />
+            <path
+               id="path1034"
+               d="M 22.666605,6.2359421 C 23.586537,5.969549 24.05369,5.6526333 24.068064,5.2851952 v -0.01378 c 0,-0.4409266 -0.682762,-0.8175511 -2.048287,-1.1298734 -0.891183,-0.2020915 -1.904546,-0.339881 -3.040088,-0.4133685 1.767995,0.082673 3.334754,0.2801715 4.700279,0.5924946 1.221785,0.275579 2.105782,0.5006352 2.651992,0.6751686 l 0.06469,0.2755787 v 0.055119 c 0.0094,0.08758 9.9e-5,0.1566062 -0.06469,0.2365613 -0.29955,0.4340015 -1.085233,0.8427896 -2.522627,1.1826702 l -0.129373,0.02756 c -1.82549,0.4225546 -4.017516,0.6338319 -6.576078,0.6338319 -2.572935,0 -4.76496,-0.2112773 -6.576077,-0.6338319 L 10.42001,6.7457661 C 8.9682422,6.4058855 8.1201803,6.0062962 7.8758242,5.5469981 L 7.8111374,5.3265346 V 5.2714156 L 7.8758244,4.9958369 C 8.4220337,4.8213035 9.3060305,4.5962473 10.527815,4.3206683 c 1.365525,-0.3215089 2.946658,-0.5190071 4.7434,-0.5924946 -1.164289,0.064299 -2.199213,0.2020882 -3.10477,0.4133685 -1.351151,0.3123223 -2.026726,0.6889468 -2.026726,1.1298734 v 0.01378 c 0.01437,0.3674381 0.481526,0.6843538 1.401459,0.9507469 l 0.625267,0.1653474 c 0.905557,0.2112773 1.940481,0.3490668 3.10477,0.4133684 l 1.832677,0.055119 1.854238,-0.055119 c 1.149915,-0.064299 2.170465,-0.2020881 3.061649,-0.4133684 l 0.646827,-0.1653474"
+               style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccscccccccccscccccccccscccccccc" />
+            <path
+               id="path1036"
+               d="M 22.666605,6.2359421 22.019777,6.0705947 C 21.128594,5.8685032 20.115231,5.7307138 18.979689,5.6572263 l -1.875798,-0.055119 -1.832677,0.055119 C 14.106924,5.721525 13.072,5.8593144 12.166443,6.0705947 L 11.541176,6.2359421 C 10.621244,5.969549 10.154091,5.6526333 10.139717,5.2851952 v -0.01378 c 0,-0.4409266 0.675575,-0.8175511 2.026726,-1.1298734 C 13.072,3.9302645 14.106924,3.792475 15.271214,3.7281733 l 1.832677,-0.055119 1.875798,0.055119 c 1.135542,0.073488 2.148905,0.211277 3.040088,0.4133685 1.365525,0.3123223 2.048287,0.6889468 2.048287,1.1298734 v 0.01378 C 24.053691,5.6526333 23.586538,5.969549 22.666605,6.2359421 M 7.811139,5.3265315 7.8758258,5.546995 c 0.2443561,0.4592981 1.0924181,0.8588874 2.5441862,1.198768 l 0.107811,0.02756 c 1.811117,0.4225547 4.003142,0.633832 6.576077,0.633832 2.558561,0 4.750587,-0.2112773 6.576077,-0.633832 l 0.129374,-0.02756 C 25.24674,6.4058824 26.073815,6.1373753 26.318172,5.6780772 L 26.375963,5.528904 26.3751,5.6572263 26.245727,6.2359421 C 26.145114,6.557451 25.987,6.8651808 25.771386,7.1591315 24.405862,8.05017 22.954095,8.638072 21.416084,8.9228375 v 0.8267369 c -1.293655,0.3674386 -2.73105,0.5511576 -4.312183,0.5511576 -2.572935,0 -4.76496,-0.4914493 -6.576077,-1.474348 L 12.68391,8.9917314 V 8.3579005 C 11.419006,8.2936016 10.154101,8.0547664 8.8891936,7.6413948 8.4436017,7.2004685 8.1345622,6.7319842 7.9620749,6.2359421 L 7.8327176,5.6572263 7.8111553,5.3265315"
+               style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccccccscccccsccccccscccccccccsccccccc" />
+            <path
+               id="path1038"
+               d="M 15.271214,3.7281735 Q 12.5761,3.8384048 10.527813,4.3206681 8.6951365,4.7340366 7.8758226,4.9958367 8.2423566,4.2931106 10.527813,3.7695099 q 2.716675,-0.633831 6.576078,-0.633831 3.837842,0 6.576077,0.633831 2.285456,0.5236007 2.651992,1.2263268 Q 25.512645,4.7340366 23.679968,4.3206681 21.631681,3.8521835 18.979689,3.7281735 l -1.875798,-0.055119 -1.832677,0.055119"
+               style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path1040"
+               d="m 22.666605,6.2359421 -0.646828,0.1653474 q -1.336775,0.316916 -3.061649,0.4133684 l -1.854237,0.055119 -1.832677,-0.055119 Q 13.524779,6.7182096 12.166443,6.4012895 L 11.541176,6.2359421 12.166443,6.0705947 q 1.358336,-0.316916 3.104771,-0.4133684 l 1.832677,-0.055119 1.875798,0.055119 q 1.703313,0.1102312 3.040088,0.4133684 l 0.646828,0.1653474"
+               style="fill:#9b9dab;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path1042"
+               d="M 25.771375,7.1591315 Q 25.081427,8.0685421 23.679968,8.826384 22.623483,9.3913211 21.416073,9.7495744 V 8.9228375 q 2.307016,-0.4271482 4.355302,-1.763706 M 10.527813,8.826384 Q 9.5144505,8.2752268 8.8891839,7.6413948 10.786544,8.261448 12.683905,8.3579005 V 8.9917314 L 10.527813,8.826384"
+               style="fill:#9c6a38;stroke:none;stroke-width:0.26458332"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             d="M 7.810777,10.261264 7.797768,5.3949128 c 0.177316,1.0231553 4.47522,2.0767961 9.191291,1.997914 4.716071,-0.078882 8.836682,-0.7432117 9.407597,-1.945878 v 4.8273242 c 0,0 -4.609885,1.326271 -9.297212,1.389488 -4.687326,0.06322 -9.288667,-1.402497 -9.288667,-1.402497 z"
+             id="path1046"
+             inkscape:connector-curvature="0"
+             style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             sodipodi:nodetypes="cczcczc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-ydpi="41.890911" />
+        </g>
+        <rect
+           transform="matrix(0.61355683,0,0,0.96010699,12.9331,-0.22106159)"
+           inkscape:export-ydpi="55.854561"
+           inkscape:export-xdpi="55.854561"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_water.png"
+           y="-1.7605566"
+           x="34.651726"
+           height="29.104166"
+           width="29.104166"
+           id="rect1050"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#5bb3f8;fill-opacity:1;stroke:none;stroke-width:0.20307182"
+           d="m 47.309524,5.1492783 c -0.09701,0.2204857 -0.317499,0.4189228 -0.661458,0.5953115 l -0.145521,0.06615 -0.396875,0.15875 -0.3175,0.105833 -1.561042,0.291042 -1.137708,0.05292 -1.124479,-0.05292 c -0.582083,-0.052913 -1.11125,-0.1499273 -1.5875,-0.291042 l -0.3175,-0.105833 -0.383646,-0.15875 c -0.423333,-0.194028 -0.687917,-0.4145138 -0.79375,-0.6614575 0.132291,-0.3086807 0.524757,-0.5820837 1.177396,-0.820209 0.555625,-0.2028473 1.190625,-0.335139 1.905,-0.396875 l 0.820208,-0.03969 0.304271,-0.01323 1.150937,0.05292 c 0.696737,0.070556 1.318508,0.2028477 1.865313,0.396875 0.661459,0.2381253 1.062743,0.5115283 1.203854,0.820209"
+           id="path1052"
+           sodipodi:nodetypes="ccccccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_water.png"
+           inkscape:export-xdpi="55.854561"
+           inkscape:export-ydpi="55.854561" />
+      </g>
+    </g>
+    <g
+       id="g1092"
+       transform="matrix(1.6298409,0,0,1.0415506,38.710401,-0.99828678)"
+       style="stroke-width:0.7675156"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_lava.png"
+       inkscape:export-xdpi="55.854549"
+       inkscape:export-ydpi="55.854549">
+      <g
+         id="g1090">
+        <g
+           transform="matrix(0.61355683,0,0,0.96010699,31.039245,-0.22106171)"
+           id="g1084"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_water.png"
+           inkscape:export-xdpi="55.854561"
+           inkscape:export-ydpi="55.854561">
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             sodipodi:nodetypes="cczccc"
+             style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path1062"
+             d="m 25.364781,11.610419 -1.878542,11.90625 c 0,0 -2.939793,1.058333 -6.35,1.058333 -3.410206,0 -6.350001,-1.058333 -6.350001,-1.058333 L 8.920926,11.610419 h 16.443855" />
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             sodipodi:nodetypes="cczccc"
+             style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path1064"
+             d="m 25.576447,10.274273 -0.211666,1.336146 c 0,0 -4.547211,1.131923 -8.258722,1.131923 -3.711512,0 -8.185133,-1.131923 -8.185133,-1.131923 L 8.709259,10.274273 h 16.867188" />
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path1066"
+             d="m 12.940934,18.740176 q 0.211667,-0.224896 0.436563,0 l 1.362604,1.362604 0.0926,0.132292 q 0.06615,0.15875 -0.0926,0.3175 l -1.362604,1.362604 q -0.224896,0.224896 -0.436563,0 L 11.57833,20.552572 q -0.171979,-0.15875 -0.0926,-0.3175 l 0.0926,-0.132292 1.362604,-1.362604 m 4.101042,0.79375 q 0.211667,-0.224896 0.436562,0 l 1.362605,1.362604 q 0.224895,0.224896 0,0.449792 l -1.362605,1.362604 q -0.224895,0.224896 -0.436562,0 l -1.362604,-1.362604 q -0.238125,-0.224896 0,-0.449792 l 1.362604,-1.362604 m -0.859896,-5.344583 2.288646,2.288646 q 0.370417,0.370416 0,0.740833 l -2.288646,2.288646 -0.754062,0.01323 -2.288646,-2.288646 q -0.383646,-0.383646 0,-0.767291 l 2.288646,-2.288646 0.754062,0.01323" />
+          <g
+             id="g1080">
+            <path
+               d="m 7.875822,5.5250028 v -0.529166 c 0,0 4.952395,1.12155 9.260417,1.058333 13.402135,-2.184645 8.772153,0.4626292 0,0.529167 -5.003411,0 -9.260417,-1.058334 -9.260417,-1.058334"
+               id="path1068"
+               inkscape:connector-curvature="0"
+               style="fill:#d5d9ed;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               sodipodi:nodetypes="ccccc"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+               inkscape:export-xdpi="41.890911"
+               inkscape:export-ydpi="41.890911" />
+            <path
+               sodipodi:nodetypes="ccscccccccccscccccccccscccccccc"
+               inkscape:connector-curvature="0"
+               style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="M 22.666605,6.2359421 C 23.586537,5.969549 24.05369,5.6526333 24.068064,5.2851952 v -0.01378 c 0,-0.4409266 -0.682762,-0.8175511 -2.048287,-1.1298734 -0.891183,-0.2020915 -1.904546,-0.339881 -3.040088,-0.4133685 1.767995,0.082673 3.334754,0.2801715 4.700279,0.5924946 1.221785,0.275579 2.105782,0.5006352 2.651992,0.6751686 l 0.06469,0.2755787 v 0.055119 c 0.0094,0.08758 9.9e-5,0.1566062 -0.06469,0.2365613 -0.29955,0.4340015 -1.085233,0.8427896 -2.522627,1.1826702 l -0.129373,0.02756 c -1.82549,0.4225546 -4.017516,0.6338319 -6.576078,0.6338319 -2.572935,0 -4.76496,-0.2112773 -6.576077,-0.6338319 L 10.42001,6.7457661 C 8.9682422,6.4058855 8.1201803,6.0062962 7.8758242,5.5469981 L 7.8111374,5.3265346 V 5.2714156 L 7.8758244,4.9958369 C 8.4220337,4.8213035 9.3060305,4.5962473 10.527815,4.3206683 c 1.365525,-0.3215089 2.946658,-0.5190071 4.7434,-0.5924946 -1.164289,0.064299 -2.199213,0.2020882 -3.10477,0.4133685 -1.351151,0.3123223 -2.026726,0.6889468 -2.026726,1.1298734 v 0.01378 c 0.01437,0.3674381 0.481526,0.6843538 1.401459,0.9507469 l 0.625267,0.1653474 c 0.905557,0.2112773 1.940481,0.3490668 3.10477,0.4133684 l 1.832677,0.055119 1.854238,-0.055119 c 1.149915,-0.064299 2.170465,-0.2020881 3.061649,-0.4133684 l 0.646827,-0.1653474"
+               id="path1070" />
+            <path
+               sodipodi:nodetypes="ccccccccscccccsccccccscccccccccsccccccc"
+               inkscape:connector-curvature="0"
+               style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="M 22.666605,6.2359421 22.019777,6.0705947 C 21.128594,5.8685032 20.115231,5.7307138 18.979689,5.6572263 l -1.875798,-0.055119 -1.832677,0.055119 C 14.106924,5.721525 13.072,5.8593144 12.166443,6.0705947 L 11.541176,6.2359421 C 10.621244,5.969549 10.154091,5.6526333 10.139717,5.2851952 v -0.01378 c 0,-0.4409266 0.675575,-0.8175511 2.026726,-1.1298734 C 13.072,3.9302645 14.106924,3.792475 15.271214,3.7281733 l 1.832677,-0.055119 1.875798,0.055119 c 1.135542,0.073488 2.148905,0.211277 3.040088,0.4133685 1.365525,0.3123223 2.048287,0.6889468 2.048287,1.1298734 v 0.01378 C 24.053691,5.6526333 23.586538,5.969549 22.666605,6.2359421 M 7.811139,5.3265315 7.8758258,5.546995 c 0.2443561,0.4592981 1.0924181,0.8588874 2.5441862,1.198768 l 0.107811,0.02756 c 1.811117,0.4225547 4.003142,0.633832 6.576077,0.633832 2.558561,0 4.750587,-0.2112773 6.576077,-0.633832 l 0.129374,-0.02756 C 25.24674,6.4058824 26.073815,6.1373753 26.318172,5.6780772 L 26.375963,5.528904 26.3751,5.6572263 26.245727,6.2359421 C 26.145114,6.557451 25.987,6.8651808 25.771386,7.1591315 24.405862,8.05017 22.954095,8.638072 21.416084,8.9228375 v 0.8267369 c -1.293655,0.3674386 -2.73105,0.5511576 -4.312183,0.5511576 -2.572935,0 -4.76496,-0.4914493 -6.576077,-1.474348 L 12.68391,8.9917314 V 8.3579005 C 11.419006,8.2936016 10.154101,8.0547664 8.8891936,7.6413948 8.4436017,7.2004685 8.1345622,6.7319842 7.9620749,6.2359421 L 7.8327176,5.6572263 7.8111553,5.3265315"
+               id="path1072" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#c3c6d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="M 15.271214,3.7281735 Q 12.5761,3.8384048 10.527813,4.3206681 8.6951365,4.7340366 7.8758226,4.9958367 8.2423566,4.2931106 10.527813,3.7695099 q 2.716675,-0.633831 6.576078,-0.633831 3.837842,0 6.576077,0.633831 2.285456,0.5236007 2.651992,1.2263268 Q 25.512645,4.7340366 23.679968,4.3206681 21.631681,3.8521835 18.979689,3.7281735 l -1.875798,-0.055119 -1.832677,0.055119"
+               id="path1074" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#9b9dab;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               d="m 22.666605,6.2359421 -0.646828,0.1653474 q -1.336775,0.316916 -3.061649,0.4133684 l -1.854237,0.055119 -1.832677,-0.055119 Q 13.524779,6.7182096 12.166443,6.4012895 L 11.541176,6.2359421 12.166443,6.0705947 q 1.358336,-0.316916 3.104771,-0.4133684 l 1.832677,-0.055119 1.875798,0.055119 q 1.703313,0.1102312 3.040088,0.4133684 l 0.646828,0.1653474"
+               id="path1076" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#9c6a38;stroke:none;stroke-width:0.26458332"
+               d="M 25.771375,7.1591315 Q 25.081427,8.0685421 23.679968,8.826384 22.623483,9.3913211 21.416073,9.7495744 V 8.9228375 q 2.307016,-0.4271482 4.355302,-1.763706 M 10.527813,8.826384 Q 9.5144505,8.2752268 8.8891839,7.6413948 10.786544,8.261448 12.683905,8.3579005 V 8.9917314 L 10.527813,8.826384"
+               id="path1078" />
+          </g>
+          <path
+             inkscape:export-ydpi="41.890911"
+             inkscape:export-xdpi="41.890911"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket.png"
+             sodipodi:nodetypes="cczcczc"
+             style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             id="path1082"
+             d="M 7.810777,10.261264 7.797768,5.3949128 c 0.177316,1.0231553 4.47522,2.0767961 9.191291,1.997914 4.716071,-0.078882 8.836682,-0.7432117 9.407597,-1.945878 v 4.8273242 c 0,0 -4.609885,1.326271 -9.297212,1.389488 -4.687326,0.06322 -9.288667,-1.402497 -9.288667,-1.402497 z" />
+        </g>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7675156;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect1086"
+           width="17.857059"
+           height="27.943113"
+           x="32.658745"
+           y="-1.9113843"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_water.png"
+           inkscape:export-xdpi="55.854561"
+           inkscape:export-ydpi="55.854561" />
+        <path
+           inkscape:export-ydpi="55.854561"
+           inkscape:export-xdpi="55.854561"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\bucket_water.png"
+           sodipodi:nodetypes="ccccccccccccccccccc"
+           id="path1088"
+           d="M 45.774368,5.1492782 C 45.677358,5.3697639 45.456869,5.568201 45.11291,5.7445897 l -0.145521,0.06615 -0.396875,0.15875 -0.3175,0.105833 -1.561042,0.291042 -1.137708,0.05292 -1.124479,-0.05292 c -0.582083,-0.052913 -1.11125,-0.1499273 -1.5875,-0.291042 l -0.3175,-0.105833 -0.383646,-0.15875 c -0.423333,-0.194028 -0.687917,-0.4145138 -0.79375,-0.6614575 0.132291,-0.3086807 0.524757,-0.5820837 1.177396,-0.820209 0.555625,-0.2028473 1.190625,-0.335139 1.905,-0.396875 l 0.820208,-0.03969 0.304271,-0.01323 1.150937,0.05292 c 0.696737,0.070556 1.318508,0.2028477 1.865313,0.396875 0.661459,0.2381253 1.062743,0.5115283 1.203854,0.820209"
+           style="fill:#ff443f;fill-opacity:1;stroke:none;stroke-width:0.20307182"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

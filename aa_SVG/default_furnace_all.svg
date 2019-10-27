@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.061249mm"
+   height="101.6015mm"
+   viewBox="0 0 61.061249 101.6015"
+   version="1.1"
+   id="svg1110"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="default_furnace_all.svg">
+  <defs
+     id="defs1104" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76083984"
+     inkscape:cx="232.85991"
+     inkscape:cy="567.29312"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="false">
+    <sodipodi:guide
+       position="7.6187356e-05,103.72156"
+       orientation="0,1"
+       id="guide1655"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.6187356e-05,103.72156"
+       orientation="1,0"
+       id="guide1657"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.6187356e-05,84.667338"
+       orientation="0,1"
+       id="guide1659"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.823485,84.667348"
+       orientation="1,0"
+       id="guide1703"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.6187356e-05,65.671758"
+       orientation="0,1"
+       id="guide1756"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-13.401341,92.413118"
+       orientation="1,0"
+       id="guide2523"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1107">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.6187356e-5,-2.1401047)">
+    <g
+       transform="translate(-41.990013,-20.225095)"
+       id="g2777"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_bottom.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2700"
+         transform="rotate(-2.0818203,2149.5046,352.25743)" />
+      <g
+         id="g1830">
+        <rect
+           y="22.366034"
+           x="41.990013"
+           height="16.933332"
+           width="16.933334"
+           id="rect2694"
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 47.189074,34.483943 2.579688,0.582083 -0.582084,2.579687 -2.566458,-0.568854 0.568854,-2.592916 m 7.593542,-12.117917 -0.171979,1.521354 -2.526771,-0.291041 0.145521,-1.230313 h 2.553229 m -12.792604,2.447396 h 0.01323 l 0.47625,2.010833 -0.489479,0.119063 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 m -7.540625,-12.091463 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 m -2.275417,-1.336146 -1.42875,-0.145521 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           id="path158-1" />
+        <path
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 55.364876,-53.975119 -0.615131,16.922156 16.922158,0.615131 0.615131,-16.922156 z"
+           id="path2696"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           transform="rotate(-2.0818203,2149.5047,352.25676)" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 55.364875,-53.97512 -0.02216,0.60966 16.921296,0.614999 0.02298,-0.609527 z"
+           id="path2698"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           transform="rotate(-2.0818203,2149.5047,352.25676)" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1808"
+           d="m 54.771906,-37.662638 -0.02216,0.60966 16.921296,0.614999 0.02298,-0.609527 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           transform="rotate(-2.0818203,2149.5047,352.25676)" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 55.974404,-53.952099 -0.60966,-0.02216 -0.614999,16.921296 0.609527,0.02298 z"
+           id="path1810"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           transform="rotate(-2.0818203,2149.5047,352.25676)" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1812"
+           d="m 72.286991,-53.359991 -0.60966,-0.02216 -0.614999,16.921296 0.609527,0.02298 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           transform="rotate(-2.0818203,2149.5047,352.25676)" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 53.803664,30.210936 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 2.778124,1.91823 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -6.707187,-3.452813 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 m -5.185834,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+           id="path2702" />
+        <path
+           sodipodi:nodetypes="ccccccccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 54.266684,25.448436 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 m -8.228542,7.064375 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m 4.458229,2.645833 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           id="path2704" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 50.245017,27.300507 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+           id="path2706" />
+        <path
+           sodipodi:nodetypes="ccccccccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 56.317204,28.663124 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 m -7.395104,-3.320521 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m 0.264583,12.303124 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+           id="path2708" />
+      </g>
+    </g>
+    <g
+       id="g2194"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1904"
+         width="16.933334"
+         height="16.933332"
+         x="2.6660157e-07"
+         y="21.136509"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1906"
+         d="M 5.199062,33.254417 7.77875,33.8365 7.196666,36.416187 4.630208,35.847333 5.199062,33.254417 M 12.792604,21.1365 12.620625,22.657854 10.093854,22.366813 10.239375,21.1365 h 2.553229 M 0,23.583896 H 0.01323 L 0.48948,25.594729 1e-6,25.713792 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 6.932084,23.583888 5.25198,25.409513 3.426355,23.729409 5.106459,21.903784 6.932084,23.583888 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 M 9.53823,27.645242 8.10948,27.499721 l 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+         style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1908"
+         d="M 2.5e-5,21.136511 V 38.069843 H 16.93336 V 21.136511 Z"
+         style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1910"
+         d="m 2.4e-5,21.13651 2e-6,0.610062 16.932468,-10e-5 8.23e-4,-0.60996 z"
+         style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         d="m 2.6e-5,32.755172 v 5.314672 H 16.93336 v -5.314672 z"
+         id="path1912"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         d="m 2.4e-5,37.459766 2e-6,0.610062 16.932468,-1e-4 8.23e-4,-0.60996 z"
+         id="path1914"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1916"
+         d="m 0.609987,21.137373 -0.610062,2e-6 1e-4,16.932468 0.60996,8.23e-4 z"
+         style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         d="m 16.933317,21.136509 -0.610063,2e-6 1.01e-4,16.932468 0.609959,8.23e-4 z"
+         id="path1918"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1920"
+         d="m 11.813652,28.98141 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 2.196047,28.835885 2.870735,26.22974 5.476881,26.904427 4.802193,29.523802 2.196047,28.835885"
+         style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1922"
+         d="m 14.922505,23.160577 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 4.04813,31.283285 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+         style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1926"
+         d="m 8.255005,23.954314 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+         style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1928"
+         d="m 14.327192,27.433598 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 5.873755,24.113077 4.193651,25.938702 2.368026,24.258598 4.04813,22.432973 5.873755,24.113077"
+         style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 7.381094,37.092419 4.814636,36.523565 5.38349,33.930649 7.963178,34.512732 7.381094,37.092419"
+         id="path1934"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 11.089149,34.418558 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+         id="path1936"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="M 1.660677,34.542278 2.877761,34.118945 3.287865,35.349258 2.070781,35.759362 1.660677,34.542278"
+         id="path1938"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 8.752257,34.789759 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+         id="path1940"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         id="path1132"
+         d="m 14.829897,34.04819 -2.275417,0.277812 0.05292,-0.489479 0.132291,-1.322917 1.322917,-0.674687 0.304271,-0.15875 0.582083,2.354791 -0.119062,0.01323 m -1.230316,-5.675312 0.820209,-0.238125 0.515937,2.20927 -0.873125,0.211667 -1.322917,0.304271 h -0.01323 l -0.46302,-2.076979 -0.01323,-0.02646 1.349375,-0.383645 m -11.496145,5.662082 -0.132292,-0.01323 0.582083,-2.354791 0.3175,0.171979 1.309688,0.661458 0.145521,1.336147 0.03969,0.47625 -2.262187,-0.277813 m 0.767291,-3.492499 -0.873125,-0.211667 0.515938,-2.209271 0.833437,0.238125 1.336146,0.383646 v 0.03969 l -0.47625,2.06375 H 4.193648 L 2.870731,30.542462 m 1.322917,-3.346979 -0.555625,-0.648229 1.74625,-1.44198 0.542396,0.661459 0.899583,1.084791 -0.02646,0.02646 L 5.08,28.227359 4.193646,27.195484 m 3.135312,-1.878541 v -0.899587 l 2.2621877,0.01323 v 0.873125 l -0.01323,1.389063 -2.1695837,-0.01323 h -0.0926 l 0.01323,-1.362604 m 3.677709,0.449792 0.542395,-0.661459 1.74625,1.44198 -0.555625,0.648229 -0.886354,1.031875 -1.733021,-1.362604 -0.01323,-0.01323 0.899584,-1.084792"
+         style="fill:#b6b2b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         id="path1134"
+         d="m 11.006668,25.766732 -0.899584,1.084791 0.01323,0.01323 -0.5423953,-0.171979 0.01323,-1.389062 1.4155213,0.463021 m 3.055937,4.788958 v 1.283229 l -1.322917,0.674687 -0.132291,1.322917 H 4.325941 L 4.18042,32.500378 2.870732,31.83892 v -1.296458 l 1.322917,0.304271 v 0.634999 1.031875 h 8.546041 v -1.031875 -0.62177 l 1.322915,-0.304271 M 3.34698,28.359649 4.193647,27.195483 5.080001,28.227358 4.683126,28.782983 v -0.03969 L 3.34698,28.359647 m 2.579688,-2.592916 1.402291,-0.449792 -0.01323,1.362604 h 0.0926 l -0.608541,0.198438 0.02646,-0.02646 -0.899583,-1.084792 m 6.81302,1.42875 0.859896,1.177396 -1.349375,0.383646 0.01323,0.02646 -0.410104,-0.555625 0.886354,-1.031875"
+         style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         sodipodi:nodetypes="ccccccccccccccc"
+         id="path1136"
+         d="m 12.263438,28.782982 0.463021,2.076979 h 0.01323 l 10e-7,1.653646 -8.559273,-0.01323 0.01323,-1.653643 h 0.01323 l 0.47625,-2.06375 0.396875,-0.555625 1.719792,-1.349375 0.608541,-0.198438 2.1695837,0.01323 0.5423953,0.171979 1.733021,1.362605 0.410104,0.555625"
+         style="fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         id="path1138"
+         d="m 4.193647,31.481731 1.640417,-0.754062 2.645833,-0.291041 2.619375,0.291041 1.640416,0.754062 v 1.031875 H 4.193647 v -1.031875"
+         style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         id="path1140"
+         d="m 14.829897,34.04819 0.119062,0.515937 -2.394479,0.291042 0.05292,-0.489479 H 4.325939 l 0.03969,0.47625 -2.394479,-0.291042 0.132292,-0.515938 2.262187,0.277813 -0.03969,-0.47625 h 8.281458 l -0.05292,0.489479 2.275417,-0.277812"
+         style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_top.png"
+       id="g1858"
+       transform="translate(-20.166604,-20.225095)">
+      <g
+         transform="rotate(-2.0818203,2149.5046,352.25743)"
+         id="g1832" />
+      <g
+         id="g1856">
+        <rect
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect1834"
+           width="16.933334"
+           height="16.933332"
+           x="41.990013"
+           y="22.366034" />
+        <path
+           id="path1836"
+           d="m 47.189074,34.483943 2.579688,0.582083 -0.582084,2.579687 -2.566458,-0.568854 0.568854,-2.592916 m 7.593542,-12.117917 -0.171979,1.521354 -2.526771,-0.291041 0.145521,-1.230313 h 2.553229 m -12.792604,2.447396 h 0.01323 l 0.47625,2.010833 -0.489479,0.119063 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 m -7.540625,-12.091463 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 m -2.275417,-1.336146 -1.42875,-0.145521 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1838"
+           d="m 55.364876,-53.975119 -0.615131,16.922156 16.922158,0.615131 0.615131,-16.922156 z"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1840"
+           d="m 55.364875,-53.97512 -0.02216,0.60966 16.921296,0.614999 0.02298,-0.609527 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 54.771906,-37.662638 -0.02216,0.60966 16.921296,0.614999 0.02298,-0.609527 z"
+           id="path1842"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1844"
+           d="m 55.974404,-53.952099 -0.60966,-0.02216 -0.614999,16.921296 0.609527,0.02298 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 72.286991,-53.359991 -0.60966,-0.02216 -0.614999,16.921296 0.609527,0.02298 z"
+           id="path1846"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path1848"
+           d="m 53.803664,30.210936 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 2.778124,1.91823 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -6.707187,-3.452813 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 m -5.185834,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+        <path
+           id="path1850"
+           d="m 54.266684,25.448436 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 m -8.228542,7.064375 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m 4.458229,2.645833 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccc" />
+        <path
+           id="path1852"
+           d="m 50.245017,27.300507 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           id="path1854"
+           d="m 56.317204,28.663124 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 m -7.395104,-3.320521 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m 0.264583,12.303124 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccc" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+       id="g1886"
+       transform="translate(-20.166528,-1.2303414)">
+      <g
+         transform="rotate(-2.0818203,2149.5046,352.25743)"
+         id="g1860" />
+      <g
+         id="g1884">
+        <rect
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect1862"
+           width="16.933334"
+           height="16.933332"
+           x="41.990013"
+           y="22.366034"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path1864"
+           d="m 47.189074,34.483943 2.579688,0.582083 -0.582084,2.579687 -2.566458,-0.568854 0.568854,-2.592916 m 7.593542,-12.117917 -0.171979,1.521354 -2.526771,-0.291041 0.145521,-1.230313 h 2.553229 m -12.792604,2.447396 h 0.01323 l 0.47625,2.010833 -0.489479,0.119063 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 m -7.540625,-12.091463 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 m -2.275417,-1.336146 -1.42875,-0.145521 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1866"
+           d="m 55.364876,-53.975119 -0.615131,16.922156 16.922158,0.615131 0.615131,-16.922156 z"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1868"
+           d="m 55.364875,-53.97512 -0.02216,0.60966 16.921296,0.614999 0.02298,-0.609527 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="M 41.990038,33.984698 V 39.29937 H 58.923372 V 33.984698 Z"
+           id="path1894"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 54.771906,-37.662638 -0.02216,0.60966 16.921296,0.614999 0.02298,-0.609527 z"
+           id="path1870"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1872"
+           d="m 55.974404,-53.952099 -0.60966,-0.02216 -0.614999,16.921296 0.609527,0.02298 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           transform="rotate(-2.0818203,2149.5047,352.25676)"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 72.286991,-53.359991 -0.60966,-0.02216 -0.614999,16.921296 0.609527,0.02298 z"
+           id="path1874"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path1876"
+           d="m 53.803664,30.210936 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 m -5.185834,-0.886354 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path1878"
+           d="m 56.912517,24.390103 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 m -10.874375,8.122708 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#b6b2b8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect1892"
+           width="16.932547"
+           height="1.749192"
+           x="41.989937"
+           y="33.452061"
+           ry="0.013954144"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path1880"
+           d="m 50.245017,25.18384 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path1882"
+           d="m 56.317204,28.663124 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 m -8.453437,-3.320521 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1888"
+           d="m 41.990013,32.922893 2e-6,0.610063 16.932468,-1.01e-4 8.23e-4,-0.609959 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 41.990013,34.59129 2e-6,0.610063 16.932468,-1.01e-4 8.23e-4,-0.609959 z"
+           id="path1890"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 48.979885,38.495821 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+           id="path1896"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 53.079161,36.177251 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,0.859896 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+           id="path1898"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 43.389875,36.901997 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+           id="path1900"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 50.742269,36.019285 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           id="path1902"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+    </g>
+    <g
+       id="g2875"
+       transform="translate(65.654652,2.1200537)"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front_active.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="translate(-21.52684,-21.116449)"
+         id="g2289"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <rect
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect2247"
+           width="16.933334"
+           height="16.933332"
+           x="2.6660157e-07"
+           y="21.136509"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2249"
+           d="M 5.199062,33.254417 7.77875,33.8365 7.196666,36.416187 4.630208,35.847333 5.199062,33.254417 M 12.792604,21.1365 12.620625,22.657854 10.093854,22.366813 10.239375,21.1365 h 2.553229 M 0,23.583896 H 0.01323 L 0.48948,25.594729 1e-6,25.713792 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 6.932084,23.583888 5.25198,25.409513 3.426355,23.729409 5.106459,21.903784 6.932084,23.583888 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 M 9.53823,27.645242 8.10948,27.499721 l 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2251"
+           d="M 2.5e-5,21.136511 V 38.069843 H 16.93336 V 21.136511 Z"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2253"
+           d="m 2.4e-5,21.13651 2e-6,0.610062 16.932468,-10e-5 8.23e-4,-0.60996 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.6e-5,32.755172 v 5.314672 H 16.93336 v -5.314672 z"
+           id="path2255"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.4e-5,37.459766 2e-6,0.610062 16.932468,-1e-4 8.23e-4,-0.60996 z"
+           id="path2257"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2259"
+           d="m 0.609987,21.137373 -0.610062,2e-6 1e-4,16.932468 0.60996,8.23e-4 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 16.933317,21.136509 -0.610063,2e-6 1.01e-4,16.932468 0.609959,8.23e-4 z"
+           id="path2261"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2263"
+           d="m 11.813652,28.98141 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 2.196047,28.835885 2.870735,26.22974 5.476881,26.904427 4.802193,29.523802 2.196047,28.835885"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2265"
+           d="m 14.922505,23.160577 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 4.04813,31.283285 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2267"
+           d="m 8.255005,23.954314 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2269"
+           d="m 14.327192,27.433598 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 5.873755,24.113077 4.193651,25.938702 2.368026,24.258598 4.04813,22.432973 5.873755,24.113077"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 7.381094,37.092419 4.814636,36.523565 5.38349,33.930649 7.963178,34.512732 7.381094,37.092419"
+           id="path2271"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.089149,34.418558 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+           id="path2273"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 1.660677,34.542278 2.877761,34.118945 3.287865,35.349258 2.070781,35.759362 1.660677,34.542278"
+           id="path2275"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 8.752257,34.789759 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           id="path2277"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2279"
+           d="m 14.829897,34.04819 -2.275417,0.277812 0.05292,-0.489479 0.132291,-1.322917 1.322917,-0.674687 0.304271,-0.15875 0.582083,2.354791 -0.119062,0.01323 m -1.230316,-5.675312 0.820209,-0.238125 0.515937,2.20927 -0.873125,0.211667 -1.322917,0.304271 h -0.01323 l -0.46302,-2.076979 -0.01323,-0.02646 1.349375,-0.383645 m -11.496145,5.662082 -0.132292,-0.01323 0.582083,-2.354791 0.3175,0.171979 1.309688,0.661458 0.145521,1.336147 0.03969,0.47625 -2.262187,-0.277813 m 0.767291,-3.492499 -0.873125,-0.211667 0.515938,-2.209271 0.833437,0.238125 1.336146,0.383646 v 0.03969 l -0.47625,2.06375 H 4.193648 L 2.870731,30.542462 m 1.322917,-3.346979 -0.555625,-0.648229 1.74625,-1.44198 0.542396,0.661459 0.899583,1.084791 -0.02646,0.02646 L 5.08,28.227359 4.193646,27.195484 m 3.135312,-1.878541 v -0.899587 l 2.2621877,0.01323 v 0.873125 l -0.01323,1.389063 -2.1695837,-0.01323 h -0.0926 l 0.01323,-1.362604 m 3.677709,0.449792 0.542395,-0.661459 1.74625,1.44198 -0.555625,0.648229 -0.886354,1.031875 -1.733021,-1.362604 -0.01323,-0.01323 0.899584,-1.084792"
+           style="fill:#b6b2b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2281"
+           d="m 11.006668,25.766732 -0.899584,1.084791 0.01323,0.01323 -0.5423953,-0.171979 0.01323,-1.389062 1.4155213,0.463021 m 3.055937,4.788958 v 1.283229 l -1.322917,0.674687 -0.132291,1.322917 H 4.325941 L 4.18042,32.500378 2.870732,31.83892 v -1.296458 l 1.322917,0.304271 v 0.634999 1.031875 h 8.546041 v -1.031875 -0.62177 l 1.322915,-0.304271 M 3.34698,28.359649 4.193647,27.195483 5.080001,28.227358 4.683126,28.782983 v -0.03969 L 3.34698,28.359647 m 2.579688,-2.592916 1.402291,-0.449792 -0.01323,1.362604 h 0.0926 l -0.608541,0.198438 0.02646,-0.02646 -0.899583,-1.084792 m 6.81302,1.42875 0.859896,1.177396 -1.349375,0.383646 0.01323,0.02646 -0.410104,-0.555625 0.886354,-1.031875"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           sodipodi:nodetypes="ccccccccccccccc"
+           id="path2283"
+           d="m 12.263438,28.782982 0.463021,2.076979 h 0.01323 l 10e-7,1.653646 -8.559273,-0.01323 0.01323,-1.653643 h 0.01323 l 0.47625,-2.06375 0.396875,-0.555625 1.719792,-1.349375 0.608541,-0.198438 2.1695837,0.01323 0.5423953,0.171979 1.733021,1.362605 0.410104,0.555625"
+           style="fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2285"
+           d="m 4.193647,31.481731 1.640417,-0.754062 2.645833,-0.291041 2.619375,0.291041 1.640416,0.754062 v 1.031875 H 4.193647 v -1.031875"
+           style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2287"
+           d="m 14.829897,34.04819 0.119062,0.515937 -2.394479,0.291042 0.05292,-0.489479 H 4.325939 l 0.03969,0.47625 -2.394479,-0.291042 0.132292,-0.515938 2.262187,0.277813 -0.03969,-0.47625 h 8.281458 l -0.05292,0.489479 2.275417,-0.277812"
+           style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         id="g2333"
+         transform="translate(-21.526842,-4.183156)">
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           y="21.136509"
+           x="2.6660157e-07"
+           height="16.933332"
+           width="16.933334"
+           id="rect2291"
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:connector-curvature="0"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 5.199062,33.254417 7.77875,33.8365 7.196666,36.416187 4.630208,35.847333 5.199062,33.254417 M 12.792604,21.1365 12.620625,22.657854 10.093854,22.366813 10.239375,21.1365 h 2.553229 M 0,23.583896 H 0.01323 L 0.48948,25.594729 1e-6,25.713792 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 6.932084,23.583888 5.25198,25.409513 3.426355,23.729409 5.106459,21.903784 6.932084,23.583888 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 M 9.53823,27.645242 8.10948,27.499721 l 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           id="path2293" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="M 2.5e-5,21.136511 V 38.069843 H 16.93336 V 21.136511 Z"
+           id="path2295"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.4e-5,21.13651 2e-6,0.610062 16.932468,-10e-5 8.23e-4,-0.60996 z"
+           id="path2297"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2299"
+           d="m 2.6e-5,32.755172 v 5.314672 H 16.93336 v -5.314672 z"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2301"
+           d="m 2.4e-5,37.459766 2e-6,0.610062 16.932468,-1e-4 8.23e-4,-0.60996 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 0.609987,21.137373 -0.610062,2e-6 1e-4,16.932468 0.60996,8.23e-4 z"
+           id="path2303"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2305"
+           d="m 16.933317,21.136509 -0.610063,2e-6 1.01e-4,16.932468 0.609959,8.23e-4 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.813652,28.98141 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 2.196047,28.835885 2.870735,26.22974 5.476881,26.904427 4.802193,29.523802 2.196047,28.835885"
+           id="path2307" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.922505,23.160577 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 4.04813,31.283285 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+           id="path2309" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 8.255005,23.954314 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+           id="path2311" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.327192,27.433598 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 5.873755,24.113077 4.193651,25.938702 2.368026,24.258598 4.04813,22.432973 5.873755,24.113077"
+           id="path2313" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2315"
+           d="M 7.381094,37.092419 4.814636,36.523565 5.38349,33.930649 7.963178,34.512732 7.381094,37.092419"
+           style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2317"
+           d="m 11.089149,34.418558 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2319"
+           d="M 1.660677,34.542278 2.877761,34.118945 3.287865,35.349258 2.070781,35.759362 1.660677,34.542278"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2321"
+           d="m 8.752257,34.789759 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#b6b2b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.829897,34.04819 -2.275417,0.277812 0.05292,-0.489479 0.132291,-1.322917 1.322917,-0.674687 0.304271,-0.15875 0.582083,2.354791 -0.119062,0.01323 m -1.230316,-5.675312 0.820209,-0.238125 0.515937,2.20927 -0.873125,0.211667 -1.322917,0.304271 h -0.01323 l -0.46302,-2.076979 -0.01323,-0.02646 1.349375,-0.383645 m -11.496145,5.662082 -0.132292,-0.01323 0.582083,-2.354791 0.3175,0.171979 1.309688,0.661458 0.145521,1.336147 0.03969,0.47625 -2.262187,-0.277813 m 0.767291,-3.492499 -0.873125,-0.211667 0.515938,-2.209271 0.833437,0.238125 1.336146,0.383646 v 0.03969 l -0.47625,2.06375 H 4.193648 L 2.870731,30.542462 m 1.322917,-3.346979 -0.555625,-0.648229 1.74625,-1.44198 0.542396,0.661459 0.899583,1.084791 -0.02646,0.02646 L 5.08,28.227359 4.193646,27.195484 m 3.135312,-1.878541 v -0.899587 l 2.2621877,0.01323 v 0.873125 l -0.01323,1.389063 -2.1695837,-0.01323 h -0.0926 l 0.01323,-1.362604 m 3.677709,0.449792 0.542395,-0.661459 1.74625,1.44198 -0.555625,0.648229 -0.886354,1.031875 -1.733021,-1.362604 -0.01323,-0.01323 0.899584,-1.084792"
+           id="path2323"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.006668,25.766732 -0.899584,1.084791 0.01323,0.01323 -0.5423953,-0.171979 0.01323,-1.389062 1.4155213,0.463021 m 3.055937,4.788958 v 1.283229 l -1.322917,0.674687 -0.132291,1.322917 H 4.325941 L 4.18042,32.500378 2.870732,31.83892 v -1.296458 l 1.322917,0.304271 v 0.634999 1.031875 h 8.546041 v -1.031875 -0.62177 l 1.322915,-0.304271 M 3.34698,28.359649 4.193647,27.195483 5.080001,28.227358 4.683126,28.782983 v -0.03969 L 3.34698,28.359647 m 2.579688,-2.592916 1.402291,-0.449792 -0.01323,1.362604 h 0.0926 l -0.608541,0.198438 0.02646,-0.02646 -0.899583,-1.084792 m 6.81302,1.42875 0.859896,1.177396 -1.349375,0.383646 0.01323,0.02646 -0.410104,-0.555625 0.886354,-1.031875"
+           id="path2325"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 12.263438,28.782982 0.463021,2.076979 h 0.01323 l 10e-7,1.653646 -8.559273,-0.01323 0.01323,-1.653643 h 0.01323 l 0.47625,-2.06375 0.396875,-0.555625 1.719792,-1.349375 0.608541,-0.198438 2.1695837,0.01323 0.5423953,0.171979 1.733021,1.362605 0.410104,0.555625"
+           id="path2327"
+           sodipodi:nodetypes="ccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 4.193647,31.481731 1.640417,-0.754062 2.645833,-0.291041 2.619375,0.291041 1.640416,0.754062 v 1.031875 H 4.193647 v -1.031875"
+           id="path2329"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+           d="m 14.829897,34.04819 0.119062,0.515937 -2.394479,0.291042 0.05292,-0.489479 H 4.325939 l 0.03969,0.47625 -2.394479,-0.291042 0.132292,-0.515938 2.262187,0.277813 -0.03969,-0.47625 h 8.281458 l -0.05292,0.489479 2.275417,-0.277812"
+           id="path2331"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <g
+         transform="translate(-21.526844,12.750137)"
+         id="g2377"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <rect
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect2335"
+           width="16.933334"
+           height="16.933332"
+           x="2.6660157e-07"
+           y="21.136509"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2337"
+           d="M 5.199062,33.254417 7.77875,33.8365 7.196666,36.416187 4.630208,35.847333 5.199062,33.254417 M 12.792604,21.1365 12.620625,22.657854 10.093854,22.366813 10.239375,21.1365 h 2.553229 M 0,23.583896 H 0.01323 L 0.48948,25.594729 1e-6,25.713792 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 6.932084,23.583888 5.25198,25.409513 3.426355,23.729409 5.106459,21.903784 6.932084,23.583888 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 M 9.53823,27.645242 8.10948,27.499721 l 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2339"
+           d="M 2.5e-5,21.136511 V 38.069843 H 16.93336 V 21.136511 Z"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2341"
+           d="m 2.4e-5,21.13651 2e-6,0.610062 16.932468,-10e-5 8.23e-4,-0.60996 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.6e-5,32.755172 v 5.314672 H 16.93336 v -5.314672 z"
+           id="path2343"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.4e-5,37.459766 2e-6,0.610062 16.932468,-1e-4 8.23e-4,-0.60996 z"
+           id="path2345"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2347"
+           d="m 0.609987,21.137373 -0.610062,2e-6 1e-4,16.932468 0.60996,8.23e-4 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 16.933317,21.136509 -0.610063,2e-6 1.01e-4,16.932468 0.609959,8.23e-4 z"
+           id="path2349"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2351"
+           d="m 11.813652,28.98141 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 2.196047,28.835885 2.870735,26.22974 5.476881,26.904427 4.802193,29.523802 2.196047,28.835885"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2353"
+           d="m 14.922505,23.160577 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 4.04813,31.283285 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2355"
+           d="m 8.255005,23.954314 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2357"
+           d="m 14.327192,27.433598 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 5.873755,24.113077 4.193651,25.938702 2.368026,24.258598 4.04813,22.432973 5.873755,24.113077"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 7.381094,37.092419 4.814636,36.523565 5.38349,33.930649 7.963178,34.512732 7.381094,37.092419"
+           id="path2359"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.089149,34.418558 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+           id="path2361"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 1.660677,34.542278 2.877761,34.118945 3.287865,35.349258 2.070781,35.759362 1.660677,34.542278"
+           id="path2363"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 8.752257,34.789759 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           id="path2365"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2367"
+           d="m 14.829897,34.04819 -2.275417,0.277812 0.05292,-0.489479 0.132291,-1.322917 1.322917,-0.674687 0.304271,-0.15875 0.582083,2.354791 -0.119062,0.01323 m -1.230316,-5.675312 0.820209,-0.238125 0.515937,2.20927 -0.873125,0.211667 -1.322917,0.304271 h -0.01323 l -0.46302,-2.076979 -0.01323,-0.02646 1.349375,-0.383645 m -11.496145,5.662082 -0.132292,-0.01323 0.582083,-2.354791 0.3175,0.171979 1.309688,0.661458 0.145521,1.336147 0.03969,0.47625 -2.262187,-0.277813 m 0.767291,-3.492499 -0.873125,-0.211667 0.515938,-2.209271 0.833437,0.238125 1.336146,0.383646 v 0.03969 l -0.47625,2.06375 H 4.193648 L 2.870731,30.542462 m 1.322917,-3.346979 -0.555625,-0.648229 1.74625,-1.44198 0.542396,0.661459 0.899583,1.084791 -0.02646,0.02646 L 5.08,28.227359 4.193646,27.195484 m 3.135312,-1.878541 v -0.899587 l 2.2621877,0.01323 v 0.873125 l -0.01323,1.389063 -2.1695837,-0.01323 h -0.0926 l 0.01323,-1.362604 m 3.677709,0.449792 0.542395,-0.661459 1.74625,1.44198 -0.555625,0.648229 -0.886354,1.031875 -1.733021,-1.362604 -0.01323,-0.01323 0.899584,-1.084792"
+           style="fill:#b6b2b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2369"
+           d="m 11.006668,25.766732 -0.899584,1.084791 0.01323,0.01323 -0.5423953,-0.171979 0.01323,-1.389062 1.4155213,0.463021 m 3.055937,4.788958 v 1.283229 l -1.322917,0.674687 -0.132291,1.322917 H 4.325941 L 4.18042,32.500378 2.870732,31.83892 v -1.296458 l 1.322917,0.304271 v 0.634999 1.031875 h 8.546041 v -1.031875 -0.62177 l 1.322915,-0.304271 M 3.34698,28.359649 4.193647,27.195483 5.080001,28.227358 4.683126,28.782983 v -0.03969 L 3.34698,28.359647 m 2.579688,-2.592916 1.402291,-0.449792 -0.01323,1.362604 h 0.0926 l -0.608541,0.198438 0.02646,-0.02646 -0.899583,-1.084792 m 6.81302,1.42875 0.859896,1.177396 -1.349375,0.383646 0.01323,0.02646 -0.410104,-0.555625 0.886354,-1.031875"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           sodipodi:nodetypes="ccccccccccccccc"
+           id="path2371"
+           d="m 12.263438,28.782982 0.463021,2.076979 h 0.01323 l 10e-7,1.653646 -8.559273,-0.01323 0.01323,-1.653643 h 0.01323 l 0.47625,-2.06375 0.396875,-0.555625 1.719792,-1.349375 0.608541,-0.198438 2.1695837,0.01323 0.5423953,0.171979 1.733021,1.362605 0.410104,0.555625"
+           style="fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2373"
+           d="m 4.193647,31.481731 1.640417,-0.754062 2.645833,-0.291041 2.619375,0.291041 1.640416,0.754062 v 1.031875 H 4.193647 v -1.031875"
+           style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2375"
+           d="m 14.829897,34.04819 0.119062,0.515937 -2.394479,0.291042 0.05292,-0.489479 H 4.325939 l 0.03969,0.47625 -2.394479,-0.291042 0.132292,-0.515938 2.262187,0.277813 -0.03969,-0.47625 h 8.281458 l -0.05292,0.489479 2.275417,-0.277812"
+           style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(30.309824,-6.6968902)"
+         id="g2513">
+        <path
+           inkscape:connector-curvature="0"
+           id="path84"
+           style="fill:#fe9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           d="m -42.099548,14.965719 c 0.07297,0.333978 -0.234983,0.726536 -0.372976,0.931086 0.106922,-0.944976 -0.481112,-1.387059 -0.481112,-1.387059 -0.848272,-0.801242 -0.05823,-1.834985 -0.05823,-1.834985 -1.524909,0.583538 -1.508322,2.838695 -1.508322,2.838695 -0.373624,-0.487733 -0.184888,-1.244494 -0.184888,-1.244494 -1.4082,1.541594 -1.289778,3.640381 1.099872,3.617916 2.144116,-0.128629 1.899136,-2.429987 1.50565,-2.921159"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           sodipodi:nodetypes="ccccccc"
+           d="m -42.130873,15.851926 c 0.05606,0.201037 -0.564733,0.729342 -0.916641,0.85247 0.333716,-1.030893 -0.735784,-1.244235 -0.675606,-2.523513 -0.648934,1.058215 -0.421032,2.415704 -0.421032,2.415704 -0.701978,-0.0016 -0.818253,-1.025755 -0.818253,-1.025755 -0.467065,1.143121 -0.468303,2.32964 1.367477,2.316117 1.647156,-0.07743 1.474326,-1.524202 1.479414,-2.06576"
+           style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           id="path2241"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(30.373567,4.0039472)"
+         id="g2517">
+        <path
+           sodipodi:nodetypes="ccccscccc"
+           d="m -42.330076,20.636731 c 0.07297,0.333978 -0.3733,1.049277 -0.511293,1.253827 -0.0775,-0.960345 -0.404269,-1.310216 -0.404269,-1.310216 -0.48739,-0.606004 -0.453794,-1.596039 -0.488551,-1.589087 -0.470882,0.440766 -0.589535,1.031165 -0.511244,1.524062 0.122891,0.773683 -0.411732,1.352731 -0.42844,1.299264 -0.465835,-0.211099 -0.323206,-0.983228 -0.323206,-0.983228 -1.193039,1.37254 -0.920931,3.240798 1.361139,3.35665 2.405382,-0.174735 1.791556,-2.983257 1.305858,-3.551272"
+           style="fill:#fe9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           id="path2239"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2245"
+           style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           d="m -42.405315,21.65776 c 0.05266,0.229284 -0.25403,1.043094 -0.599513,1.10668 -0.109202,-1.37748 -0.818642,-1.106055 -0.7519,-2.297811 -0.24761,0.410176 -0.271763,0.861605 -0.230632,1.19999 0.06498,0.53457 -0.297134,1.05163 -0.309192,1.014924 -0.551339,0.147078 -0.924835,-0.89017 -0.924835,-0.89017 -0.430658,1.218916 0.01161,2.455412 1.673879,2.39663 1.84347,-0.365858 1.461966,-2.155655 1.111452,-2.545611"
+           sodipodi:nodetypes="cccscccc" />
+      </g>
+      <g
+         transform="translate(29.960375,14.587303)"
+         id="g2521">
+        <path
+           sodipodi:nodetypes="cccccccc"
+           d="m -44.984824,27.567969 c -0.07297,0.333978 0.234983,0.726536 0.372976,0.931086 -0.106922,-0.944976 0.481112,-1.387059 0.481112,-1.387059 0.848272,-0.801242 0.05823,-1.834985 0.05823,-1.834985 1.524909,0.583538 1.508322,2.838695 1.508322,2.838695 0.373624,-0.487733 0.184888,-1.244494 0.184888,-1.244494 1.4082,1.541594 1.289778,3.640381 -1.099872,3.617916 -2.144116,-0.128629 -1.899136,-2.429987 -1.50565,-2.921159"
+           style="fill:#fe9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           id="path2235"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2243"
+           style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           d="m -44.943758,28.438808 c -0.05606,0.201037 0.564733,0.729342 0.916641,0.85247 -0.333716,-1.030893 0.735784,-1.244235 0.675606,-2.523513 0.648934,1.058215 0.421032,2.415704 0.421032,2.415704 0.701978,-0.0016 0.818253,-1.025755 0.818253,-1.025755 0.467065,1.143121 0.468303,2.32964 -1.367477,2.316117 -1.647156,-0.07743 -1.474326,-1.524202 -1.479414,-2.06576"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+      <g
+         transform="translate(-21.526844,29.684303)"
+         id="g2611"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <rect
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect2569"
+           width="16.933334"
+           height="16.933332"
+           x="2.6660157e-07"
+           y="21.136509"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2571"
+           d="M 5.199062,33.254417 7.77875,33.8365 7.196666,36.416187 4.630208,35.847333 5.199062,33.254417 M 12.792604,21.1365 12.620625,22.657854 10.093854,22.366813 10.239375,21.1365 h 2.553229 M 0,23.583896 H 0.01323 L 0.48948,25.594729 1e-6,25.713792 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 6.932084,23.583888 5.25198,25.409513 3.426355,23.729409 5.106459,21.903784 6.932084,23.583888 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 M 9.53823,27.645242 8.10948,27.499721 l 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2573"
+           d="M 2.5e-5,21.136511 V 38.069843 H 16.93336 V 21.136511 Z"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2575"
+           d="m 2.4e-5,21.13651 2e-6,0.610062 16.932468,-10e-5 8.23e-4,-0.60996 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.6e-5,32.755172 v 5.314672 H 16.93336 v -5.314672 z"
+           id="path2577"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.4e-5,37.459766 2e-6,0.610062 16.932468,-1e-4 8.23e-4,-0.60996 z"
+           id="path2579"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2581"
+           d="m 0.609987,21.137373 -0.610062,2e-6 1e-4,16.932468 0.60996,8.23e-4 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 16.933317,21.136509 -0.610063,2e-6 1.01e-4,16.932468 0.609959,8.23e-4 z"
+           id="path2583"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2585"
+           d="m 11.813652,28.98141 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 2.196047,28.835885 2.870735,26.22974 5.476881,26.904427 4.802193,29.523802 2.196047,28.835885"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2587"
+           d="m 14.922505,23.160577 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 4.04813,31.283285 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2589"
+           d="m 8.255005,23.954314 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path2591"
+           d="m 14.327192,27.433598 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 5.873755,24.113077 4.193651,25.938702 2.368026,24.258598 4.04813,22.432973 5.873755,24.113077"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 7.381094,37.092419 4.814636,36.523565 5.38349,33.930649 7.963178,34.512732 7.381094,37.092419"
+           id="path2593"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.089149,34.418558 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+           id="path2595"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 1.660677,34.542278 2.877761,34.118945 3.287865,35.349258 2.070781,35.759362 1.660677,34.542278"
+           id="path2597"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 8.752257,34.789759 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           id="path2599"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2601"
+           d="m 14.829897,34.04819 -2.275417,0.277812 0.05292,-0.489479 0.132291,-1.322917 1.322917,-0.674687 0.304271,-0.15875 0.582083,2.354791 -0.119062,0.01323 m -1.230316,-5.675312 0.820209,-0.238125 0.515937,2.20927 -0.873125,0.211667 -1.322917,0.304271 h -0.01323 l -0.46302,-2.076979 -0.01323,-0.02646 1.349375,-0.383645 m -11.496145,5.662082 -0.132292,-0.01323 0.582083,-2.354791 0.3175,0.171979 1.309688,0.661458 0.145521,1.336147 0.03969,0.47625 -2.262187,-0.277813 m 0.767291,-3.492499 -0.873125,-0.211667 0.515938,-2.209271 0.833437,0.238125 1.336146,0.383646 v 0.03969 l -0.47625,2.06375 H 4.193648 L 2.870731,30.542462 m 1.322917,-3.346979 -0.555625,-0.648229 1.74625,-1.44198 0.542396,0.661459 0.899583,1.084791 -0.02646,0.02646 L 5.08,28.227359 4.193646,27.195484 m 3.135312,-1.878541 v -0.899587 l 2.2621877,0.01323 v 0.873125 l -0.01323,1.389063 -2.1695837,-0.01323 h -0.0926 l 0.01323,-1.362604 m 3.677709,0.449792 0.542395,-0.661459 1.74625,1.44198 -0.555625,0.648229 -0.886354,1.031875 -1.733021,-1.362604 -0.01323,-0.01323 0.899584,-1.084792"
+           style="fill:#b6b2b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2603"
+           d="m 11.006668,25.766732 -0.899584,1.084791 0.01323,0.01323 -0.5423953,-0.171979 0.01323,-1.389062 1.4155213,0.463021 m 3.055937,4.788958 v 1.283229 l -1.322917,0.674687 -0.132291,1.322917 H 4.325941 L 4.18042,32.500378 2.870732,31.83892 v -1.296458 l 1.322917,0.304271 v 0.634999 1.031875 h 8.546041 v -1.031875 -0.62177 l 1.322915,-0.304271 M 3.34698,28.359649 4.193647,27.195483 5.080001,28.227358 4.683126,28.782983 v -0.03969 L 3.34698,28.359647 m 2.579688,-2.592916 1.402291,-0.449792 -0.01323,1.362604 h 0.0926 l -0.608541,0.198438 0.02646,-0.02646 -0.899583,-1.084792 m 6.81302,1.42875 0.859896,1.177396 -1.349375,0.383646 0.01323,0.02646 -0.410104,-0.555625 0.886354,-1.031875"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           sodipodi:nodetypes="ccccccccccccccc"
+           id="path2605"
+           d="m 12.263438,28.782982 0.463021,2.076979 h 0.01323 l 10e-7,1.653646 -8.559273,-0.01323 0.01323,-1.653643 h 0.01323 l 0.47625,-2.06375 0.396875,-0.555625 1.719792,-1.349375 0.608541,-0.198438 2.1695837,0.01323 0.5423953,0.171979 1.733021,1.362605 0.410104,0.555625"
+           style="fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2607"
+           d="m 4.193647,31.481731 1.640417,-0.754062 2.645833,-0.291041 2.619375,0.291041 1.640416,0.754062 v 1.031875 H 4.193647 v -1.031875"
+           style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           id="path2609"
+           d="m 14.829897,34.04819 0.119062,0.515937 -2.394479,0.291042 0.05292,-0.489479 H 4.325939 l 0.03969,0.47625 -2.394479,-0.291042 0.132292,-0.515938 2.262187,0.277813 -0.03969,-0.47625 h 8.281458 l -0.05292,0.489479 2.275417,-0.277812"
+           style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         id="g2655"
+         transform="translate(-21.526846,46.617596)">
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           y="21.136509"
+           x="2.6660157e-07"
+           height="16.933332"
+           width="16.933334"
+           id="rect2613"
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:connector-curvature="0"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 5.199062,33.254417 7.77875,33.8365 7.196666,36.416187 4.630208,35.847333 5.199062,33.254417 M 12.792604,21.1365 12.620625,22.657854 10.093854,22.366813 10.239375,21.1365 h 2.553229 M 0,23.583896 H 0.01323 L 0.48948,25.594729 1e-6,25.713792 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 6.932084,23.583888 5.25198,25.409513 3.426355,23.729409 5.106459,21.903784 6.932084,23.583888 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 M 9.53823,27.645242 8.10948,27.499721 l 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           id="path2615" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="M 2.5e-5,21.136511 V 38.069843 H 16.93336 V 21.136511 Z"
+           id="path2617"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.4e-5,21.13651 2e-6,0.610062 16.932468,-10e-5 8.23e-4,-0.60996 z"
+           id="path2619"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2621"
+           d="m 2.6e-5,32.755172 v 5.314672 H 16.93336 v -5.314672 z"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2623"
+           d="m 2.4e-5,37.459766 2e-6,0.610062 16.932468,-1e-4 8.23e-4,-0.60996 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 0.609987,21.137373 -0.610062,2e-6 1e-4,16.932468 0.60996,8.23e-4 z"
+           id="path2625"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2627"
+           d="m 16.933317,21.136509 -0.610063,2e-6 1.01e-4,16.932468 0.609959,8.23e-4 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.813652,28.98141 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 2.196047,28.835885 2.870735,26.22974 5.476881,26.904427 4.802193,29.523802 2.196047,28.835885"
+           id="path2629" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.922505,23.160577 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 4.04813,31.283285 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+           id="path2631" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 8.255005,23.954314 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+           id="path2633" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.327192,27.433598 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 5.873755,24.113077 4.193651,25.938702 2.368026,24.258598 4.04813,22.432973 5.873755,24.113077"
+           id="path2635" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2637"
+           d="M 7.381094,37.092419 4.814636,36.523565 5.38349,33.930649 7.963178,34.512732 7.381094,37.092419"
+           style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2639"
+           d="m 11.089149,34.418558 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2641"
+           d="M 1.660677,34.542278 2.877761,34.118945 3.287865,35.349258 2.070781,35.759362 1.660677,34.542278"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2643"
+           d="m 8.752257,34.789759 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#b6b2b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.829897,34.04819 -2.275417,0.277812 0.05292,-0.489479 0.132291,-1.322917 1.322917,-0.674687 0.304271,-0.15875 0.582083,2.354791 -0.119062,0.01323 m -1.230316,-5.675312 0.820209,-0.238125 0.515937,2.20927 -0.873125,0.211667 -1.322917,0.304271 h -0.01323 l -0.46302,-2.076979 -0.01323,-0.02646 1.349375,-0.383645 m -11.496145,5.662082 -0.132292,-0.01323 0.582083,-2.354791 0.3175,0.171979 1.309688,0.661458 0.145521,1.336147 0.03969,0.47625 -2.262187,-0.277813 m 0.767291,-3.492499 -0.873125,-0.211667 0.515938,-2.209271 0.833437,0.238125 1.336146,0.383646 v 0.03969 l -0.47625,2.06375 H 4.193648 L 2.870731,30.542462 m 1.322917,-3.346979 -0.555625,-0.648229 1.74625,-1.44198 0.542396,0.661459 0.899583,1.084791 -0.02646,0.02646 L 5.08,28.227359 4.193646,27.195484 m 3.135312,-1.878541 v -0.899587 l 2.2621877,0.01323 v 0.873125 l -0.01323,1.389063 -2.1695837,-0.01323 h -0.0926 l 0.01323,-1.362604 m 3.677709,0.449792 0.542395,-0.661459 1.74625,1.44198 -0.555625,0.648229 -0.886354,1.031875 -1.733021,-1.362604 -0.01323,-0.01323 0.899584,-1.084792"
+           id="path2645"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.006668,25.766732 -0.899584,1.084791 0.01323,0.01323 -0.5423953,-0.171979 0.01323,-1.389062 1.4155213,0.463021 m 3.055937,4.788958 v 1.283229 l -1.322917,0.674687 -0.132291,1.322917 H 4.325941 L 4.18042,32.500378 2.870732,31.83892 v -1.296458 l 1.322917,0.304271 v 0.634999 1.031875 h 8.546041 v -1.031875 -0.62177 l 1.322915,-0.304271 M 3.34698,28.359649 4.193647,27.195483 5.080001,28.227358 4.683126,28.782983 v -0.03969 L 3.34698,28.359647 m 2.579688,-2.592916 1.402291,-0.449792 -0.01323,1.362604 h 0.0926 l -0.608541,0.198438 0.02646,-0.02646 -0.899583,-1.084792 m 6.81302,1.42875 0.859896,1.177396 -1.349375,0.383646 0.01323,0.02646 -0.410104,-0.555625 0.886354,-1.031875"
+           id="path2647"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 12.263438,28.782982 0.463021,2.076979 h 0.01323 l 10e-7,1.653646 -8.559273,-0.01323 0.01323,-1.653643 h 0.01323 l 0.47625,-2.06375 0.396875,-0.555625 1.719792,-1.349375 0.608541,-0.198438 2.1695837,0.01323 0.5423953,0.171979 1.733021,1.362605 0.410104,0.555625"
+           id="path2649"
+           sodipodi:nodetypes="ccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 4.193647,31.481731 1.640417,-0.754062 2.645833,-0.291041 2.619375,0.291041 1.640416,0.754062 v 1.031875 H 4.193647 v -1.031875"
+           id="path2651"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+           d="m 14.829897,34.04819 0.119062,0.515937 -2.394479,0.291042 0.05292,-0.489479 H 4.325939 l 0.03969,0.47625 -2.394479,-0.291042 0.132292,-0.515938 2.262187,0.277813 -0.03969,-0.47625 h 8.281458 l -0.05292,0.489479 2.275417,-0.277812"
+           id="path2653"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <g
+         id="g2667"
+         transform="translate(30.373565,37.871407)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2663"
+           style="fill:#fe9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           d="m -42.330076,20.636731 c 0.07297,0.333978 -0.3733,1.049277 -0.511293,1.253827 -0.0775,-0.960345 -0.404269,-1.310216 -0.404269,-1.310216 -0.48739,-0.606004 -0.453794,-1.596039 -0.488551,-1.589087 -0.470882,0.440766 -0.589535,1.031165 -0.511244,1.524062 0.122891,0.773683 -0.411732,1.352731 -0.42844,1.299264 -0.465835,-0.211099 -0.323206,-0.983228 -0.323206,-0.983228 -1.193039,1.37254 -0.920931,3.240798 1.361139,3.35665 2.405382,-0.174735 1.791556,-2.983257 1.305858,-3.551272"
+           sodipodi:nodetypes="ccccscccc" />
+        <path
+           sodipodi:nodetypes="cccscccc"
+           d="m -42.405315,21.65776 c 0.05266,0.229284 -0.25403,1.043094 -0.599513,1.10668 -0.109202,-1.37748 -0.818642,-1.106055 -0.7519,-2.297811 -0.24761,0.410176 -0.271763,0.861605 -0.230632,1.19999 0.06498,0.53457 -0.297134,1.05163 -0.309192,1.014924 -0.551339,0.147078 -0.924835,-0.89017 -0.924835,-0.89017 -0.430658,1.218916 0.01161,2.455412 1.673879,2.39663 1.84347,-0.365858 1.461966,-2.155655 1.111452,-2.545611"
+           style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           id="path2665"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g2673"
+         transform="translate(29.960373,48.454762)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2669"
+           style="fill:#fe9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           d="m -44.984824,27.567969 c -0.07297,0.333978 0.234983,0.726536 0.372976,0.931086 -0.106922,-0.944976 0.481112,-1.387059 0.481112,-1.387059 0.848272,-0.801242 0.05823,-1.834985 0.05823,-1.834985 1.524909,0.583538 1.508322,2.838695 1.508322,2.838695 0.373624,-0.487733 0.184888,-1.244494 0.184888,-1.244494 1.4082,1.541594 1.289778,3.640381 -1.099872,3.617916 -2.144116,-0.128629 -1.899136,-2.429987 -1.50565,-2.921159"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           sodipodi:nodetypes="ccccccc"
+           d="m -44.943758,28.438808 c -0.05606,0.201037 0.564733,0.729342 0.916641,0.85247 -0.333716,-1.030893 0.735784,-1.244235 0.675606,-2.523513 0.648934,1.058215 0.421032,2.415704 0.421032,2.415704 0.701978,-0.0016 0.818253,-1.025755 0.818253,-1.025755 0.467065,1.143121 0.468303,2.32964 -1.367477,2.316117 -1.647156,-0.07743 -1.474326,-1.524202 -1.479414,-2.06576"
+           style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           id="path2671"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+         id="g2717"
+         transform="translate(-21.526848,63.550889)">
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           y="21.136509"
+           x="2.6660157e-07"
+           height="16.933332"
+           width="16.933334"
+           id="rect2675"
+           style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           inkscape:connector-curvature="0"
+           style="fill:#3c3c40;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="M 5.199062,33.254417 7.77875,33.8365 7.196666,36.416187 4.630208,35.847333 5.199062,33.254417 M 12.792604,21.1365 12.620625,22.657854 10.093854,22.366813 10.239375,21.1365 h 2.553229 M 0,23.583896 H 0.01323 L 0.48948,25.594729 1e-6,25.713792 v -2.129896 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 6.932084,23.583888 5.25198,25.409513 3.426355,23.729409 5.106459,21.903784 6.932084,23.583888 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337396,-7.223125 0.926041,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.11125,-0.912812 M 9.53823,27.645242 8.10948,27.499721 l 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 -0.674688,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+           id="path2677" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#79767a;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="M 2.5e-5,21.136511 V 38.069843 H 16.93336 V 21.136511 Z"
+           id="path2679"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 2.4e-5,21.13651 2e-6,0.610062 16.932468,-10e-5 8.23e-4,-0.60996 z"
+           id="path2681"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2683"
+           d="m 2.6e-5,32.755172 v 5.314672 H 16.93336 v -5.314672 z"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2685"
+           d="m 2.4e-5,37.459766 2e-6,0.610062 16.932468,-1e-4 8.23e-4,-0.60996 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           d="m 0.609987,21.137373 -0.610062,2e-6 1e-4,16.932468 0.60996,8.23e-4 z"
+           id="path2687"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path2689"
+           d="m 16.933317,21.136509 -0.610063,2e-6 1.01e-4,16.932468 0.609959,8.23e-4 z"
+           style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458335" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.813652,28.98141 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -8.043333,0.07937 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 2.196047,28.835885 2.870735,26.22974 5.476881,26.904427 4.802193,29.523802 2.196047,28.835885"
+           id="path2691" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.922505,23.160577 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 4.04813,31.283285 c -0.971108,1.428555 -0.667385,1.284932 -1.997605,0.3175 l 0.846667,-1.150937 1.150938,0.833437"
+           id="path2693" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 8.255005,23.954314 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875"
+           id="path2695" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.75;fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.327192,27.433598 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 5.873755,24.113077 4.193651,25.938702 2.368026,24.258598 4.04813,22.432973 5.873755,24.113077"
+           id="path2697" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2699"
+           d="M 7.381094,37.092419 4.814636,36.523565 5.38349,33.930649 7.963178,34.512732 7.381094,37.092419"
+           style="opacity:0.75;fill:#8c888e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2701"
+           d="m 11.089149,34.418558 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979"
+           style="opacity:0.75;fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2703"
+           d="M 1.660677,34.542278 2.877761,34.118945 3.287865,35.349258 2.070781,35.759362 1.660677,34.542278"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_side.png"
+           id="path2705"
+           d="m 8.752257,34.789759 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+           style="opacity:0.75;fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#b6b2b8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 14.829897,34.04819 -2.275417,0.277812 0.05292,-0.489479 0.132291,-1.322917 1.322917,-0.674687 0.304271,-0.15875 0.582083,2.354791 -0.119062,0.01323 m -1.230316,-5.675312 0.820209,-0.238125 0.515937,2.20927 -0.873125,0.211667 -1.322917,0.304271 h -0.01323 l -0.46302,-2.076979 -0.01323,-0.02646 1.349375,-0.383645 m -11.496145,5.662082 -0.132292,-0.01323 0.582083,-2.354791 0.3175,0.171979 1.309688,0.661458 0.145521,1.336147 0.03969,0.47625 -2.262187,-0.277813 m 0.767291,-3.492499 -0.873125,-0.211667 0.515938,-2.209271 0.833437,0.238125 1.336146,0.383646 v 0.03969 l -0.47625,2.06375 H 4.193648 L 2.870731,30.542462 m 1.322917,-3.346979 -0.555625,-0.648229 1.74625,-1.44198 0.542396,0.661459 0.899583,1.084791 -0.02646,0.02646 L 5.08,28.227359 4.193646,27.195484 m 3.135312,-1.878541 v -0.899587 l 2.2621877,0.01323 v 0.873125 l -0.01323,1.389063 -2.1695837,-0.01323 h -0.0926 l 0.01323,-1.362604 m 3.677709,0.449792 0.542395,-0.661459 1.74625,1.44198 -0.555625,0.648229 -0.886354,1.031875 -1.733021,-1.362604 -0.01323,-0.01323 0.899584,-1.084792"
+           id="path2707"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#a19da3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 11.006668,25.766732 -0.899584,1.084791 0.01323,0.01323 -0.5423953,-0.171979 0.01323,-1.389062 1.4155213,0.463021 m 3.055937,4.788958 v 1.283229 l -1.322917,0.674687 -0.132291,1.322917 H 4.325941 L 4.18042,32.500378 2.870732,31.83892 v -1.296458 l 1.322917,0.304271 v 0.634999 1.031875 h 8.546041 v -1.031875 -0.62177 l 1.322915,-0.304271 M 3.34698,28.359649 4.193647,27.195483 5.080001,28.227358 4.683126,28.782983 v -0.03969 L 3.34698,28.359647 m 2.579688,-2.592916 1.402291,-0.449792 -0.01323,1.362604 h 0.0926 l -0.608541,0.198438 0.02646,-0.02646 -0.899583,-1.084792 m 6.81302,1.42875 0.859896,1.177396 -1.349375,0.383646 0.01323,0.02646 -0.410104,-0.555625 0.886354,-1.031875"
+           id="path2709"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 12.263438,28.782982 0.463021,2.076979 h 0.01323 l 10e-7,1.653646 -8.559273,-0.01323 0.01323,-1.653643 h 0.01323 l 0.47625,-2.06375 0.396875,-0.555625 1.719792,-1.349375 0.608541,-0.198438 2.1695837,0.01323 0.5423953,0.171979 1.733021,1.362605 0.410104,0.555625"
+           id="path2711"
+           sodipodi:nodetypes="ccccccccccccccc"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           d="m 4.193647,31.481731 1.640417,-0.754062 2.645833,-0.291041 2.619375,0.291041 1.640416,0.754062 v 1.031875 H 4.193647 v -1.031875"
+           id="path2713"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+           d="m 14.829897,34.04819 0.119062,0.515937 -2.394479,0.291042 0.05292,-0.489479 H 4.325939 l 0.03969,0.47625 -2.394479,-0.291042 0.132292,-0.515938 2.262187,0.277813 -0.03969,-0.47625 h 8.281458 l -0.05292,0.489479 2.275417,-0.277812"
+           id="path2715"
+           inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_furnace_front.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <g
+         transform="translate(30.373561,71.737993)"
+         id="g2723">
+        <path
+           sodipodi:nodetypes="ccccscccc"
+           d="m -42.330076,20.636731 c 0.07297,0.333978 -0.3733,1.049277 -0.511293,1.253827 -0.0775,-0.960345 -0.404269,-1.310216 -0.404269,-1.310216 -0.48739,-0.606004 -0.453794,-1.596039 -0.488551,-1.589087 -0.470882,0.440766 -0.589535,1.031165 -0.511244,1.524062 0.122891,0.773683 -0.411732,1.352731 -0.42844,1.299264 -0.465835,-0.211099 -0.323206,-0.983228 -0.323206,-0.983228 -1.193039,1.37254 -0.920931,3.240798 1.361139,3.35665 2.405382,-0.174735 1.791556,-2.983257 1.305858,-3.551272"
+           style="fill:#fe9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           id="path2719"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2721"
+           style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
+           d="m -42.405315,21.65776 c 0.05266,0.229284 -0.25403,1.043094 -0.599513,1.10668 -0.109202,-1.37748 -0.818642,-1.106055 -0.7519,-2.297811 -0.24761,0.410176 -0.271763,0.861605 -0.230632,1.19999 0.06498,0.53457 -0.297134,1.05163 -0.309192,1.014924 -0.551339,0.147078 -0.924835,-0.89017 -0.924835,-0.89017 -0.430658,1.218916 0.01161,2.455412 1.673879,2.39663 1.84347,-0.365858 1.461966,-2.155655 1.111452,-2.545611"
+           sodipodi:nodetypes="cccscccc" />
+      </g>
+    </g>
+  </g>
+</svg>

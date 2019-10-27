@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg7479"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="screwdriver_all.svg">
+  <defs
+     id="defs7473" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.3039601"
+     inkscape:cx="139.65117"
+     inkscape:cy="1058.662"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata7476">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="7.2856369"
+       x="-32.371063"
+       id="image8042"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEVMaXFMJQ5paGi4i2BgMRPp
+6emdZjaMXjp3SiaodUfR0dFeXl5tbW15eXm+vr65Z0lhAAAAAXRSTlMAQObYZgAAADdJREFUeAFj
+YFBggACmIChD9akCVGQdTE53NQMUHIUJ8a4WgLIOt0AZkuZQIZZk4oRgJggywAEAF3wJufi55wYA
+AAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="16.933332"
+       width="16.933332" />
+    <g
+       id="g8113"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\screwdriver\screwdriver.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099">
+      <rect
+         y="1.8653235"
+         x="1.7387582"
+         height="16.933332"
+         width="16.933332"
+         id="rect8045"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.14525743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <g
+         transform="rotate(-65.679817,34.966197,17.581526)"
+         id="g8050">
+        <g
+           transform="matrix(1.0636455,0,0,1.0636455,-4.8206184,-27.444823)"
+           id="g8101">
+          <path
+             id="path24"
+             d="m 33.346661,17.633532 2.090208,-4.074583 -0.502708,-1.018646 1.190625,-2.262187 2.564408,1.223858 -1.334096,2.559683 -0.899583,0.07937 -1.931461,4.008443 -1.177393,-0.515938"
+             style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccc" />
+          <path
+             id="path26"
+             d="m 33.822911,16.681032 1.190625,0.449792 -0.489479,1.018646 -1.177396,-0.515938 0.47625,-0.9525"
+             style="fill:#a8aaba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path28"
+             d="m 34.639084,18.192889 0.315539,0.147892 0.124446,0.88474 -2.86513,6.213003 -1.420431,1.049684 -1.596267,-0.808972 -0.08433,-1.789256 3.057935,-6.191721 0.768283,-0.259433 0.522552,0.238125 1.042733,0.441876"
+             style="fill:#91673f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9c7249;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             d="m 34.639084,18.192889 0.315539,0.147892 0.124446,0.88474 -2.86513,6.213003 -1.420431,1.049684 -1.596267,-0.808972 -0.08433,-1.789256 3.057935,-6.191721 0.768283,-0.259433 0.522552,0.238125 1.042733,0.441876"
+             id="path8086" />
+          <path
+             id="path8090"
+             d="m 29.989602,26.080796 -0.792361,-0.40156 -0.08433,-1.789256 3.057935,-6.191721 0.768283,-0.259433 0.522552,0.238125"
+             style="fill:#8a6038;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             id="path8088"
+             d="m 34.639084,18.192889 v 0 l -0.04803,0.84842 -2.86513,6.213003 -0.932413,1.233896 -1.1236,-0.584096 -0.08433,-1.789256 3.057935,-6.191721 0.703148,-0.289603 0.115015,0.04342 1.042733,0.441876"
+             style="fill:#91673f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccc" />
+          <path
+             style="fill:#c3c6d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 36.124787,10.278117 2.564408,1.223858 v 0 l -0.35633,0.65925 -2.523318,-1.254474 z"
+             id="path8092"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="62.982662mm"
+   height="40.27652mm"
+   viewBox="0 0 62.982662 40.27652"
+   version="1.1"
+   id="svg952"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="stairs_all.svg">
+  <defs
+     id="defs946" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.07599"
+     inkscape:cx="160.60375"
+     inkscape:cy="43.104445"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-1.1063294e-07,23.343191"
+       orientation="0,1"
+       id="guide2047"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.8655556,3.3479641e-07"
+       orientation="0,1"
+       id="guide2049"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.0523958,-3.2030821)">
+    <g
+       id="g1730"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\stairs\stairs_glass_outer_stairside.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092">
+      <rect
+         y="3.2030821"
+         x="4.0523958"
+         height="16.933332"
+         width="16.933334"
+         id="rect1562"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         d="m 18.339895,5.8489122 v 0.76729 h 0.76729 v -0.76729 h -0.76729 m -0.85989,2.460621 0.22489,-2.116671 -2.11667,-0.22489 -0.22489,2.116671 2.11667,0.22489"
+         id="path1586"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 19.151585,18.548912 0.0529,1.587499 H 6.0282358 l -0.0529,-1.587499"
+         id="path2587"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 4.0523958,5.8489122 1.5875,-0.0529 V 18.972261 l -1.5875,0.05292"
+         id="path2583"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1092-5"
+         d="m 12.704275,4.7905822 h 0.74083 3.10885 1.25677 0.52917 v 1.05833 h 1.07156 v 0.52917 10.5833298 0.529167 h -1.07156 v 0.529166 0.529167 h -0.52917 -0.58208 -0.76729 -0.89958 -1.65365 -0.55563 -1.17739 -3.2808292 -1.66688 -0.52917 v -0.529167 -0.529166 h -1.05833 v -0.529167 -4.08781 -1.164169 -5.3313508 -0.52917 h 1.05833 v -1.05833 h 0.52917 0.97896 1.21708 3.2808392 m -1.07157,2.02406 1.13771,0.11906 0.13229,-1.13771 -1.13771,-0.11906 -0.13229,1.13771 m 6.23094,6.0721898 -1.03187,-0.0794 -0.0926,1.03187 1.03187,0.0794 0.0926,-1.03187 m -4.64344,3.862913 h -0.635 v 0.635 h 0.635 v -0.635 m 3.25438,-1.680105 0.26458,1.574272 1.56104,-0.264583 -0.26458,-1.574267 -1.56104,0.264578 m -1.08479,1.613959 0.22489,-1.375834 -1.37583,-0.211666 -0.2249,1.375833 1.37584,0.211667 M 7.7301058,7.0263122 h -0.76729 v 0.76729 h 0.76729 v -0.76729 m 0.85989,2.46063 2.1166692,-0.224899 -0.22489,-2.116671 -2.1166692,0.2249 0.22489,2.11667 m -0.38364,1.0980198 -0.11906,-1.3361498 -1.36261,0.11906 0.11906,1.3493798 1.36261,-0.13229"
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1094-3"
+         d="m 9.5160383,8.9313089 0.13229,-1.13771 1.1377097,0.11906 -0.13229,1.13771 -1.1377097,-0.11906 m 8.3476067,3.9555231 -0.0926,1.03187 -1.03187,-0.0794 0.0926,-1.03187 1.03187,0.0794"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path1096-0"
+         d="m 6.0896858,4.7905822 -0.0529,-1.5875 H 19.213035 l 0.0529,1.5875"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path2585"
+         d="m 19.398225,4.8435022 1.5875,1.00541 V 19.025161 l -1.5875,0.05292"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1098-5"
+         d="m 16.461355,18.548912 0.0132,0.568853 0.0265,1.018646 h -3.10886 l -0.0397,-1.587499 h 0.55563 l -0.0397,1.071562 1.65364,0.06615 0.0397,-1.137708 h 0.89959 M 9.4234358,4.7905822 l 0.0265,-0.8599 3.2808292,0.11906 -0.0265,0.74084 H 9.4234358 m 4.0216592,0 -0.0529,-1.5875 h 3.10886 l 0.0529,1.5875 h -3.10886 m -5.2916692,-1.5875 0.0529,1.5875 h -0.97896 v -1.5875 h 0.92605 m 11.2580192,3.175 h 1.16416 l -0.21166,10.5833298 h -0.9525 V 6.3780822 m -2.18282,12.1708298 h 0.58209 v 1.349374 l -0.60854,-0.01323 0.0132,-0.727604 0.0132,-0.608542 m -5.05355,0 -0.0529,1.27 -3.2808292,-0.132291 0.0529,-1.137709 H 12.175015 M 5.1503258,6.3780822 h 0.48948 v 5.3313508 h -0.34396 l -0.14552,-5.3313508 m 0.48948,6.4955198 v 4.08781 h -0.67468 l -0.11907,-4.061349 0.79375,-0.0265"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path1106-6"
+         d="m 20.985725,3.2030822 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.9333292,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path1102-3"
+         d="m 18.339895,3.2030822 h 2.64583 v 0.52916 h -2.64583 v -0.52916 m -14.2874992,0.52916 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path1572"
+         d="m 11.725311,3.8439003 1.5875,-0.032253 V 11.84506 l -1.5875,0.03225"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1108-7"
+         d="m 15.389795,16.683599 -1.37584,-0.211667 0.2249,-1.375833 1.37583,0.211666 -0.22489,1.375834 m 1.08479,-1.613959 1.56104,-0.264578 0.26458,1.574267 -1.56104,0.264583 -0.26458,-1.574272 m -3.25438,1.680105 v 0.635 h -0.635 v -0.635 h 0.635 m -6.2177092,-8.8503118 -0.22489,-2.116671 2.1166692,-0.22489 0.22489,2.116671 -2.1166692,0.22489"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1110-0"
+         d="m 13.908125,18.548912 h 1.65365 l -0.0397,1.137708 -1.65365,-0.06615 0.0397,-1.071563"
+         style="fill:#cb8b49;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 20.985725,20.136411 v -2.645834 h -1.57427 -1.07156 v 1.322918 1.322916 h 2.64583 M 4.0523958,17.490577 v 2.645834 h 2.64583 v -1.322916 -1.322918 h -1.05833 -1.5875"
+         id="path2593"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 18.339895,18.019744 h 2.64583 v -0.529167 h -2.64583 v 0.529167 M 4.0523958,17.490577 v 0.529167 h 2.64583 v -0.529167 h -2.64583"
+         id="path2595"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 4.1201078,12.463498 -0.067712,-1.5875 H 20.918017 l 0.06771,1.5875"
+         id="path1564"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         d="m 9.801422,11.754267 -0.0529,-0.880544 h 3.10886 l 0.0529,0.880544 h -3.10886"
+         id="path1566"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1568"
+         d="m 15.519707,12.445854 -0.02333,-1.111073 h 1.371042 l 0.02333,1.111073 h -1.371042"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 20.985725,10.346833 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.9333292,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         id="path1570"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccccc"
+         id="path1574"
+         d="m 11.196145,5.8489122 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 11.132,12.992663 v -2.64583 h 2.645831 v 1.32291 1.32292 H 12.719501 11.132"
+         id="path1576"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 11.196145,3.7322422 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path1578"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path1580"
+         d="m 4.0523958,10.875998 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 11.132001,10.875993 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path1582"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path1584"
+         d="m 18.339895,10.875993 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1753"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\stairs\stairs_glass_split.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1588"
+         width="16.933334"
+         height="16.933332"
+         x="27.004007"
+         y="3.2030821" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1592"
+         d="m 42.103196,18.548912 0.0529,1.587499 H 28.979847 l -0.0529,-1.587499"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1594"
+         d="m 27.004007,5.8489122 1.5875,-0.0529 V 18.972261 l -1.5875,0.05292"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+         d="m 35.655886,4.7905822 h 0.74083 3.10885 1.25677 0.52917 v 1.05833 h 1.07156 v 0.52917 10.5833298 0.529167 h -1.07156 v 0.529166 0.529167 h -0.52917 -0.58208 -0.76729 -0.89958 -1.65365 -0.55563 -1.17739 -3.280829 -1.66688 -0.52917 v -0.529167 -0.529166 h -1.05833 v -0.529167 -4.08781 -1.164169 -5.3313508 -0.52917 h 1.05833 v -1.05833 h 0.52917 0.97896 1.21708 3.280839 m -1.07157,2.02406 1.13771,0.11906 0.13229,-1.13771 -1.13771,-0.11906 -0.13229,1.13771 m 6.23094,6.0721898 -1.03187,-0.0794 -0.0926,1.03187 1.03187,0.0794 0.0926,-1.03187 m -4.64344,3.862913 h -0.635 v 0.635 h 0.635 v -0.635 m 3.25438,-1.680105 0.26458,1.574272 1.56104,-0.264583 -0.26458,-1.574267 -1.56104,0.264578 m -1.08479,1.613959 0.22489,-1.375834 -1.37583,-0.211666 -0.2249,1.375833 1.37584,0.211667 M 30.681717,7.0263122 h -0.76729 v 0.76729 h 0.76729 v -0.76729 m 0.85989,2.46063 2.116669,-0.224899 -0.22489,-2.116671 -2.116669,0.2249 0.22489,2.11667 m -0.38364,1.0980198 -0.11906,-1.3361498 -1.36261,0.11906 0.11906,1.3493798 1.36261,-0.13229"
+         id="path1596"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 29.041297,4.7905822 -0.0529,-1.5875 h 13.176249 l 0.0529,1.5875"
+         id="path1600"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 42.349836,4.8435022 1.5875,1.00541 V 19.025161 l -1.5875,0.05292"
+         id="path1602"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         d="m 39.412966,18.548912 0.0132,0.568853 0.0265,1.018646 h -3.10886 l -0.0397,-1.587499 h 0.55563 l -0.0397,1.071562 1.65364,0.06615 0.0397,-1.137708 h 0.89959 m -7.037919,-13.7583338 0.0265,-0.8599 3.280829,0.11906 -0.0265,0.74084 h -3.280829 m 4.021659,0 -0.0529,-1.5875 h 3.10886 l 0.0529,1.5875 h -3.10886 m -5.291669,-1.5875 0.0529,1.5875 h -0.97896 v -1.5875 h 0.92605 m 11.258019,3.175 h 1.16416 l -0.21166,10.5833298 h -0.9525 V 6.3780822 m -2.18282,12.1708298 h 0.58209 v 1.349374 l -0.60854,-0.01323 0.0132,-0.727604 0.0132,-0.608542 m -5.05355,0 -0.0529,1.27 -3.280829,-0.132291 0.0529,-1.137709 h 3.280829 M 28.101937,6.3780822 h 0.48948 v 5.3313508 h -0.34396 l -0.14552,-5.3313508 m 0.48948,6.4955198 v 4.08781 h -0.67468 l -0.11907,-4.061349 0.79375,-0.0265"
+         id="path1604"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.937336,3.2030822 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.933329,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         id="path1606"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 41.291506,3.2030822 h 2.64583 v 0.52916 h -2.64583 v -0.52916 m -14.287499,0.52916 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path1608"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#cb8b49;stroke:none;stroke-width:0.26458332"
+         d="m 36.859736,18.548912 h 1.65365 l -0.0397,1.137708 -1.65365,-0.06615 0.0397,-1.071563"
+         id="path1614"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path1616"
+         d="m 43.937336,20.136411 v -2.645834 h -1.57427 -1.07156 v 1.322918 1.322916 h 2.64583 M 27.004007,17.490577 v 2.645834 h 2.64583 v -1.322916 -1.322918 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         id="path1618"
+         d="m 41.291506,18.019744 h 2.64583 v -0.529167 h -2.64583 v 0.529167 M 27.004007,17.490577 v 0.529167 h 2.64583 v -0.529167 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path1620"
+         d="m 27.071719,12.463498 -0.06771,-1.5875 H 43.86963 l 0.06771,1.5875"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1622"
+         d="m 32.753033,11.754267 -0.0529,-0.880544 h 3.10886 l 0.0529,0.880544 h -3.10886"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         d="m 38.471318,12.445854 -0.02333,-1.111073 h 1.371042 l 0.02333,1.111073 h -1.371042"
+         id="path1624"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path1626"
+         d="m 43.937336,10.346833 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.933329,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 27.004007,10.875998 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path1634"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 41.291506,10.875993 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path1638"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1092-5-7"
+         d="m 35.655888,4.790582 h 0.740829 3.10885 1.25677 0.52917 v 1.05833 h 1.07156 v 0.52917 10.58333 0.529167 h -1.07156 v 0.529166 0.529167 h -0.52917 -0.58208 -0.76729 -0.89958 -1.65365 -0.55563 -1.17739 -3.28083 -1.66688 -0.52917 v -0.529167 -0.529166 h -1.05833 v -0.529167 -4.08781 -1.164169 -5.331351 -0.52917 h 1.05833 v -1.05833 h 0.52917 0.97896 1.21708 3.280841 m -1.071571,2.02406 1.13771,0.11906 0.13229,-1.13771 -1.13771,-0.11906 -0.13229,1.13771 m 6.23094,6.07219 -1.03187,-0.0794 -0.0926,1.03187 1.03187,0.0794 0.0926,-1.03187 m -4.64344,3.862913 h -0.635 v 0.635 h 0.635 v -0.635 m 3.25438,-1.680105 0.26458,1.574272 1.56104,-0.264583 -0.26458,-1.574267 -1.56104,0.264578 m -1.08479,1.613959 0.22489,-1.375834 -1.37583,-0.211666 -0.2249,1.375833 1.37584,0.211667 m -7.65969,-9.657287 h -0.76729 v 0.76729 h 0.76729 v -0.76729 m 0.85989,2.4606302 2.11667,-0.2249 -0.22489,-2.1166702 -2.11667,0.2249 0.22489,2.1166702 m -0.38364,1.0980198 -0.11906,-1.3361498 -1.36261,0.11906 0.11906,1.3493798 1.36261,-0.13229"
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1094-3-7"
+         d="m 31.157967,10.055785 -1.36261,0.13229 -0.11906,-1.3493695 1.36261,-0.11906 0.11906,1.3361395 m 3.42635,-3.7703097 0.13229,-1.13771 1.13771,0.11906 -0.13229,1.13771 -1.13771,-0.11906 m 6.23094,6.6013567 -0.0926,1.03187 -1.03187,-0.0794 0.0926,-1.03187 1.03187,0.0794"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccc"
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1108-7-3"
+         d="m 38.341407,16.683599 -1.37584,-0.211667 0.2249,-1.375833 1.37583,0.211666 -0.22489,1.375834 m 1.08479,-1.613959 1.56104,-0.264578 0.26458,1.574267 -1.56104,0.264583 -0.26458,-1.574272 m -3.25438,1.680105 v 0.635 h -0.635 v -0.635 h 0.635 m -5.4901,-10.2525997 v 0.76729 h -0.76729 v -0.76729 h 0.76729 m 0.85989,2.4606202 -0.22489,-2.1166702 2.11667,-0.22489 0.22489,2.1166702 -2.11667,0.22489"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1780"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\stairs\stairs_glass_stairside.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1652"
+         width="16.933334"
+         height="16.933332"
+         x="49.607864"
+         y="3.2030821" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1654"
+         d="m 63.895365,5.8489122 v 0.76729 h 0.76729 v -0.76729 h -0.76729 m -0.85989,2.460621 0.22489,-2.116671 -2.11667,-0.22489 -0.22489,2.116671 2.11667,0.22489"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1656"
+         d="m 64.707055,18.548912 0.0529,1.587499 H 51.583706 l -0.0529,-1.587499"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path1658"
+         d="m 49.607866,5.8489122 1.5875,-0.0529 V 18.972261 l -1.5875,0.05292"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+         d="m 58.259745,4.7905822 h 0.74083 3.10885 1.25677 0.52917 v 1.05833 h 1.07156 v 0.52917 10.5833298 0.529167 h -1.07156 v 0.529166 0.529167 h -0.52917 -0.58208 -0.76729 -0.89958 -1.65365 -0.55563 -1.17739 -3.280829 -1.66688 -0.52917 v -0.529167 -0.529166 h -1.05833 v -0.529167 -4.08781 -1.164169 -5.3313508 -0.52917 h 1.05833 v -1.05833 h 0.52917 0.97896 1.21708 3.280839 m -1.07157,2.02406 1.13771,0.11906 0.13229,-1.13771 -1.13771,-0.11906 -0.13229,1.13771 m 6.23094,6.0721898 -1.03187,-0.0794 -0.0926,1.03187 1.03187,0.0794 0.0926,-1.03187 m -4.64344,3.862913 h -0.635 v 0.635 h 0.635 v -0.635 m 3.25438,-1.680105 0.26458,1.574272 1.56104,-0.264583 -0.26458,-1.574267 -1.56104,0.264578 m -1.08479,1.613959 0.22489,-1.375834 -1.37583,-0.211666 -0.2249,1.375833 1.37584,0.211667 M 53.285576,7.0263122 h -0.76729 v 0.76729 h 0.76729 v -0.76729 m 0.85989,2.46063 2.116669,-0.224899 -0.22489,-2.116671 -2.116669,0.2249 0.22489,2.11667 m -0.38364,1.0980198 -0.11906,-1.3361498 -1.36261,0.11906 0.11906,1.3493798 1.36261,-0.13229"
+         id="path1660"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         d="m 55.071508,8.9313089 0.13229,-1.13771 1.13771,0.11906 -0.13229,1.13771 -1.13771,-0.11906 m 8.347607,3.9555231 -0.0926,1.03187 -1.03187,-0.0794 0.0926,-1.03187 1.03187,0.0794"
+         id="path1662"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 51.645156,4.7905822 -0.0529,-1.5875 h 13.176249 l 0.0529,1.5875"
+         id="path1664"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 64.953695,4.8435022 1.5875,1.00541 V 19.025161 l -1.5875,0.05292"
+         id="path1666"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         d="m 62.016825,18.548912 0.0132,0.568853 0.0265,1.018646 h -3.10886 l -0.0397,-1.587499 h 0.55563 l -0.0397,1.071562 1.65364,0.06615 0.0397,-1.137708 h 0.89959 m -7.037919,-13.7583338 0.0265,-0.8599 3.280829,0.11906 -0.0265,0.74084 h -3.280829 m 4.021659,0 -0.0529,-1.5875 h 3.10886 l 0.0529,1.5875 h -3.10886 m -5.291669,-1.5875 0.0529,1.5875 h -0.97896 v -1.5875 h 0.92605 m 11.258019,3.175 h 1.16416 l -0.21166,10.5833298 h -0.9525 V 6.3780822 m -2.18282,12.1708298 h 0.58209 v 1.349374 l -0.60854,-0.01323 0.0132,-0.727604 0.0132,-0.608542 m -5.05355,0 -0.0529,1.27 -3.280829,-0.132291 0.0529,-1.137709 h 3.280829 M 50.705796,6.3780822 h 0.48948 v 5.3313508 h -0.34396 l -0.14552,-5.3313508 m 0.48948,6.4955198 v 4.08781 h -0.67468 l -0.11907,-4.061349 0.79375,-0.0265"
+         id="path1668"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 66.541195,3.2030822 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.933329,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         id="path1670"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 63.895365,3.2030822 h 2.64583 v 0.52916 h -2.64583 v -0.52916 m -14.287499,0.52916 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path1672"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         d="m 57.280781,3.8439003 1.5875,-0.032253 V 11.84506 l -1.5875,0.03225"
+         id="path1674"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.26458332"
+         d="m 60.945265,16.683599 -1.37584,-0.211667 0.2249,-1.375833 1.37583,0.211666 -0.22489,1.375834 m 1.08479,-1.613959 1.56104,-0.264578 0.26458,1.574267 -1.56104,0.264583 -0.26458,-1.574272 m -3.25438,1.680105 v 0.635 h -0.635 v -0.635 h 0.635 m -6.217709,-8.8503118 -0.22489,-2.116671 2.116669,-0.22489 0.22489,2.116671 -2.116669,0.22489"
+         id="path1676"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092"
+         sodipodi:nodetypes="cccccccccccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#cb8b49;stroke:none;stroke-width:0.26458332"
+         d="m 59.463595,18.548912 h 1.65365 l -0.0397,1.137708 -1.65365,-0.06615 0.0397,-1.071563"
+         id="path1678"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path1680"
+         d="m 66.541195,20.136411 v -2.645834 h -1.57427 -1.07156 v 1.322918 1.322916 h 2.64583 M 49.607866,17.490577 v 2.645834 h 2.64583 v -1.322916 -1.322918 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         id="path1682"
+         d="m 63.895365,18.019744 h 2.64583 v -0.529167 h -2.64583 v 0.529167 M 49.607866,17.490577 v 0.529167 h 2.64583 v -0.529167 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path1684"
+         d="m 57.023008,12.463498 -0.03821,-1.5875 h 9.518192 l 0.03821,1.5875"
+         style="fill:#b47b41;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path1686"
+         d="m 57.28598,6.8907129 0.880544,-0.0529 v 3.10886 l -0.880544,0.0529 v -3.10886"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#c48647;stroke:none;stroke-width:0.26458332"
+         d="m 61.075177,12.445854 -0.02333,-1.111073 h 1.371042 l 0.02333,1.111073 h -1.371042"
+         id="path1688"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccccc"
+         id="path1690"
+         d="m 66.541195,10.346833 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 56.751615,5.8489122 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         id="path1692"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccccc"
+         id="path1694"
+         d="m 56.68747,12.992663 v -2.64583 h 2.645831 v 1.32291 1.32292 h -1.05833 -1.587501"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path1696"
+         d="m 56.751615,3.7322422 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path1700"
+         d="m 56.687471,10.875993 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 63.895365,10.875993 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path1702"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+    </g>
+    <g
+       id="g2343"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\stairs\stairs_obsidian_glass_outer_stairside.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092">
+      <rect
+         y="26.546268"
+         x="4.9179516"
+         height="16.933329"
+         width="16.933329"
+         id="rect2173"
+         style="opacity:1;fill:none;fill-opacity:0.17647059;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect2051"
+         width="16.933334"
+         height="16.933332"
+         x="4.9179516"
+         y="26.546268" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path2053"
+         d="m 19.205451,29.192098 v 0.76729 h 0.76729 v -0.76729 h -0.76729 m -0.85989,2.460621 0.22489,-2.116671 -2.11667,-0.22489 -0.22489,2.116671 2.11667,0.22489"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path2055"
+         d="m 20.017141,41.892098 0.0529,1.587499 H 6.8937914 l -0.0529,-1.587499"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path2057"
+         d="m 4.9179514,29.192098 1.5875,-0.0529 v 13.176249 l -1.5875,0.05292"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+         d="m 13.569831,28.133768 h 0.74083 3.10885 1.25677 0.52917 v 1.05833 h 1.07156 v 0.52917 10.58333 0.529167 h -1.07156 v 0.529166 0.529167 h -0.52917 -0.58208 -0.76729 -0.89958 -1.65365 -0.55563 -1.17739 -3.2808296 -1.66688 -0.52917 v -0.529167 -0.529166 h -1.05833 v -0.529167 -4.08781 -1.164169 -5.331351 -0.52917 h 1.05833 v -1.05833 h 0.52917 0.97896 1.2170796 3.28084 m -1.07157,2.02406 1.13771,0.11906 0.13229,-1.13771 -1.13771,-0.11906 -0.13229,1.13771 m 6.23094,6.07219 -1.03187,-0.0794 -0.0926,1.03187 1.03187,0.0794 0.0926,-1.03187 m -4.64344,3.862913 h -0.635 v 0.635 h 0.635 v -0.635 m 3.25438,-1.680105 0.26458,1.574272 1.56104,-0.264583 -0.26458,-1.574267 -1.56104,0.264578 m -1.08479,1.613959 0.22489,-1.375834 -1.37583,-0.211666 -0.2249,1.375833 1.37584,0.211667 M 8.5956614,30.369498 h -0.76729 v 0.76729 h 0.76729 v -0.76729 m 0.85989,2.46063 2.1166696,-0.224899 -0.22489,-2.116671 -2.1166696,0.2249 0.22489,2.11667 m -0.38364,1.09802 -0.11906,-1.33615 -1.36261,0.11906 0.11906,1.34938 1.36261,-0.13229"
+         id="path2059"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 10.381594,32.274495 0.13229,-1.13771 1.13771,0.11906 -0.13229,1.13771 -1.13771,-0.11906 m 8.347607,3.955523 -0.0926,1.03187 -1.03187,-0.0794 0.0926,-1.03187 1.03187,0.0794"
+         id="path2061"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 6.9552414,28.133768 -0.0529,-1.5875 H 20.078591 l 0.0529,1.5875"
+         id="path2063"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 20.263781,28.186688 1.5875,1.00541 v 13.176249 l -1.5875,0.05292"
+         id="path2065"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2161"
+         d="m 21.851379,29.431396 -1.578715,1.578197 h 0.001 l -0.0098,0.0098 v 0.600995 l 0.610815,-0.610814 0.976685,-0.977201 z m 0,0.999937 -0.578259,0.57826 h -5.17e-4 l -1.008724,1.00924 v 0.57826 h 0.02325 l 1.564246,-1.56373 z"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 21.851281,26.546268 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.9333296,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         id="path2069"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 19.205451,26.546268 h 2.64583 v 0.52916 h -2.64583 v -0.52916 m -14.2874996,0.52916 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path2071"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 12.590867,27.187086 1.5875,-0.03225 v 8.033413 l -1.5875,0.03225"
+         id="path2073"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 16.255351,40.026785 -1.37584,-0.211667 0.2249,-1.375833 1.37583,0.211666 -0.22489,1.375834 m 1.08479,-1.613959 1.56104,-0.264578 0.26458,1.574267 -1.56104,0.264583 -0.26458,-1.574272 m -3.25438,1.680105 v 0.635 h -0.635 v -0.635 h 0.635 m -6.2177096,-8.850312 -0.22489,-2.116671 2.1166692,-0.22489 0.22489,2.116671 -2.1166692,0.22489"
+         id="path2075"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092"
+         sodipodi:nodetypes="cccccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path2079"
+         d="m 21.851281,43.479597 v -2.645834 h -1.57427 -1.07156 v 1.322918 1.322916 h 2.64583 M 4.9179514,40.833763 v 2.645834 h 2.64583 v -1.322916 -1.322918 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         id="path2081"
+         d="m 19.205451,41.36293 h 2.64583 v -0.529167 h -2.64583 V 41.36293 M 4.9179514,40.833763 v 0.529167 h 2.64583 v -0.529167 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path2083"
+         d="m 4.9856634,35.806684 -0.067712,-1.5875 H 21.783573 l 0.06771,1.5875"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path2089"
+         d="m 21.851281,33.690019 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.9333296,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 12.061701,29.192098 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         id="path2091"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccccc"
+         id="path2093"
+         d="m 11.997556,36.335849 v -2.64583 h 2.645831 v 1.32291 1.32292 h -1.05833 -1.587501"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path2095"
+         d="m 12.061701,27.075428 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 4.9179514,34.219184 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path2097"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path2099"
+         d="m 11.997557,34.219179 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 19.205451,34.219179 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path2101"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         id="path2131"
+         transform="scale(0.26458333)"
+         d="m 36.480469,100.33203 -6.001953,6 h 2.27539 l 5.998047,-6 z m 3.777343,0 -6,6 h 2.273438 l 6.001953,-6 z"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 17.009245,34.207587 -1.588016,1.5875 h 0.60203 l 1.586983,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601514 l 1.588017,-1.5875 z"
+         id="path2157" />
+      <path
+         id="path2159"
+         d="m 10.893433,41.892101 -1.5880154,1.5875 h 0.6020297 l 1.5869827,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601514 l 1.588017,-1.5875 z"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2366"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\stairs\stairs_obsidian_glass_split.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.17647059;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect2175"
+         width="16.933329"
+         height="16.933329"
+         x="26.864309"
+         y="26.423319" />
+      <rect
+         y="26.423319"
+         x="26.864309"
+         height="16.933332"
+         width="16.933334"
+         id="rect2177"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 41.963499,41.769149 0.0529,1.587499 H 28.84015 l -0.0529,-1.587499"
+         id="path2181"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 26.86431,29.069149 1.5875,-0.0529 v 13.176249 l -1.5875,0.05292"
+         id="path2183"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path2185"
+         d="m 35.516189,28.010819 h 0.74083 3.10885 1.25677 0.52917 v 1.05833 h 1.07156 v 0.52917 10.58333 0.529167 h -1.07156 v 0.529166 0.529167 h -0.52917 -0.58208 -0.76729 -0.89958 -1.65365 -0.55563 -1.17739 -3.280829 -1.66688 -0.52917 v -0.529167 -0.529166 h -1.05833 v -0.529167 -4.08781 -1.164169 -5.331351 -0.52917 h 1.05833 v -1.05833 h 0.52917 0.97896 1.217079 3.28084 m -1.07157,2.02406 1.13771,0.11906 0.13229,-1.13771 -1.13771,-0.11906 -0.13229,1.13771 m 6.23094,6.07219 -1.03187,-0.0794 -0.0926,1.03187 1.03187,0.0794 0.0926,-1.03187 m -4.64344,3.862913 h -0.635 v 0.635 h 0.635 v -0.635 m 3.25438,-1.680105 0.26458,1.574272 1.56104,-0.264583 -0.26458,-1.574267 -1.56104,0.264578 m -1.08479,1.613959 0.22489,-1.375834 -1.37583,-0.211666 -0.2249,1.375833 1.37584,0.211667 M 30.54202,30.246549 h -0.76729 v 0.76729 h 0.76729 v -0.76729 m 0.85989,2.46063 2.116669,-0.224899 -0.22489,-2.116671 -2.116669,0.2249 0.22489,2.11667 m -0.38364,1.09802 -0.11906,-1.33615 -1.36261,0.11906 0.11906,1.34938 1.36261,-0.13229"
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path2189"
+         d="m 28.9016,28.010819 -0.0529,-1.5875 h 13.176249 l 0.0529,1.5875"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path2191"
+         d="m 42.210139,28.063739 1.5875,1.00541 v 13.176249 l -1.5875,0.05292"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 43.797737,29.308447 -1.578715,1.578197 h 10e-4 l -0.0098,0.0098 v 0.600995 l 0.610815,-0.610814 0.976685,-0.977201 z m 0,0.999937 -0.578259,0.57826 h -5.17e-4 l -1.008724,1.00924 v 0.57826 h 0.02325 l 1.564246,-1.56373 z"
+         id="path2193"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path2195"
+         d="m 43.797639,26.423319 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 m -16.933329,2.64583 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path2197"
+         d="m 41.151809,26.423319 h 2.64583 v 0.52916 h -2.64583 v -0.52916 m -14.287499,0.52916 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.797639,43.356648 v -2.645834 h -1.57427 -1.07156 v 1.322918 1.322916 h 2.64583 M 26.86431,40.710814 v 2.645834 h 2.64583 v -1.322916 -1.322918 h -1.05833 -1.5875"
+         id="path2203"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 41.151809,41.239981 h 2.64583 v -0.529167 h -2.64583 v 0.529167 M 26.86431,40.710814 v 0.529167 h 2.64583 v -0.529167 h -2.64583"
+         id="path2205"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 26.932022,35.683735 -0.06771,-1.5875 h 16.865621 l 0.06771,1.5875"
+         id="path2207"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 43.797639,33.56707 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 M 26.86431,36.2129 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         id="path2209"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path2217"
+         d="m 26.86431,34.096235 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path2221"
+         d="m 41.151809,34.09623 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 31.598482,26.423234 -1.588017,1.5875 h 0.602031 l 1.586983,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601514 l 1.588017,-1.5875 z"
+         id="path2223" />
+      <path
+         id="path2225"
+         d="m 38.955603,34.084638 -1.588016,1.5875 h 0.60203 l 1.586983,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601514 l 1.588017,-1.5875 z"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 32.839791,41.769152 -1.588015,1.5875 h 0.602029 l 1.586983,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601514 l 1.588017,-1.5875 z"
+         id="path2227" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 31.018269,33.276022 -1.36261,0.13229 -0.11906,-1.34937 1.36261,-0.11906 0.11906,1.33614 m 3.42635,-3.77031 0.13229,-1.13771 1.13771,0.11906 -0.13229,1.13771 -1.13771,-0.11906 m 6.23094,6.601357 -0.0926,1.03187 -1.03187,-0.0794 0.0926,-1.03187 1.03187,0.0794"
+         id="path1094-3-7-9"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 38.201709,39.903836 -1.37584,-0.211667 0.2249,-1.375833 1.37583,0.211666 -0.22489,1.375834 m 1.08479,-1.613959 1.56104,-0.264578 0.26458,1.574267 -1.56104,0.264583 -0.26458,-1.574272 m -3.25438,1.680105 v 0.635 h -0.635 v -0.635 h 0.635 m -5.4901,-10.2526 v 0.76729 h -0.76729 v -0.76729 h 0.76729 m 0.85989,2.46062 -0.22489,-2.11667 2.11667,-0.22489 0.22489,2.11667 -2.11667,0.22489"
+         id="path1108-7-3-0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    </g>
+    <g
+       id="g2394"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\stairs\stairs_obsidian_glass_stairside.png"
+       inkscape:export-xdpi="96.000092"
+       inkscape:export-ydpi="96.000092">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.17647059;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect2262"
+         width="16.933329"
+         height="16.933329"
+         x="50.101631"
+         y="26.300371" />
+      <rect
+         y="26.300371"
+         x="50.101631"
+         height="16.933332"
+         width="16.933334"
+         id="rect2264"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 64.38913,28.9462 v 0.76729 h 0.76729 V 28.9462 h -0.76729 m -0.85989,2.460621 0.22489,-2.116671 -2.11667,-0.22489 -0.22489,2.116671 2.11667,0.22489"
+         id="path2266"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 65.20082,41.6462 0.0529,1.587499 H 52.07747 L 52.02457,41.6462"
+         id="path2268"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 50.10163,28.9462 1.5875,-0.0529 v 13.176249 l -1.5875,0.05292"
+         id="path2270"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path2272"
+         d="m 58.75351,27.88787 h 0.74083 3.10885 1.25677 0.52917 v 1.05833 h 1.07156 v 0.52917 10.58333 0.529167 H 64.38913 V 41.117033 41.6462 H 63.85996 63.27788 62.51059 61.61101 59.95736 59.40173 58.22434 54.94351 53.27663 52.74746 V 41.117033 40.587867 H 51.68913 V 40.0587 35.97089 34.806721 29.47537 28.9462 h 1.05833 v -1.05833 h 0.52917 0.97896 1.21708 3.28084 m -1.07157,2.02406 1.13771,0.11906 0.13229,-1.13771 -1.13771,-0.11906 -0.13229,1.13771 m 6.23094,6.07219 -1.03187,-0.0794 -0.0926,1.03187 1.03187,0.0794 0.0926,-1.03187 m -4.64344,3.862913 h -0.635 v 0.635 h 0.635 v -0.635 m 3.25438,-1.680105 0.26458,1.574272 1.56104,-0.264583 -0.26458,-1.574267 -1.56104,0.264578 m -1.08479,1.613959 0.22489,-1.375834 -1.37583,-0.211666 -0.2249,1.375833 1.37584,0.211667 M 53.77934,30.1236 h -0.76729 v 0.76729 h 0.76729 V 30.1236 m 0.85989,2.46063 2.11667,-0.224899 -0.22489,-2.116671 -2.11667,0.2249 0.22489,2.11667 m -0.38364,1.09802 -0.11906,-1.33615 -1.36261,0.11906 0.11906,1.34938 1.36261,-0.13229"
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path2274"
+         d="m 55.565273,32.028597 0.13229,-1.13771 1.13771,0.11906 -0.13229,1.13771 -1.13771,-0.11906 m 8.347607,3.955523 -0.0926,1.03187 -1.03187,-0.0794 0.0926,-1.03187 1.03187,0.0794"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path2276"
+         d="m 52.13892,27.88787 -0.0529,-1.5875 h 13.17625 l 0.0529,1.5875"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path2278"
+         d="m 65.44746,27.94079 1.5875,1.00541 v 13.176249 l -1.5875,0.05292"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 67.035058,29.185498 -1.578715,1.578197 h 10e-4 l -0.0098,0.0098 v 0.600995 l 0.610815,-0.610814 0.976685,-0.977201 z m 0,0.999937 -0.578259,0.57826 h -5.17e-4 l -1.008724,1.00924 v 0.57826 h 0.02325 l 1.564246,-1.56373 z"
+         id="path2280"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccccccc"
+         id="path2282"
+         d="m 67.03496,26.30037 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583 M 50.10163,28.9462 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path2284"
+         d="m 64.38913,26.30037 h 2.64583 v 0.52916 h -2.64583 v -0.52916 m -14.2875,0.52916 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="cccc"
+         id="path2286"
+         d="m 57.774546,26.941188 1.5875,-0.03225 v 8.033413 l -1.5875,0.03225"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         id="path2288"
+         d="m 61.43903,39.780887 -1.37584,-0.211667 0.2249,-1.375833 1.37583,0.211666 -0.22489,1.375834 m 1.08479,-1.613959 1.56104,-0.264578 0.26458,1.574267 -1.56104,0.264583 -0.26458,-1.574272 m -3.25438,1.680105 v 0.635 h -0.635 v -0.635 h 0.635 m -6.21771,-8.850312 -0.22489,-2.116671 2.116669,-0.22489 0.22489,2.116671 -2.116669,0.22489"
+         style="fill:#cfc2d3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 67.03496,43.233699 v -2.645834 h -1.57427 -1.07156 v 1.322918 1.322916 h 2.64583 M 50.10163,40.587865 v 2.645834 h 2.64583 v -1.322916 -1.322918 h -1.05833 -1.5875"
+         id="path2290"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 64.38913,41.117032 h 2.64583 v -0.529167 h -2.64583 v 0.529167 m -14.2875,-0.529167 v 0.529167 h 2.64583 v -0.529167 h -2.64583"
+         id="path2292"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#371640;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 58.106842,35.560786 -0.06771,-1.5875 h 8.928122 l 0.06771,1.5875"
+         id="path2294"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 67.03496,33.444121 v 2.64583 h -1.57427 -1.07156 v -1.32292 -1.32291 h 2.64583"
+         id="path2296"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccccc"
+         id="path2298"
+         d="m 57.24538,28.9462 v -2.64583 h 2.64583 v 1.32291 1.32292 h -1.05833 -1.5875"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b8bacc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 57.181235,36.089951 v -2.64583 h 2.645831 v 1.32291 1.32292 h -1.05833 -1.587501"
+         id="path2300"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 57.24538,26.82953 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path2302"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 57.181236,33.973281 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         id="path2306"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-ydpi="96.000092" />
+      <path
+         inkscape:export-ydpi="96.000092"
+         inkscape:export-xdpi="96.000092"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_glass.png"
+         sodipodi:nodetypes="ccccc"
+         id="path2308"
+         d="m 64.38913,33.973281 v -0.52916 h 2.64583 v 0.52916 h -2.64583"
+         style="fill:#ced1e5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 54.835803,26.300285 -1.588017,1.5875 h 0.60203 l 1.586983,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601513 l 1.588017,-1.5875 z"
+         id="path2310" />
+      <path
+         id="path2312"
+         d="m 62.192924,33.961689 -1.588016,1.5875 h 0.60203 l 1.586983,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601514 l 1.588017,-1.5875 z"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#582366;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 56.077112,41.646203 -1.588016,1.5875 h 0.60203 l 1.586983,-1.5875 z m 0.999422,0 -1.5875,1.5875 h 0.601514 l 1.588017,-1.5875 z"
+         id="path2314" />
+    </g>
+  </g>
+</svg>

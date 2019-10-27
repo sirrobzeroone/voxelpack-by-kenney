@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="59.529293mm"
+   height="35.976582mm"
+   viewBox="0 0 59.529293 35.976582"
+   version="1.1"
+   id="svg1014"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="default_snow_all.svg">
+  <defs
+     id="defs1008" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.5953705"
+     inkscape:cx="70.236587"
+     inkscape:cy="41.7345"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="9.9451578e-07,19.043136"
+       orientation="0,1"
+       id="guide1631"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.9451578e-07,19.043146"
+       orientation="1,0"
+       id="guide1635"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.314972,19.043136"
+       orientation="1,0"
+       id="guide1637"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="42.595962,19.043146"
+       orientation="1,0"
+       id="guide1639"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1011">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.0901283,-25.378136)">
+    <rect
+       style="opacity:1;fill:#a6e6fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect2847"
+       width="16.933334"
+       height="16.933332"
+       x="2.1638174"
+       y="44.421383"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_ice.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.75;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1633"
+       width="16.933332"
+       height="16.933332"
+       x="25.405102"
+       y="25.37825"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:none;stroke-width:0.26458332"
+       d="m 16.695129,30.921268 0.992187,-1.045104 -1.045104,-0.992188 -0.992187,1.045104 1.045104,0.992188 m -0.264583,-5.543021 h 2.592916 v 6.125104 q -2.209271,2.923646 -6.469062,4.246563 l 0.01323,0.01323 q -1.719792,0.423333 -3.1220832,1.243541 -3.0294795,1.74625 -4.6434375,5.304896 h -2.71198 v -6.019272 l 0.515937,-0.674687 q 2.275417,-2.804583 6.0060415,-3.730625 l -0.01323,-0.01323 Q 13.665649,30.312725 15.86169,26.489496 l 0.568855,-1.11125 m 2.592916,10.914062 v 6.019271 h -2.592916 q 0.410104,-0.926041 0.674687,-1.984375 0.582083,-1.852083 1.468438,-3.320521 l 0.449791,-0.714375 M 2.0901283,31.50335 v -6.125104 h 2.711979 q -0.423333,0.912813 -0.740833,1.931458 -0.436563,1.706563 -1.243542,3.095625 l -0.211667,0.357188 -0.515937,0.740833 m 13.8377077,0.9525 -1.349375,-0.515937 -0.515937,1.349375 1.362604,0.529166 0.502708,-1.362604 m -4.564062,0.912813 0.912812,1.11125 1.124479,-0.912813 -0.926041,-1.11125 -1.11125,0.912813 m -7.7258337,2.473854 1.164167,0.846666 0.833438,-1.164166 -1.150938,-0.833438 -0.846667,1.150938 m 0.727605,1.957916 0.410104,1.217084 1.217083,-0.410104 -0.410104,-1.230313 -1.217083,0.423334"
+       id="path276"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f5fcff;stroke:none;stroke-width:0.26458332"
+       d="m 4.3655463,37.800434 1.217083,-0.423333 0.410104,1.230313 -1.217083,0.410104 -0.410104,-1.217084 m 12.3295827,-6.879166 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 -0.992187,1.045104 m -0.330729,9.141354 -1.42875,-0.145521 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 m -8.7973957,-11.138958 -0.145521,1.42875 -1.42875,-0.145521 0.145521,-1.42875 1.42875,0.145521 m 0.9392705,-1.018646 -0.2248955,-1.415521 1.4155205,-0.224896 0.224896,1.415521 -1.415521,0.224896 m 2.8575002,5.463646 1.11125,-0.912813 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125"
+       id="path278"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#e7f9ff;stroke:none;stroke-width:0.26458332"
+       d="m 19.023462,31.503351 v 4.788958 l -0.449791,0.714375 q -0.886355,1.468438 -1.468438,3.320521 -0.264583,1.058334 -0.674687,1.984375 H 4.8021083 q 1.613958,-3.558646 4.6434375,-5.304896 1.4022912,-0.820208 3.1220832,-1.243541 l -0.01323,-0.01323 q 4.259792,-1.322916 6.469063,-4.246562 M 2.0901293,36.292309 v -4.788958 l 0.515937,-0.740833 0.211667,-0.357188 q 0.806979,-1.389062 1.243542,-3.095625 0.3175,-1.018645 0.740833,-1.931458 H 16.430546 l -0.568855,1.11125 q -2.196041,3.823229 -7.2628122,5.384271 l 0.01323,0.01323 Q 4.8814843,32.81304 2.6060673,35.617623 l -0.515937,0.674687 m 14.2742707,3.770313 0.15875,-1.441979 -1.441979,-0.145521 -0.145521,1.441979 1.42875,0.145521 m -2.897188,-11.787187 0.833438,-1.164167 -1.164167,-0.846667 -0.846667,1.177396 1.177396,0.833438 m -4.9609372,-0.370417 1.415521,-0.224896 -0.224896,-1.415521 -1.4155205,0.224896 0.2248955,1.415521 m -0.9392705,1.018646 -1.42875,-0.145521 -0.145521,1.42875 1.42875,0.145521 0.145521,-1.42875 m 1.6536455,11.41677 0.582083,1.309688 1.3096882,-0.582083 -0.595313,-1.322917 -1.2964582,0.595312"
+       id="path280"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#d9f5ff;stroke:none;stroke-width:0.26458332"
+       d="m 9.2206498,40.340434 1.2964582,-0.595312 0.595313,1.322917 -1.3096882,0.582083 -0.582083,-1.309688 m 4.2465622,-12.064999 -1.177396,-0.833438 0.846667,-1.177396 1.164167,0.846667 -0.833438,1.164167"
+       id="path282"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#eefaff;stroke:none;stroke-width:0.26458332"
+       d="m 15.927837,32.455851 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 1.349375,0.515937 m -12.2898957,3.386667 0.846667,-1.150938 1.150938,0.833438 -0.833438,1.164166 -1.164167,-0.846666"
+       id="path284"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#e7f9ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 25.405101,25.378251 16.933323,-1.15e-4 10e-6,3.810106 v 0 c -4.229985,-1.346907 -7.143749,-0.319441 -8.466666,0.130374 -0.652639,0.255776 -1.318508,0.319406 -1.997605,0.451705 l -0.15875,0.02646 c -0.92604,0.119067 -3.251154,0.496549 -6.310311,-0.608534 l -1e-6,-3.809996"
+       id="path304"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f5fcff;stroke:none;stroke-width:0.26458332"
+       d="m 39.533841,25.378136 h 2.804583 l 10e-7,3.809996 c -1.472847,-0.564445 -3.007431,-0.811389 -4.60375,-0.740834 0.555625,-0.590903 1.036285,-1.243541 1.441979,-1.957916 l 0.357187,-1.111246 m -14.128749,0 h 2.500312 l -0.529165,1.931454 c -0.202847,0.79375 -0.467431,1.647665 -0.79375,2.344401 l -1.177396,-0.465859 -1e-6,-3.809996 m 3.929063,4.577287 0.119063,-1.177396 1.42875,0.145521 -0.0926,0.992188 -1.455208,0.03969 m 3.902603,-2.275419 -1.415521,0.224895 -0.224895,-1.41552 1.41552,-0.224896 0.224896,1.415521"
+       id="path296"
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.10196078;stroke:none;stroke-width:0.26458332"
+       d="m 25.405102,29.968767 0.806979,0.304271 q 2.870729,0.992188 5.503332,0.436563 1.098021,-0.224896 2.156355,-0.740834 l 0.529166,-0.198437 q 1.362604,-0.515938 2.659063,-0.674688 h 0.01323 q 1.336146,-0.15875 2.632604,0.05292 h 0.01323 l 0.648229,0.132292 h 0.01323 q 0.754062,0.171979 1.494895,0.489479 l 0.463021,0.198437 v 1.098021 Q 41.491768,30.56408 40.631872,30.273038 39.824893,29.995226 38.991455,29.915851 h -0.01323 q -1.878542,-0.185209 -3.836458,0.582083 l -0.05292,0.02646 q -0.608542,0.224896 -1.217084,0.542396 l -0.489479,0.291042 -0.06615,0.02646 q -0.79375,0.396875 -1.600729,0.621771 l -0.767291,0.171979 -0.03969,0.01323 q -2.54,0.370417 -5.265208,-1.005416 l -0.238124,-0.119068 v -1.098021"
+       id="path298"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#d0f2ff;stroke:none;stroke-width:0.26458332"
+       d="m 25.405102,29.968767 v -0.78052 l 1.177396,0.357187 q 1.402291,0.357188 2.751666,0.410104 l 1.455209,-0.03969 0.92604,-0.119063 0.15875,-0.02646 q 1.018646,-0.198438 1.997605,-0.582083 1.984375,-0.674688 3.862916,-0.740834 2.394479,-0.105833 4.60375,0.740834 v 0.78052 L 41.875413,29.77033 q -0.740833,-0.3175 -1.494895,-0.489479 h -0.01323 l -0.648229,-0.132292 h -0.01323 q -1.296458,-0.211667 -2.632604,-0.05292 h -0.01323 q -1.296459,0.15875 -2.659063,0.674688 l -0.529164,0.19844 q -1.058334,0.515938 -2.156355,0.740834 -2.632603,0.555625 -5.503332,-0.436563 l -0.806979,-0.304271"
+       id="path300"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#d9f5ff;stroke:none;stroke-width:0.26458332"
+       d="m 35.604788,27.441997 0.846667,-1.177396 1.164167,0.846666 -0.833438,1.164167 -1.177396,-0.833437"
+       id="path306"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <g
+       id="g1672"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snowball.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099">
+      <rect
+         y="25.378248"
+         x="44.686089"
+         height="16.933332"
+         width="16.933332"
+         id="rect1643"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         r="5.0270829"
+         cy="33.844913"
+         cx="53.152756"
+         id="path1641"
+         style="opacity:1;fill:#d0f2ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <ellipse
+         ry="4.4738135"
+         rx="5.0270829"
+         style="opacity:1;fill:#f5fcff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle1647"
+         cx="53.152756"
+         cy="33.291645" />
+      <ellipse
+         cy="33.875652"
+         cx="53.152756"
+         id="ellipse1649"
+         style="opacity:1;fill:#e7f9ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         rx="5.0270829"
+         ry="3.8898067" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#d9f5ff;stroke:none;stroke-width:0.26458332"
+         d="m 53.801208,31.806679 0.846667,-1.177396 1.164167,0.846666 -0.833438,1.164167 -1.177396,-0.833437"
+         id="path1651"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+         inkscape:export-xdpi="96.000099"
+         inkscape:export-ydpi="96.000099" />
+      <path
+         inkscape:export-ydpi="96.000099"
+         inkscape:export-xdpi="96.000099"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+         id="path1655"
+         d="m 51.169066,33.363517 -1.352734,-0.522703 0.526034,-1.339931 1.336599,0.513233 -0.509899,1.349401"
+         style="fill:#f5fcff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#d9f5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 50.250239,36.502808 -0.180832,-1.438891 1.429196,-0.171831 0.181524,1.420195 -1.429888,0.190527"
+         id="path1657"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+         inkscape:export-xdpi="96.000099"
+         inkscape:export-ydpi="96.000099" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f5fcff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         d="m 54.618664,33.807105 -0.709489,1.264805 -1.251659,-0.710969 0.697824,-1.250178 1.263324,0.696342"
+         id="path1659"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+         inkscape:export-xdpi="96.000099"
+         inkscape:export-ydpi="96.000099" />
+      <path
+         inkscape:export-ydpi="96.000099"
+         inkscape:export-xdpi="96.000099"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_snow_side.png"
+         id="path1661"
+         d="m 57.435453,34.816587 -0.662931,1.289818 -1.276734,-0.664889 0.651806,-1.274775 1.287859,0.649846"
+         style="fill:#d9f5ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#b0ebfc;stroke:none;stroke-width:0.26458332;fill-opacity:1"
+       d="m 19.097152,57.306592 v 4.048125 h -4.048125 l 4.048125,-4.048125 M 5.8547554,61.354717 H 2.1638175 V 57.359509 L 14.982881,44.421384 h 4.114271 v 3.690938 L 5.8547554,61.354717 M 2.1638175,48.112322 v -3.690938 h 3.6909379 l -3.6909379,3.690938 m 12.9513545,-0.96573 -0.555625,-0.965729 -0.965729,0.568854 0.555625,0.965729 0.965729,-0.568854 m 2.315105,0.304271 v -0.608541 h -0.582084 l -0.01323,0.595312 0.595313,0.01323 m -3.267605,2.460625 0.96573,0.568854 0.568854,-0.978958 -0.965729,-0.568854 -0.568855,0.978958 m -8.1094781,7.60677 V 56.909717 H 5.4711096 l -0.013229,0.595313 0.5953125,0.01323"
+       id="path1122"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_ice.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#b0e9fc;stroke:none;stroke-width:0.26458332"
+       d="m 19.097152,48.112322 v 6.548437 l -6.693959,6.693958 H 5.8547554 L 19.097152,48.112322 M 2.1638175,54.660759 V 48.112322 L 5.8547554,44.421384 H 12.403193 L 2.1638175,54.660759 M 9.6250679,45.731071 H 9.0429846 l -0.013229,0.595313 0.5953125,0.01323 v -0.608542 m 1.8520839,14.393334 0.568854,-0.978959 -0.965729,-0.568854 -0.568855,0.978959 0.96573,0.568854 m 4.828645,-4.021667 0.595313,0.01323 v -0.608541 h -0.582083 l -0.01323,0.595312 m 0.291042,-2.235729 -1.11125,-0.01323 -0.01323,1.124479 1.124479,0.02646 V 53.867009 M 5.4578804,49.937947 4.9022554,48.945759 3.9232975,49.501384 4.4921515,50.480342 5.4578804,49.937947 M 5.7621512,46.842322 5.1932971,47.82128 6.1590262,48.390134 6.7278804,47.411176 5.7621512,46.842322 m -1.4022917,1.309687 v -0.608542 h -0.582083 l -0.01323,0.595313 0.595312,0.01323"
+       id="path1124"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_ice.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#c6effc;stroke:none;stroke-width:0.26458332"
+       d="m 17.430277,47.450863 -0.595313,-0.01323 0.01323,-0.595312 h 0.582084 v 0.608541 m -2.315105,-0.304271 -0.965729,0.568854 -0.555625,-0.965729 0.965729,-0.568854 0.555625,0.965729 m -0.9525,2.764896 0.568855,-0.978958 0.965729,0.568854 -0.568854,0.978958 -0.96573,-0.568854 m -8.1094801,7.606772 -0.5953125,-0.01323 0.013229,-0.595313 h 0.5820833 v 0.608542"
+       id="path1126"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_ice.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#bfedfc;stroke:none;stroke-width:0.26458332"
+       d="m 9.6250679,45.731071 v 0.608542 l -0.5953125,-0.01323 0.013229,-0.595313 h 0.5820833 m 6.9717713,8.135938 v 1.137708 l -1.124479,-0.02646 0.01323,-1.124479 1.11125,0.01323 m -0.291042,2.235729 0.01323,-0.595312 h 0.582083 v 0.608541 l -0.595313,-0.01323 m -4.828645,4.021667 -0.96573,-0.568854 0.568855,-0.978959 0.965729,0.568854 -0.568854,0.978959 m -7.1172935,-11.972393 -0.595312,-0.01323 0.01323,-0.595313 h 0.582083 v 0.608542 m 1.4022917,-1.309687 0.9657292,0.568854 -0.5688542,0.978958 -0.9657291,-0.568854 0.5688541,-0.978958 m -0.3042708,3.095624 -0.9657289,0.542396 -0.568854,-0.978958 0.9789579,-0.555625 0.555625,0.992187"
+       id="path1128"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_ice.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#a6e6fc;stroke:none;stroke-width:0.26458332;fill-opacity:1"
+       d="m 19.097152,54.660759 v 2.645833 l -4.048125,4.048125 h -2.645834 l 6.693959,-6.693958 m -16.9333345,2.69875 v -2.69875 L 12.403193,44.421384 h 2.579688 L 2.1638175,57.359509"
+       id="path1130"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_ice.png"
+       inkscape:export-xdpi="96.000099"
+       inkscape:export-ydpi="96.000099" />
+  </g>
+</svg>
