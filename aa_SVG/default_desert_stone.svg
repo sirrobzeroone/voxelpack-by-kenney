@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg4649"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="default_desert_stone.svg">
   <defs
      id="defs4643" />
@@ -25,19 +23,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519801"
-     inkscape:cx="323.37774"
-     inkscape:cy="897.30365"
+     inkscape:zoom="4.3039602"
+     inkscape:cx="217.70911"
+     inkscape:cy="98.542005"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1200"
      showgrid="false"
-     inkscape:window-width="2160"
-     inkscape:window-height="1346"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="3000"
+     inkscape:window-height="1890"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="21.840195,240.93165"
        orientation="0,1"
@@ -48,6 +47,10 @@
        orientation="0,1"
        id="guide6168"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="24.675126,264.16897"
+       orientation="0,-1"
+       id="guide1164" />
   </sodipodi:namedview>
   <metadata
      id="metadata4646">
@@ -57,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -316,15 +319,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="20.172861"
-       y="40.778912"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1.7305437"
+       y="37.50864"
        id="text2949"><tspan
          sodipodi:role="line"
          id="tspan2947"
-         x="40.778912"
-         y="20.172861"
-         style="font-size:2.11666656px;writing-mode:vertical-lr;stroke-width:0.26458332px">Desert Stone</tspan></text>
+         x="1.7305437"
+         y="37.50864"
+         style="font-size:2.11667px;writing-mode:vertical-lr;stroke-width:0.264583px">Desert Stone</tspan></text>
     <g
        id="g6212"
        inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_stone_brick.png"
@@ -383,14 +386,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="24.168743"
        y="37.838062"
        id="text6182"><tspan
          sodipodi:role="line"
          x="24.168743"
          y="37.838062"
-         style="font-size:1.41111112px;stroke-width:0.26458332px"
+         style="font-size:1.41111px;stroke-width:0.264583px"
          id="tspan6184">Unused Red Sand</tspan></text>
     <g
        id="g1919"
@@ -936,5 +939,1779 @@
         </g>
       </g>
     </g>
+    <rect
+       style="fill:#af693c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect944"
+       width="11.557186"
+       height="3.7622321"
+       x="7.5770769"
+       y="10.454369" />
+    <rect
+       y="14.21661"
+       x="7.5770769"
+       height="3.7622321"
+       width="11.557186"
+       id="rect946"
+       style="fill:#a05a2d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="fill:#965023;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect948"
+       width="11.557186"
+       height="3.7622321"
+       x="7.5770769"
+       y="17.97884" />
+    <rect
+       y="21.741066"
+       x="7.5770769"
+       height="3.7622321"
+       width="11.557186"
+       id="rect950"
+       style="fill:#8c4619;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="fill:#823c0f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect952"
+       width="11.557186"
+       height="3.7622321"
+       x="7.5770769"
+       y="25.503296" />
+    <rect
+       style="fill:#783205;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect954"
+       width="3.8523939"
+       height="3.5655146"
+       x="7.5770769"
+       y="29.265537" />
+    <rect
+       y="29.265537"
+       x="11.429471"
+       height="3.5655146"
+       width="3.8523939"
+       id="rect956"
+       style="fill:#6e2800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="fill:#641e00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect958"
+       width="3.8523939"
+       height="3.5655146"
+       x="15.28188"
+       y="29.265537" />
+    <g
+       id="g972"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_sand_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.12294878,-23.23732)">
+      <rect
+         y="39.135033"
+         x="41.86105"
+         height="16.933319"
+         width="16.933332"
+         id="rect962"
+         style="opacity:1;fill:#965023;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path964"
+         d="m 58.794387,41.582419 v 2.129895 l -1.521354,0.343958 -0.463021,-1.997603 1.984375,-0.47625 m -4.1275,14.485936 h -2.566458 l 0.14552,-1.296458 2.526771,0.291042 -0.105833,1.005416 M 41.861054,43.712314 v -2.129895 h 0.01323 l 0.47625,2.010834 -0.489479,0.119061 m 10.239374,-4.577291 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291043 0.145521,-1.230312 m 1.57427,7.844896 0.926042,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.111249,-0.912812 m 3.611563,0.661458 -0.502708,1.362604 -1.362605,-0.529167 0.515938,-1.349375 1.349375,0.515938 m -4.114268,3.201457 1.957914,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.621768,-1.957917 m 3.307289,1.389063 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.14552 0.145521,-1.44198 m -7.236354,-2.923646 -0.635,-1.971145 1.971145,-0.621771 0.621771,1.971146 -1.957916,0.62177 m -5.185834,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+         style="fill:#a05a2d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path966"
+         d="m 54.13772,42.217419 -0.833437,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164166,0.846666 m -10.887604,-0.740833 -0.595312,-1.309688 1.322916,-0.582083 0.582084,1.296458 -1.309688,0.595313 m 2.659063,7.805208 -0.833438,1.164165 -1.164167,-0.846665 0.846667,-1.150938 1.150938,0.833438 m -3.571875,4.92125 1.41552,-0.224897 0.224896,1.415522 -1.415521,0.224895 -0.224895,-1.41552 m 8.030104,-2.275418 1.296458,-0.595312 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688"
+         style="fill:#af693c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path968"
+         d="m 58.794387,48.236689 v 1.455208 l -0.714375,0.07937 -0.171979,-1.42875 0.886354,-0.105833 m -16.933333,1.455208 v -1.455208 l 0.542395,-0.06615 0.17198,1.42875 -0.714375,0.0926 m 8.255,-5.622395 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217083,0.410105 -0.410105,-1.217085"
+         style="fill:#823c0f;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path970"
+         d="m 56.188241,45.432106 -0.992187,1.045104 -1.045105,-0.992188 0.992188,-1.045104 1.045104,0.992188 m -7.395104,-3.849687 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m 0.264583,12.83229 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+         style="fill:#8c4619;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g988"
+       transform="translate(0.4707033,-44.102422)">
+      <rect
+         style="opacity:1;fill:#965023;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect974"
+         width="16.933332"
+         height="16.933332"
+         x="21.492447"
+         y="60.00013"
+         ry="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#a05a2d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 21.492445,70.914192 c 1.569861,-2.248959 3.743854,-3.717396 6.521979,-4.405313 l -0.01323,-0.01323 c 3.377846,-1.040696 5.798784,-2.835452 7.262811,-5.384272 l 0.568855,-1.11125 h 2.592916 v 6.125104 c -1.472848,1.949097 -3.629199,3.364619 -6.469062,4.246563 l 0.01323,0.01323 c -3.598333,0.890764 -6.18684,3.073576 -7.765521,6.548437 H 21.492444 V 70.91419 m 2.711979,-10.914062 c -0.282222,0.608542 -0.529166,1.252361 -0.740833,1.931459 -0.291042,1.137709 -0.705556,2.169584 -1.243542,3.095624 l -0.727604,1.098021 v -6.125104 h 2.711979 M 38.425777,70.91419 v 6.019272 h -2.592916 c 0.273404,-0.617361 0.498297,-1.27882 0.674687,-1.984375 0.485069,-1.543404 1.124479,-2.888369 1.918229,-4.034897 m -3.942291,2.182813 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.145521 0.145521,-1.441979 M 29.324111,62.302004 27.90859,62.5269 l -0.224896,-1.415522 1.415521,-0.224895 0.224896,1.415521"
+         id="path976"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8c4619;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 32.538885,60.88638 -0.846976,1.177706 1.177706,0.833025 0.83354,-1.163754 z m -6.998538,2.513543 -0.145212,1.428852 1.428854,0.145727 0.145211,-1.428852 z m 8.440311,3.162079 -0.515731,1.349272 1.362707,0.529166 0.502296,-1.362707 z m -10.093957,2.751254 -0.846461,1.151352 1.16427,0.846459 0.833541,-1.16427 z m 6.032706,5.053955 -1.296561,0.595312 0.582393,1.309482 1.309481,-0.581877 z"
+         id="path978"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         style="fill:#af693c;fill-opacity:1"
+         id="g986"
+         transform="translate(-4.4216533,96.646472)"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path980"
+           d="m 29.816698,-23.417175 -1.217083,0.410104 -0.410104,-1.217084 1.217083,-0.423333 0.410104,1.230313 m 10.702396,-7.686146 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 -0.992187,1.045104 m -5.331354,2.447396 1.11125,-0.912813 0.926042,1.11125 -1.12448,0.912813 -0.912812,-1.11125"
+           style="fill:#af693c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path982"
+           d="m 32.105343,-35.535092 1.415521,-0.224896 0.224896,1.415521 -1.415521,0.224896 z"
+           style="fill:#af693c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path984"
+           d="m 38.905135,-23.549468 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 z"
+           style="fill:#af693c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g1008"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_stone_block.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.12294878,-23.23732)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         y="39.135044"
+         x="61.125336"
+         height="16.933332"
+         width="16.933336"
+         id="rect990"
+         style="opacity:1;fill:#6b4231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         inkscape:connector-curvature="0"
+         style="fill:#784a37;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 73.415229,45.485034 0.992188,-1.045104 1.045104,0.992187 -0.992188,1.045105 -1.045104,-0.992188 m 1.600729,6.693958 -1.957916,0.621772 -0.621771,-1.957918 1.957917,-0.621769 0.62177,1.957915 M 63.824083,40.881285 62.514396,41.476598 61.919083,40.16691 63.242,39.584827 l 0.582083,1.296458 m 8.41375,0.489479 1.164167,0.846667 -0.833437,1.164167 -1.177396,-0.833438 0.846666,-1.177396 m -8.215312,7.077603 1.150937,0.833438 -0.833437,1.164166 -1.164167,-0.846666 0.846667,-1.150938 m -0.621771,3.108854 1.217083,-0.423332 0.410105,1.230313 -1.217084,0.410103 -0.410104,-1.217084"
+         id="path992" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         inkscape:connector-curvature="0"
+         style="fill:#5e3a2b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 66.324396,51.252952 2.579687,0.582082 -0.582083,2.579688 -2.566458,-0.568855 0.568854,-2.592915 m 7.593542,-12.117917 -0.17198,1.521354 -2.52677,-0.291041 0.14552,-1.230313 h 2.55323 m -12.792605,2.447396 h 0.01323 l 0.47625,2.010833 -0.48948,0.119062 v -2.129895 m 0,6.65427 0.542399,-0.06615 0.171976,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145524,-1.296458 2.526771,0.291042 -0.105836,1.005416 h -2.566459 m 6.693959,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997603 1.984375,-0.47625 v 2.129895 m -2.8575,3.413125 1.349375,0.515937 -0.502706,1.362605 -1.362604,-0.529167 0.515935,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.145521 m -7.540625,-12.091462 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455834,12.620625 1.415524,-0.224897 0.224893,1.415522 -1.415518,0.224895 -0.224899,-1.41552 m 11.337399,-7.223125 0.926039,1.11125 -1.124479,0.912811 -0.91281,-1.11125 1.11125,-0.912811 m -2.275419,-1.336147 -1.42875,-0.145521 0.14552,-1.42875 1.42875,0.145521 -0.14552,1.42875 m -2.156355,3.664479 -0.635,-1.971146 1.971149,-0.62177 0.621768,1.971145 -1.957917,0.621771 m -4.511145,-5.08 2.606145,0.674688 -0.674687,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595312,1.322916 -1.309687,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+         id="path994" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path996"
+         d="m 62.23121,39.499905 -0.56999,15.554556 3.061314,0.132291 v -5.29e-4 l 12.217861,0.517282 0.01344,-0.132292 0.56896,-15.435207 -12.508797,-0.517281 v 5.3e-4 z"
+         style="fill:#a6654d;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         style="fill:#bf7459;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 62.23121,39.499905 -3e-6,0.530062 2.782821,0.119057 12.509241,0.517119 0.01347,-0.331288 v -0.198773 l -2.411677,-0.09266 -10.111023,-0.424463 z"
+         id="path998"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 72.938985,46.979944 0.926041,1.11125 -1.124479,0.912814 -0.912812,-1.11125 1.11125,-0.912814 m 3.611562,0.661459 -0.502708,1.362605 -1.362604,-0.529168 0.515937,-1.349375 1.349375,0.515938 m -4.114268,3.201457 1.957914,-0.62177 0.621771,1.957916 -1.957917,0.621772 -0.621768,-1.957918 m 2.778122,1.918231 1.441979,0.14552 -0.15875,1.44198 -1.42875,-0.145522 0.145521,-1.441978 m -6.707187,-3.452814 -0.635,-1.971144 1.971146,-0.621772 0.621773,1.971147 -1.957919,0.621769 m -5.185834,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+         id="path1000" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#b87056;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 73.402005,42.217445 -0.833437,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164166,0.846666 m -8.228541,7.064374 -0.833438,1.164166 -1.164166,-0.846666 0.846666,-1.150936 1.150938,0.833436 m 4.458229,2.645834 1.296458,-0.595313 0.595313,1.322916 -1.309688,0.582085 -0.582083,-1.309688"
+         id="path1002" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 69.380339,44.069515 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217083,0.410105 -0.410105,-1.217085"
+         id="path1004" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 75.452526,45.432132 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 m -7.395104,-3.32052 -1.680104,1.825624 -1.825625,-1.680103 1.680104,-1.825626 1.825625,1.680105 m 0.264583,12.303123 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+         id="path1006" />
+    </g>
+    <g
+       id="g1022"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_stone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.12294878,-23.23732)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         y="39.135044"
+         x="81.329041"
+         height="16.933332"
+         width="16.933338"
+         id="rect1010"
+         style="opacity:1;fill:#6b4231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#784a37;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 93.618942,45.485033 0.992188,-1.045104 1.045099,0.992187 -0.992183,1.045105 -1.045104,-0.992188 m 1.600729,6.693958 -1.957916,0.621771 -0.621771,-1.957916 1.957917,-0.621771 0.62177,1.957916 m -11.191875,-11.297707 -1.309687,0.595313 -0.595313,-1.309688 1.322917,-0.582084 0.582083,1.296459 m 8.41375,0.489479 1.164167,0.846667 -0.833437,1.164167 -1.177396,-0.833438 0.846666,-1.177396 m -8.215312,7.077603 1.150937,0.833438 -0.833437,1.164167 -1.164167,-0.846667 0.846667,-1.150938 m -0.621771,3.108855 1.217083,-0.423334 0.410105,1.230313 -1.217084,0.410104 -0.410104,-1.217083"
+         id="path1012" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#5e3a2b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 86.528109,51.25295 2.579687,0.582084 -0.582083,2.579687 -2.566458,-0.568855 0.568854,-2.592916 m 7.593542,-12.117916 -0.17198,1.521353 -2.52677,-0.29104 0.14552,-1.230313 h 2.55323 M 81.329046,41.58243 h 0.01323 l 0.47625,2.010833 -0.48948,0.119062 V 41.58243 m 0,6.65427 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291043 -0.105833,1.005415 H 91.568421 M 98.26238,49.6919 97.54801,49.77128 97.376028,48.34253 98.26238,48.236697 v 1.455208 m 0,-5.979583 -1.521352,0.343958 -0.463018,-1.997603 1.98437,-0.47625 v 2.129895 m -2.8575,3.413125 1.34938,0.515937 -0.502711,1.362604 -1.362607,-0.529166 0.515938,-1.349375 m 0.39688,6.548438 0.145518,-1.44198 1.441982,0.145521 -0.15875,1.441979 -1.42875,-0.14552 m -7.54063,-12.091463 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455834,12.620624 1.415521,-0.224896 0.224896,1.415521 -1.415521,0.224897 -0.224896,-1.415522 m 11.337396,-7.223125 0.926042,1.11125 -1.124479,0.912812 -0.912813,-1.11125 1.11125,-0.912812 m -2.275416,-1.336146 -1.42875,-0.145521 0.14552,-1.42875 1.42875,0.145521 -0.14552,1.42875 m -2.156355,3.66448 -0.635,-1.971147 1.971146,-0.62177 0.621771,1.971145 -1.957917,0.621772 m -4.511145,-5.080001 2.606145,0.674688 -0.674687,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104064 0.595312,1.322915 -1.309687,0.582085 -0.582083,-1.309688 1.296458,-0.595312"
+         id="path1014" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bf7459;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 93.65863,48.435146 1.27,-0.03969 1.561039,-0.03969 1.07156,-0.02646 0.701151,-0.02646 v 0.529166 l -10.808229,0.291041 -0.01323,-0.529166 1.031875,-0.02646 2.143125,-0.05292 1.878545,-0.05292 1.164164,-0.02646 m -2.235729,-8.08302 2.407708,0.0926 v 0.198438 l -0.01323,0.33073 -12.488336,-0.515939 V 39.92877 l 10.093854,0.423334 m -10.093854,7.950728 4.471458,-0.119063 0.185208,7.143751 h -0.01323 l -0.171982,-6.614584 -4.471455,0.119063 v -0.529167 m 13.93031,-3.241146 0.224895,-5.251978 2.778131,0.119062 v 0.529166 l -2.778131,-0.119062 -0.277809,6.601354 h -0.02646 l 0.05292,-1.045104 0.02646,-0.833438"
+         id="path1016" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#a6654d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 98.26238,55.446603 -4.074584,0.105835 -2.566458,0.06615 -3.995208,0.105833 -0.03969,-1.508125 -0.06615,-2.738438 -0.06615,-2.354791 10.808229,-0.291041 v 6.614578 m -16.933333,-14.988645 12.488333,0.515938 -0.185208,4.511144 h -0.01323 l 0.01323,0.01323 -0.0926,1.957917 -0.01323,0.132292 -1.071568,-0.03969 -2.169583,-0.0926 -2.196042,-0.0926 -6.760104,-0.291042 v -6.614582 m 7.593542,3.968749 1.349375,0.145521 0.145521,-1.336145 -1.349375,-0.145521 -0.145521,1.336145 m -2.950104,10.900833 -2.526771,0.06615 -1.441979,0.03969 -0.674688,0.01323 v -6.614582 l 4.471458,-0.119062 0.17198,6.614583 m 3.01625,-10.01448 -1.28323,-0.145521 -0.132291,1.28323 1.283229,0.14552 0.132292,-1.283229 m 6.217708,1.627188 0.27781,-6.601353 2.77813,0.119061 v 6.614583 l -3.05594,-0.132291 m -2.354792,-2.182813 -1.997604,-0.211666 -0.211667,1.997604 1.997605,0.211666 0.211666,-1.997604 m -8.969375,7.514167 0.06615,1.322916 1.362605,-0.06615 -0.06615,-1.336146 -1.362604,0.07937 m -0.410104,1.905 -0.06615,-0.992188 -1.005417,0.03969 0.05292,0.992188 1.018646,-0.03969 m 7.381875,-3.9952 0.06615,1.322917 1.362604,-0.06615 -0.06615,-1.336145 -1.362604,0.07937 m -2.579687,-0.171979 0.119062,1.997604 1.997604,-0.0926 -0.0926,-2.010834 -2.02406,0.105833 m 2.632604,3.373438 -0.06615,-0.992187 -1.005417,0.03969 0.05292,0.992188 1.018645,-0.03969"
+         id="path1018" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 90.906963,53.382853 -1.018646,0.03969 -0.05292,-0.992188 1.005414,-0.03969 0.06615,0.992187 m -1.984373,-8.956144 0.145521,-1.336145 1.349375,0.145521 -0.145521,1.336145 -1.349375,-0.145521 m 0.06615,0.886354 -0.132291,1.283229 -1.28323,-0.14552 0.132292,-1.28323 1.283229,0.145521 m 3.862917,-0.555625 -0.211667,1.997604 -1.997604,-0.211666 0.211667,-1.997604 1.997604,0.211666 m -9.379479,9.419166 -1.018646,0.03969 -0.05292,-0.992188 1.005417,-0.03969 0.06615,0.992187 m 0.410104,-1.905 1.362604,-0.07937 0.06615,1.336147 -1.362604,0.06615 -0.06615,-1.322917 m 6.971771,-2.090216 1.362604,-0.07937 0.06615,1.336147 -1.362604,0.06615 -0.06615,-1.322926 m -2.579688,-0.171979 2.024063,-0.105833 0.0926,2.010833 -1.997604,0.0926 -0.119065,-1.997603"
+         id="path1020" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.340921"
+       y="14.539268"
+       id="text1026"><tspan
+         sodipodi:role="line"
+         x="21.340921"
+         y="14.539268"
+         style="font-size:1.41111px;stroke-width:0.264583px"
+         id="tspan1024">Unused Red/brown Sand</tspan></text>
+    <g
+       id="g1162"
+       transform="translate(38.896242,-2.1316849)"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_cobble.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1160"
+         transform="translate(-6.3213687,0.64282144)">
+        <g
+           id="g1158"
+           transform="translate(57.205151,-22.3767)">
+          <g
+             transform="translate(-36.538007,-26.48452)"
+             id="g1034">
+            <rect
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+               y="66.24778"
+               x="47.91077"
+               height="16.933332"
+               width="16.933336"
+               id="rect1028"
+               style="opacity:1;fill:#6b4231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+               inkscape:connector-curvature="0"
+               style="fill:#784a37;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               d="m 60.200665,72.597767 0.992188,-1.045104 1.045104,0.992187 -0.992188,1.045105 -1.045104,-0.992188 m 1.600729,6.693958 -1.957916,0.621772 -0.621771,-1.957918 1.957917,-0.621769 0.62177,1.957915 m -11.191875,-11.297707 -1.309687,0.595313 -0.595313,-1.309688 1.322917,-0.582083 0.582083,1.296458 m 8.41375,0.489479 1.164167,0.846667 -0.833437,1.164167 -1.177396,-0.833438 0.846666,-1.177396 m -8.215312,7.077603 1.150937,0.833438 -0.833437,1.164166 -1.164167,-0.846666 0.846667,-1.150938 m -0.621771,3.108854 1.217083,-0.423332 0.410105,1.230313 -1.217084,0.410103 -0.410104,-1.217084"
+               id="path1030" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+               inkscape:connector-curvature="0"
+               style="fill:#5e3a2b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               d="m 53.109832,78.365685 2.579687,0.582082 -0.582083,2.579688 -2.566458,-0.568855 0.568854,-2.592915 m 7.593542,-12.117917 -0.17198,1.521354 -2.52677,-0.291041 0.14552,-1.230313 h 2.55323 m -12.792605,2.447396 h 0.01323 l 0.47625,2.010833 -0.48948,0.119062 v -2.129895 m 0,6.65427 0.542399,-0.06615 0.171976,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145524,-1.296458 2.526771,0.291042 -0.105836,1.005416 h -2.566459 m 6.693959,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997603 1.984375,-0.47625 v 2.129895 m -2.8575,3.413125 1.349375,0.515937 -0.502706,1.362605 -1.362604,-0.529167 0.515935,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.145521 m -7.540625,-12.091462 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455834,12.620625 1.415524,-0.224897 0.224893,1.415522 -1.415518,0.224895 -0.224899,-1.41552 m 11.337399,-7.223125 0.926039,1.11125 -1.124479,0.912811 -0.91281,-1.11125 1.11125,-0.912811 m -2.275419,-1.336147 -1.42875,-0.145521 0.14552,-1.42875 1.42875,0.145521 -0.14552,1.42875 m -2.156355,3.664479 -0.635,-1.971146 1.971149,-0.62177 0.621768,1.971145 -1.957917,0.621771 m -4.511145,-5.08 2.606145,0.674688 -0.674687,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595312,1.322916 -1.309687,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+               id="path1032" />
+          </g>
+          <path
+             sodipodi:nodetypes="ccccccccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 13.674646,39.763263 h 5.119688 l -0.01323,1.031875 -2.579688,1.455209 -2.526771,-1.494896 -0.01323,-0.01323 0.01323,-0.978959 m 5.132917,16.933333 h -5.119687 v -1.455208 l 2.579687,-1.441979 2.553229,1.494896 -0.01323,1.402291"
+             id="path1036"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 22.220688,39.763263 h 3.439583 l 0.07937,0.02646 0.251354,2.394479 -1.957917,1.415521 -2.196041,-0.992188 -0.251354,-2.394479 0.635,-0.449792 m 3.452812,16.933333 h -3.452812 l 1.322916,-0.9525 2.129896,0.9525"
+             id="path1038"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ad7e6e;stroke:none;stroke-width:0.264583"
+             d="m 21.889958,43.163159 -0.05292,-0.02646 v -0.01323 l 0.05292,0.03969"
+             id="path1040"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1042"
+             d="m 22.460648,53.634175 0.301994,1.817055 -1.550235,1.146142 -1.84216,-0.670913 -0.291928,-1.817054 1.540168,-1.136824 1.842161,0.661594"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.594926,50.433268 -2.03641,1.114578 -1.955879,-1.21319 0.04327,-2.311264 2.036411,-1.11458 1.961087,1.199703 -0.04847,2.324753"
+             id="path1044"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1046"
+             d="m 15.60585,53.989618 -1.496767,0.0068 -0.848488,-1.206454 0.621895,-1.215186 1.496768,-0.0067 0.855058,1.200786 -0.628458,1.220859"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 20.859841,41.853339 -1.113894,0.0053 -0.631445,-0.943552 0.462814,-0.950381 1.113896,-0.0052 0.636334,0.939119 -0.467699,0.954818"
+             id="path1048"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1050"
+             d="m 25.284757,49.175836 -2.868286,-0.154443 -0.706769,-2.739225 1.312638,-2.482257 2.837569,0.539968 1.005427,2.579695 -1.580572,2.25627"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.64095,51.33268 0.859485,-3.175548 3.127334,-0.07174 1.667246,1.893644 -1.005333,2.825882 -2.974664,0.869262 -1.674076,-2.341497"
+             id="path1052"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1054"
+             d="m 21.526925,48.732968 -0.864194,0.0048 -0.489895,-0.861393 0.359066,-0.867628 0.864196,-0.0047 0.493688,0.857346 -0.362856,0.871679"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:transform-center-y="-0.01373942"
+             inkscape:transform-center-x="-0.28263144"
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 16.551679,47.262291 -0.672921,0.542246 -0.919909,-0.36846 -0.259796,-0.902337 0.672985,-0.54217 0.920353,0.362931 0.259356,0.907868"
+             id="path1056"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 23.63721,52.946151 -1.896939,-0.103254 -0.480906,-1.863752 1.036261,-1.502041 1.72196,0.235921 0.664938,1.72468 -1.04531,1.508452"
+             id="path1058"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.853191,49.947212 0.03102,-1.396519 1.11364,-0.760688 1.085024,0.611265 -0.03111,1.396517 -1.10867,0.766962 -1.089998,-0.617533"
+             id="path1060"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1062"
+             d="m 28.306103,41.324304 v 5.384271 h -0.846666 l -1.521355,-2.69875 1.5875,-2.685521 h 0.780521 m 0,9.51177 v 5.503334 l -2.989791,0.02646 -1.613959,-2.725208 1.547813,-2.764896 3.055937,-0.03969 m -16.933334,5.503334 v -5.503334 h 0.423334 l 1.627187,2.725209 -1.561041,2.764896 -0.48948,0.01323 m 0,-9.630833 v -5.384272 l 2.619375,0.02646 1.534584,2.711979 -1.5875,2.672291 -2.566459,-0.02646 m 4.669896,-3.413125 0.02646,-0.264584 3.029479,-1.42875 2.685521,1.852084 L 21.546,46.258782 18.556209,47.661074 15.831,45.782532 16.042667,43.295449"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 28.306103,41.324304 v 5.384271 h -0.846666 l -1.521355,-2.69875 1.5875,-2.685521 h 0.780521 m -16.933334,5.384272 v -5.384272 l 2.619375,0.02646 1.534584,2.711979 -1.5875,2.672291 -2.566459,-0.02646"
+             id="path1064"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1066"
+             d="m 16.042524,51.277856 0.737397,-2.791141 2.683101,-0.06305 1.430416,1.664414 -0.862527,2.483803 -2.552117,0.764037 -1.436276,-2.058055"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1068"
+             d="m 15.366676,50.243312 -1.800693,0.938868 -1.729485,-1.021933 0.03826,-1.9469 1.800696,-0.938869 1.73409,1.010573 -0.04286,1.958261"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.173633,48.840408 -2.510958,-0.135171 -0.691714,-2.335994 1.222104,-2.233901 2.484068,0.472587 0.880172,2.257775 -1.383666,1.974711"
+             id="path1070"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 22.343334,53.812366 0.278991,1.535701 -1.432154,0.968672 -1.701844,-0.567028 -0.269692,-1.5357 1.422855,-0.960797 1.701844,0.559152"
+             id="path1072"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.510382,53.792292 -1.330301,0.0057 -0.754121,-1.009278 0.552729,-1.016582 1.330302,-0.0056 0.75996,1.004535 -0.558562,1.021329"
+             id="path1074"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1076"
+             d="m 23.553527,52.731178 -1.658684,-0.09046 -0.420503,-1.632762 0.906106,-1.315881 1.505682,0.206681 0.581422,1.510926 -0.914019,1.321498"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 21.460097,48.535629 -0.747667,0.0037 -0.423839,-0.664208 0.31065,-0.669014 0.74767,-0.0036 0.42712,0.661086 -0.313929,0.672139"
+             id="path1078"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1080"
+             d="m 16.369379,47.199306 -0.534627,0.444804 -0.730856,-0.302247 -0.206406,-0.740187 0.534678,-0.444741 0.731209,0.297712 0.206055,0.744723"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="-0.22454644"
+             inkscape:transform-center-y="-0.01127042"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1082"
+             d="m 20.764373,41.683784 -0.947428,0.0044 -0.537078,-0.774124 0.393648,-0.779727 0.94743,-0.0043 0.541236,0.770487 -0.397803,0.783366"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1084"
+             d="m 26.035077,49.821609 0.02596,-1.168669 0.931942,-0.636577 0.907996,0.511534 -0.02603,1.168666 -0.927784,0.641828 -0.912158,-0.516779"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 16.299233,43.419436 0.024,-0.240032 2.748359,-1.296169 2.436319,1.68022 -0.216029,2.544332 -2.712354,1.272167 -2.472324,-1.704223 0.192026,-2.256295"
+             id="path1086"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1088"
+             d="m 22.408994,39.763263 h 3.02642 l 0.06983,0.02475 0.221162,2.239664 -1.722732,1.324 -1.932252,-0.928038 -0.221162,-2.239663 0.558724,-0.420711"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1090"
+             d="M 25.359302,56.696597 H 22.46873 l 1.107499,-0.770599 1.783073,0.770599"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1092"
+             d="M 11.372769,46.315096 V 41.62196 l 2.306552,0.02306 1.351313,2.363865 -1.39791,2.329271 -2.259955,-0.02307"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1094"
+             d="m 28.306103,41.588887 v 4.788959 H 27.648636 L 26.467249,43.977484 27.7,41.588887 h 0.606103"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 28.306103,51.199876 v 4.713382 l -2.710572,0.02266 -1.46323,-2.33403 1.403261,-2.368021 2.770541,-0.03399"
+             id="path1096"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1098"
+             d="M 11.372769,56.041752 V 51.13373 h 0.327742 l 1.259758,2.430415 -1.208548,2.465809 -0.378952,0.0118"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1100"
+             d="m 18.478537,56.696595 h -4.459933 v -1.206029 l 2.247253,-1.195064 2.224205,1.23892 -0.01153,1.162173"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1102"
+             d="m 13.937438,39.763263 h 4.426948 l -0.01144,0.867214 -2.230633,1.222995 -2.184875,-1.256349 -0.01144,-0.01112 0.01144,-0.822742"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             sodipodi:nodetypes="ccccccc"
+             id="path1104"
+             d="m 26.394987,41.247603 -0.324422,-0.70022 0.572266,-0.694114 0.8923,-0.0068 0.324338,0.700257 -0.56732,0.6958 -0.897251,0.0051"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.059625339"
+             inkscape:transform-center-y="0.24332649" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:transform-center-y="0.19411412"
+             inkscape:transform-center-x="0.047047761"
+             inkscape:connector-curvature="0"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 26.499209,41.10767 -0.27056,-0.559634 0.463364,-0.549209 0.730241,1.52e-4 0.27049,0.559663 -0.459302,0.550585 -0.734305,-0.0015"
+             id="path1106"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 19.210367,43.066398 -0.123841,0.77592 -0.733783,0.278716 -0.606129,-0.495983 0.127697,-0.774692 0.728773,-0.276142 0.607347,0.492191"
+             id="path1108"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1110"
+             d="m 13.548895,45.770289 -0.784422,-0.04551 -0.350805,-0.702179 0.432784,-0.652756 0.783586,0.04947 0.347743,0.697452 -0.428889,0.653588"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="-0.240379"
+             inkscape:transform-center-y="5.3604938" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1112"
+             d="m 19.817512,51.566038 -0.158378,0.769613 -0.745501,0.245659 -0.583368,-0.522564 0.162175,-0.768214 0.740381,-0.243312 0.584755,0.51883"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:transform-center-y="3.5882743"
+             inkscape:transform-center-x="-0.1609074"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 14.05449,44.28203 -0.525085,-0.03046 -0.234826,-0.470033 0.289702,-0.436949 0.524526,0.03312 0.232776,0.466868 -0.287095,0.437506"
+             id="path1114"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1116"
+             d="m 20.33487,43.216136 -0.07907,0.495427 -0.468522,0.177961 -0.387014,-0.316686 0.08153,-0.494643 0.465324,-0.176317 0.387792,0.314265"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 18.376031,52.416447 -0.08794,0.427339 -0.413952,0.136406 -0.323924,-0.290162 0.09005,-0.426562 0.411109,-0.135103 0.324694,0.288088"
+             id="path1118"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.657551,45.313099 -0.328144,0.582368 -0.667746,0.0054 -0.336921,-0.574824 0.330856,-0.58025 0.662989,-0.0048 0.339014,0.572159"
+             id="path1120"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1122"
+             d="m 26.148677,46.285713 -0.202945,0.360171 -0.412973,0.0034 -0.208373,-0.355506 0.204621,-0.358861 0.410032,-0.003 0.209667,0.353858"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1124"
+             d="m 23.916881,50.450172 -0.239233,0.364855 -0.435086,-0.02574 -0.194196,-0.389112 0.240908,-0.363356 0.431963,0.02591 0.195677,0.387468"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.51449384"
+             inkscape:transform-center-y="0.18708867" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 21.40131,47.526754 -0.136785,0.242757 -0.278347,0.0023 -0.140444,-0.239612 0.137916,-0.241875 0.276363,-0.002 0.141317,0.238501"
+             id="path1126"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1128"
+             d="m 16.069283,47.199349 -0.136785,0.242757 -0.278347,0.0023 -0.140444,-0.239612 0.137916,-0.241875 0.276363,-0.002 0.141317,0.238501"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1130"
+             d="m 13.250506,48.919288 -0.556808,0.369859 -0.597385,-0.298403 -0.03916,-0.665135 0.558262,-0.366741 0.592875,0.296777 0.04224,0.663712"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 12.700725,49.95925 -0.344364,0.228743 -0.369486,-0.184496 -0.02422,-0.41136 0.345263,-0.226815 0.366683,0.183517 0.02612,0.410479"
+             id="path1132"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:transform-center-y="0.18708867"
+             inkscape:transform-center-x="0.51449384"
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.56597,53.327516 -0.239233,0.364855 -0.435086,-0.02574 -0.194196,-0.389112 0.240908,-0.363356 0.431963,0.02591 0.195677,0.387468"
+             id="path1134"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1136"
+             d="m 21.209019,54.061902 -0.373668,0.298438 -0.444426,-0.175243 -0.06954,-0.471569 0.374901,-0.296305 0.441115,0.174354 0.07164,0.470362"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.014412917"
+             inkscape:transform-center-y="0.022135033" />
+          <path
+             inkscape:transform-center-y="0.014372709"
+             inkscape:transform-center-x="0.0093537852"
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 21.953168,54.133484 -0.242632,0.193783 -0.288576,-0.11379 -0.04515,-0.3062 0.243432,-0.192398 0.286426,0.113212 0.04652,0.305417"
+             id="path1138"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1140"
+             d="m 26.494824,52.854562 -0.784196,0.04926 -0.432784,-0.654842 0.351056,-0.700108 0.783843,-0.04522 0.429174,0.650519 -0.347088,0.700464"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.437669,53.686884 -0.500711,0.03145 -0.276333,-0.418118 0.224149,-0.44702 0.500486,-0.02887 0.274029,0.415357 -0.221617,0.447249"
+             id="path1142"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1144"
+             d="m 27.435553,48.806646 -0.362776,0.242374 -0.390442,-0.193696 -0.02672,-0.434058 0.363733,-0.240339 0.387501,0.192629 0.02872,0.433123"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.043860091"
+             inkscape:transform-center-y="0.02978442" />
+          <path
+             inkscape:transform-center-y="0.02978442"
+             inkscape:transform-center-x="0.043860091"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 24.888939,40.869146 -0.362776,0.242374 -0.390442,-0.193696 -0.02672,-0.434058 0.363733,-0.240339 0.387501,0.192629 0.02872,0.433123"
+             id="path1146"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1148"
+             d="m 25.500784,41.874761 -0.466435,0.31163 -0.502006,-0.249042 -0.03435,-0.558085 0.467666,-0.309013 0.498224,0.24767 0.03693,0.556883"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.056385451"
+             inkscape:transform-center-y="0.038295888" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 20.335689,41.361979 -0.136785,0.242757 -0.278347,0.0023 -0.140444,-0.239612 0.137916,-0.241875 0.276363,-0.002 0.141317,0.238501"
+             id="path1150"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 16.776803,55.520299 -0.587876,0.31817 -0.56806,-0.351029 0.02095,-0.665957 0.589043,-0.314934 0.563715,0.349003 -0.01775,0.664818"
+             id="path1152"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1154"
+             d="m 15.470583,55.856465 -0.36951,0.185397 -0.344449,-0.227846 0.02573,-0.411268 0.370169,-0.183374 0.341785,0.226534 -0.02374,0.410624"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1156"
+             d="m 26.716407,40.858095 -0.262743,-0.03053 -0.102231,-0.226428 0.160165,-0.194703 0.262376,0.03175 0.101261,0.224906 -0.158875,0.195039"
+             style="opacity:0.5625;fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#d78c50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1174"
+       width="11.557186"
+       height="3.7622321"
+       x="7.700026"
+       y="-12.598528" />
+    <rect
+       y="-8.8362865"
+       x="7.700026"
+       height="3.7622321"
+       width="11.557186"
+       id="rect1176"
+       style="fill:#cd8241;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="fill:#c37837;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1178"
+       width="11.557186"
+       height="3.7622321"
+       x="7.700026"
+       y="-5.0740571" />
+    <rect
+       y="-1.3118308"
+       x="7.700026"
+       height="3.7622321"
+       width="11.557186"
+       id="rect1180"
+       style="fill:#b96e2d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="fill:#af6423;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1182"
+       width="11.557186"
+       height="3.7622321"
+       x="7.700026"
+       y="2.4503992" />
+    <rect
+       style="fill:#a05514;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1184"
+       width="3.8523939"
+       height="3.5655146"
+       x="7.700026"
+       y="6.2126403" />
+    <rect
+       y="6.2126403"
+       x="11.55242"
+       height="3.5655146"
+       width="3.8523939"
+       id="rect1186"
+       style="fill:#964b0a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="fill:#8c4100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1188"
+       width="3.8523939"
+       height="3.5655146"
+       x="15.404829"
+       y="6.2126403" />
+    <g
+       id="g1200"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_sand_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.24589757,-46.290217)">
+      <rect
+         y="39.135033"
+         x="41.86105"
+         height="16.933319"
+         width="16.933332"
+         id="rect1190"
+         style="opacity:1;fill:#c37837;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_sand_red.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1192"
+         d="m 58.794387,41.582419 v 2.129895 l -1.521354,0.343958 -0.463021,-1.997603 1.984375,-0.47625 m -4.1275,14.485936 h -2.566458 l 0.14552,-1.296458 2.526771,0.291042 -0.105833,1.005416 M 41.861054,43.712314 v -2.129895 h 0.01323 l 0.47625,2.010834 -0.489479,0.119061 m 10.239374,-4.577291 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291043 0.145521,-1.230312 m 1.57427,7.844896 0.926042,1.11125 -1.124479,0.912812 -0.912812,-1.11125 1.111249,-0.912812 m 3.611563,0.661458 -0.502708,1.362604 -1.362605,-0.529167 0.515938,-1.349375 1.349375,0.515938 m -4.114268,3.201457 1.957914,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.621768,-1.957917 m 3.307289,1.389063 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.14552 0.145521,-1.44198 m -7.236354,-2.923646 -0.635,-1.971145 1.971145,-0.621771 0.621771,1.971146 -1.957916,0.62177 m -5.185834,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+         style="fill:#cd8241;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_sand_red.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1194"
+         d="m 54.13772,42.217419 -0.833437,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164166,0.846666 m -10.887604,-0.740833 -0.595312,-1.309688 1.322916,-0.582083 0.582084,1.296458 -1.309688,0.595313 m 2.659063,7.805208 -0.833438,1.164165 -1.164167,-0.846665 0.846667,-1.150938 1.150938,0.833438 m -3.571875,4.92125 1.41552,-0.224897 0.224896,1.415522 -1.415521,0.224895 -0.224895,-1.41552 m 8.030104,-2.275418 1.296458,-0.595312 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688"
+         style="fill:#d78c50;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_sand_red.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1196"
+         d="m 58.794387,48.236689 v 1.455208 l -0.714375,0.07937 -0.171979,-1.42875 0.886354,-0.105833 m -16.933333,1.455208 v -1.455208 l 0.542395,-0.06615 0.17198,1.42875 -0.714375,0.0926 m 8.255,-5.622395 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217083,0.410105 -0.410105,-1.217085"
+         style="fill:#af6423;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_sand_red.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1198"
+         d="m 56.188241,45.432106 -0.992187,1.045104 -1.045105,-0.992188 0.992188,-1.045104 1.045104,0.992188 m -7.395104,-3.849687 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m 0.264583,12.83229 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+         style="fill:#b96e2d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_sand_red.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g1216"
+       transform="translate(0.59365209,-67.155319)">
+      <rect
+         style="opacity:1;fill:#965023;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1202"
+         width="16.933332"
+         height="16.933332"
+         x="21.492447"
+         y="60.00013"
+         ry="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#a05a2d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 21.492445,70.914192 c 1.569861,-2.248959 3.743854,-3.717396 6.521979,-4.405313 l -0.01323,-0.01323 c 3.377846,-1.040696 5.798784,-2.835452 7.262811,-5.384272 l 0.568855,-1.11125 h 2.592916 v 6.125104 c -1.472848,1.949097 -3.629199,3.364619 -6.469062,4.246563 l 0.01323,0.01323 c -3.598333,0.890764 -6.18684,3.073576 -7.765521,6.548437 H 21.492444 V 70.91419 m 2.711979,-10.914062 c -0.282222,0.608542 -0.529166,1.252361 -0.740833,1.931459 -0.291042,1.137709 -0.705556,2.169584 -1.243542,3.095624 l -0.727604,1.098021 v -6.125104 h 2.711979 M 38.425777,70.91419 v 6.019272 h -2.592916 c 0.273404,-0.617361 0.498297,-1.27882 0.674687,-1.984375 0.485069,-1.543404 1.124479,-2.888369 1.918229,-4.034897 m -3.942291,2.182813 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.145521 0.145521,-1.441979 M 29.324111,62.302004 27.90859,62.5269 l -0.224896,-1.415522 1.415521,-0.224895 0.224896,1.415521"
+         id="path1204"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8c4619;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 32.538885,60.88638 -0.846976,1.177706 1.177706,0.833025 0.83354,-1.163754 z m -6.998538,2.513543 -0.145212,1.428852 1.428854,0.145727 0.145211,-1.428852 z m 8.440311,3.162079 -0.515731,1.349272 1.362707,0.529166 0.502296,-1.362707 z m -10.093957,2.751254 -0.846461,1.151352 1.16427,0.846459 0.833541,-1.16427 z m 6.032706,5.053955 -1.296561,0.595312 0.582393,1.309482 1.309481,-0.581877 z"
+         id="path1206"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         style="fill:#af693c;fill-opacity:1"
+         id="g1214"
+         transform="translate(-4.4216533,96.646472)"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sand.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path1208"
+           d="m 29.816698,-23.417175 -1.217083,0.410104 -0.410104,-1.217084 1.217083,-0.423333 0.410104,1.230313 m 10.702396,-7.686146 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 -0.992187,1.045104 m -5.331354,2.447396 1.11125,-0.912813 0.926042,1.11125 -1.12448,0.912813 -0.912812,-1.11125"
+           style="fill:#af693c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1210"
+           d="m 32.105343,-35.535092 1.415521,-0.224896 0.224896,1.415521 -1.415521,0.224896 z"
+           style="fill:#af693c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1212"
+           d="m 38.905135,-23.549468 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 z"
+           style="fill:#af693c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g1236"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_stone_block.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.24589757,-46.290217)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         y="39.135044"
+         x="61.125336"
+         height="16.933332"
+         width="16.933336"
+         id="rect1218"
+         style="opacity:1;fill:#6b4231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         inkscape:connector-curvature="0"
+         style="fill:#784a37;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 73.415229,45.485034 0.992188,-1.045104 1.045104,0.992187 -0.992188,1.045105 -1.045104,-0.992188 m 1.600729,6.693958 -1.957916,0.621772 -0.621771,-1.957918 1.957917,-0.621769 0.62177,1.957915 M 63.824083,40.881285 62.514396,41.476598 61.919083,40.16691 63.242,39.584827 l 0.582083,1.296458 m 8.41375,0.489479 1.164167,0.846667 -0.833437,1.164167 -1.177396,-0.833438 0.846666,-1.177396 m -8.215312,7.077603 1.150937,0.833438 -0.833437,1.164166 -1.164167,-0.846666 0.846667,-1.150938 m -0.621771,3.108854 1.217083,-0.423332 0.410105,1.230313 -1.217084,0.410103 -0.410104,-1.217084"
+         id="path1220" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         inkscape:connector-curvature="0"
+         style="fill:#5e3a2b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 66.324396,51.252952 2.579687,0.582082 -0.582083,2.579688 -2.566458,-0.568855 0.568854,-2.592915 m 7.593542,-12.117917 -0.17198,1.521354 -2.52677,-0.291041 0.14552,-1.230313 h 2.55323 m -12.792605,2.447396 h 0.01323 l 0.47625,2.010833 -0.48948,0.119062 v -2.129895 m 0,6.65427 0.542399,-0.06615 0.171976,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145524,-1.296458 2.526771,0.291042 -0.105836,1.005416 h -2.566459 m 6.693959,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997603 1.984375,-0.47625 v 2.129895 m -2.8575,3.413125 1.349375,0.515937 -0.502706,1.362605 -1.362604,-0.529167 0.515935,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.145521 m -7.540625,-12.091462 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455834,12.620625 1.415524,-0.224897 0.224893,1.415522 -1.415518,0.224895 -0.224899,-1.41552 m 11.337399,-7.223125 0.926039,1.11125 -1.124479,0.912811 -0.91281,-1.11125 1.11125,-0.912811 m -2.275419,-1.336147 -1.42875,-0.145521 0.14552,-1.42875 1.42875,0.145521 -0.14552,1.42875 m -2.156355,3.664479 -0.635,-1.971146 1.971149,-0.62177 0.621768,1.971145 -1.957917,0.621771 m -4.511145,-5.08 2.606145,0.674688 -0.674687,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595312,1.322916 -1.309687,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+         id="path1222" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path1224"
+         d="m 62.23121,39.499905 -0.56999,15.554556 3.061314,0.132291 v -5.29e-4 l 12.217861,0.517282 0.01344,-0.132292 0.56896,-15.435207 -12.508797,-0.517281 v 5.3e-4 z"
+         style="fill:#a6654d;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         style="fill:#bf7459;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 62.23121,39.499905 -3e-6,0.530062 2.782821,0.119057 12.509241,0.517119 0.01347,-0.331288 v -0.198773 l -2.411677,-0.09266 -10.111023,-0.424463 z"
+         id="path1226"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 72.938985,46.979944 0.926041,1.11125 -1.124479,0.912814 -0.912812,-1.11125 1.11125,-0.912814 m 3.611562,0.661459 -0.502708,1.362605 -1.362604,-0.529168 0.515937,-1.349375 1.349375,0.515938 m -4.114268,3.201457 1.957914,-0.62177 0.621771,1.957916 -1.957917,0.621772 -0.621768,-1.957918 m 2.778122,1.918231 1.441979,0.14552 -0.15875,1.44198 -1.42875,-0.145522 0.145521,-1.441978 m -6.707187,-3.452814 -0.635,-1.971144 1.971146,-0.621772 0.621773,1.971147 -1.957919,0.621769 m -5.185834,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+         id="path1228" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#b87056;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 73.402005,42.217445 -0.833437,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164166,0.846666 m -8.228541,7.064374 -0.833438,1.164166 -1.164166,-0.846666 0.846666,-1.150936 1.150938,0.833436 m 4.458229,2.645834 1.296458,-0.595313 0.595313,1.322916 -1.309688,0.582085 -0.582083,-1.309688"
+         id="path1230" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 69.380339,44.069515 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217083,0.410105 -0.410105,-1.217085"
+         id="path1232" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.75;fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 75.452526,45.432132 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 m -7.395104,-3.32052 -1.680104,1.825624 -1.825625,-1.680103 1.680104,-1.825626 1.825625,1.680105 m 0.264583,12.303123 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+         id="path1234" />
+    </g>
+    <g
+       id="g1250"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_stone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0.24589757,-46.290217)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         y="39.135044"
+         x="81.329041"
+         height="16.933332"
+         width="16.933338"
+         id="rect1238"
+         style="opacity:1;fill:#6b4231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#784a37;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 93.618942,45.485033 0.992188,-1.045104 1.045099,0.992187 -0.992183,1.045105 -1.045104,-0.992188 m 1.600729,6.693958 -1.957916,0.621771 -0.621771,-1.957916 1.957917,-0.621771 0.62177,1.957916 m -11.191875,-11.297707 -1.309687,0.595313 -0.595313,-1.309688 1.322917,-0.582084 0.582083,1.296459 m 8.41375,0.489479 1.164167,0.846667 -0.833437,1.164167 -1.177396,-0.833438 0.846666,-1.177396 m -8.215312,7.077603 1.150937,0.833438 -0.833437,1.164167 -1.164167,-0.846667 0.846667,-1.150938 m -0.621771,3.108855 1.217083,-0.423334 0.410105,1.230313 -1.217084,0.410104 -0.410104,-1.217083"
+         id="path1240" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#5e3a2b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 86.528109,51.25295 2.579687,0.582084 -0.582083,2.579687 -2.566458,-0.568855 0.568854,-2.592916 m 7.593542,-12.117916 -0.17198,1.521353 -2.52677,-0.29104 0.14552,-1.230313 h 2.55323 M 81.329046,41.58243 h 0.01323 l 0.47625,2.010833 -0.48948,0.119062 V 41.58243 m 0,6.65427 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291043 -0.105833,1.005415 H 91.568421 M 98.26238,49.6919 97.54801,49.77128 97.376028,48.34253 98.26238,48.236697 v 1.455208 m 0,-5.979583 -1.521352,0.343958 -0.463018,-1.997603 1.98437,-0.47625 v 2.129895 m -2.8575,3.413125 1.34938,0.515937 -0.502711,1.362604 -1.362607,-0.529166 0.515938,-1.349375 m 0.39688,6.548438 0.145518,-1.44198 1.441982,0.145521 -0.15875,1.441979 -1.42875,-0.14552 m -7.54063,-12.091463 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455834,12.620624 1.415521,-0.224896 0.224896,1.415521 -1.415521,0.224897 -0.224896,-1.415522 m 11.337396,-7.223125 0.926042,1.11125 -1.124479,0.912812 -0.912813,-1.11125 1.11125,-0.912812 m -2.275416,-1.336146 -1.42875,-0.145521 0.14552,-1.42875 1.42875,0.145521 -0.14552,1.42875 m -2.156355,3.66448 -0.635,-1.971147 1.971146,-0.62177 0.621771,1.971145 -1.957917,0.621772 m -4.511145,-5.080001 2.606145,0.674688 -0.674687,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104064 0.595312,1.322915 -1.309687,0.582085 -0.582083,-1.309688 1.296458,-0.595312"
+         id="path1242" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#bf7459;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 93.65863,48.435146 1.27,-0.03969 1.561039,-0.03969 1.07156,-0.02646 0.701151,-0.02646 v 0.529166 l -10.808229,0.291041 -0.01323,-0.529166 1.031875,-0.02646 2.143125,-0.05292 1.878545,-0.05292 1.164164,-0.02646 m -2.235729,-8.08302 2.407708,0.0926 v 0.198438 l -0.01323,0.33073 -12.488336,-0.515939 V 39.92877 l 10.093854,0.423334 m -10.093854,7.950728 4.471458,-0.119063 0.185208,7.143751 h -0.01323 l -0.171982,-6.614584 -4.471455,0.119063 v -0.529167 m 13.93031,-3.241146 0.224895,-5.251978 2.778131,0.119062 v 0.529166 l -2.778131,-0.119062 -0.277809,6.601354 h -0.02646 l 0.05292,-1.045104 0.02646,-0.833438"
+         id="path1244" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#a6654d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 98.26238,55.446603 -4.074584,0.105835 -2.566458,0.06615 -3.995208,0.105833 -0.03969,-1.508125 -0.06615,-2.738438 -0.06615,-2.354791 10.808229,-0.291041 v 6.614578 m -16.933333,-14.988645 12.488333,0.515938 -0.185208,4.511144 h -0.01323 l 0.01323,0.01323 -0.0926,1.957917 -0.01323,0.132292 -1.071568,-0.03969 -2.169583,-0.0926 -2.196042,-0.0926 -6.760104,-0.291042 v -6.614582 m 7.593542,3.968749 1.349375,0.145521 0.145521,-1.336145 -1.349375,-0.145521 -0.145521,1.336145 m -2.950104,10.900833 -2.526771,0.06615 -1.441979,0.03969 -0.674688,0.01323 v -6.614582 l 4.471458,-0.119062 0.17198,6.614583 m 3.01625,-10.01448 -1.28323,-0.145521 -0.132291,1.28323 1.283229,0.14552 0.132292,-1.283229 m 6.217708,1.627188 0.27781,-6.601353 2.77813,0.119061 v 6.614583 l -3.05594,-0.132291 m -2.354792,-2.182813 -1.997604,-0.211666 -0.211667,1.997604 1.997605,0.211666 0.211666,-1.997604 m -8.969375,7.514167 0.06615,1.322916 1.362605,-0.06615 -0.06615,-1.336146 -1.362604,0.07937 m -0.410104,1.905 -0.06615,-0.992188 -1.005417,0.03969 0.05292,0.992188 1.018646,-0.03969 m 7.381875,-3.9952 0.06615,1.322917 1.362604,-0.06615 -0.06615,-1.336145 -1.362604,0.07937 m -2.579687,-0.171979 0.119062,1.997604 1.997604,-0.0926 -0.0926,-2.010834 -2.02406,0.105833 m 2.632604,3.373438 -0.06615,-0.992187 -1.005417,0.03969 0.05292,0.992188 1.018645,-0.03969"
+         id="path1246" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_brick.png"
+         inkscape:connector-curvature="0"
+         style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 90.906963,53.382853 -1.018646,0.03969 -0.05292,-0.992188 1.005414,-0.03969 0.06615,0.992187 m -1.984373,-8.956144 0.145521,-1.336145 1.349375,0.145521 -0.145521,1.336145 -1.349375,-0.145521 m 0.06615,0.886354 -0.132291,1.283229 -1.28323,-0.14552 0.132292,-1.28323 1.283229,0.145521 m 3.862917,-0.555625 -0.211667,1.997604 -1.997604,-0.211666 0.211667,-1.997604 1.997604,0.211666 m -9.379479,9.419166 -1.018646,0.03969 -0.05292,-0.992188 1.005417,-0.03969 0.06615,0.992187 m 0.410104,-1.905 1.362604,-0.07937 0.06615,1.336147 -1.362604,0.06615 -0.06615,-1.322917 m 6.971771,-2.090216 1.362604,-0.07937 0.06615,1.336147 -1.362604,0.06615 -0.06615,-1.322926 m -2.579688,-0.171979 2.024063,-0.105833 0.0926,2.010833 -1.997604,0.0926 -0.119065,-1.997603"
+         id="path1248" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.463869"
+       y="-8.513629"
+       id="text1254"><tspan
+         sodipodi:role="line"
+         x="21.463869"
+         y="-8.513629"
+         style="font-size:1.41111px;stroke-width:0.264583px"
+         id="tspan1252">Unused Red/brown Sand</tspan></text>
+    <g
+       id="g1390"
+       transform="translate(39.019191,-25.184582)"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_cobble.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1388"
+         transform="translate(-6.3213687,0.64282144)">
+        <g
+           id="g1386"
+           transform="translate(57.205151,-22.3767)">
+          <g
+             transform="translate(-36.538007,-26.48452)"
+             id="g1262">
+            <rect
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+               y="66.24778"
+               x="47.91077"
+               height="16.933332"
+               width="16.933336"
+               id="rect1256"
+               style="opacity:1;fill:#6b4231;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+               inkscape:connector-curvature="0"
+               style="fill:#784a37;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               d="m 60.200665,72.597767 0.992188,-1.045104 1.045104,0.992187 -0.992188,1.045105 -1.045104,-0.992188 m 1.600729,6.693958 -1.957916,0.621772 -0.621771,-1.957918 1.957917,-0.621769 0.62177,1.957915 m -11.191875,-11.297707 -1.309687,0.595313 -0.595313,-1.309688 1.322917,-0.582083 0.582083,1.296458 m 8.41375,0.489479 1.164167,0.846667 -0.833437,1.164167 -1.177396,-0.833438 0.846666,-1.177396 m -8.215312,7.077603 1.150937,0.833438 -0.833437,1.164166 -1.164167,-0.846666 0.846667,-1.150938 m -0.621771,3.108854 1.217083,-0.423332 0.410105,1.230313 -1.217084,0.410103 -0.410104,-1.217084"
+               id="path1258" />
+            <path
+               inkscape:export-ydpi="96"
+               inkscape:export-xdpi="96"
+               inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_desert_sandstone_block.png"
+               inkscape:connector-curvature="0"
+               style="fill:#5e3a2b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+               d="m 53.109832,78.365685 2.579687,0.582082 -0.582083,2.579688 -2.566458,-0.568855 0.568854,-2.592915 m 7.593542,-12.117917 -0.17198,1.521354 -2.52677,-0.291041 0.14552,-1.230313 h 2.55323 m -12.792605,2.447396 h 0.01323 l 0.47625,2.010833 -0.48948,0.119062 v -2.129895 m 0,6.65427 0.542399,-0.06615 0.171976,1.42875 -0.714375,0.0926 v -1.455208 m 10.239375,7.831666 0.145524,-1.296458 2.526771,0.291042 -0.105836,1.005416 h -2.566459 m 6.693959,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997603 1.984375,-0.47625 v 2.129895 m -2.8575,3.413125 1.349375,0.515937 -0.502706,1.362605 -1.362604,-0.529167 0.515935,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145522 -0.15875,1.441978 -1.42875,-0.145521 m -7.540625,-12.091462 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m -6.455834,12.620625 1.415524,-0.224897 0.224893,1.415522 -1.415518,0.224895 -0.224899,-1.41552 m 11.337399,-7.223125 0.926039,1.11125 -1.124479,0.912811 -0.91281,-1.11125 1.11125,-0.912811 m -2.275419,-1.336147 -1.42875,-0.145521 0.14552,-1.42875 1.42875,0.145521 -0.14552,1.42875 m -2.156355,3.664479 -0.635,-1.971146 1.971149,-0.62177 0.621768,1.971145 -1.957917,0.621771 m -4.511145,-5.08 2.606145,0.674688 -0.674687,2.619375 -2.606146,-0.687917 0.674688,-2.606146 m 6.932083,7.104063 0.595312,1.322916 -1.309687,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+               id="path1260" />
+          </g>
+          <path
+             sodipodi:nodetypes="ccccccccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 13.674646,39.763263 h 5.119688 l -0.01323,1.031875 -2.579688,1.455209 -2.526771,-1.494896 -0.01323,-0.01323 0.01323,-0.978959 m 5.132917,16.933333 h -5.119687 v -1.455208 l 2.579687,-1.441979 2.553229,1.494896 -0.01323,1.402291"
+             id="path1264"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 22.220688,39.763263 h 3.439583 l 0.07937,0.02646 0.251354,2.394479 -1.957917,1.415521 -2.196041,-0.992188 -0.251354,-2.394479 0.635,-0.449792 m 3.452812,16.933333 h -3.452812 l 1.322916,-0.9525 2.129896,0.9525"
+             id="path1266"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ad7e6e;stroke:none;stroke-width:0.264583"
+             d="m 21.889958,43.163159 -0.05292,-0.02646 v -0.01323 l 0.05292,0.03969"
+             id="path1268"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1270"
+             d="m 22.460648,53.634175 0.301994,1.817055 -1.550235,1.146142 -1.84216,-0.670913 -0.291928,-1.817054 1.540168,-1.136824 1.842161,0.661594"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.594926,50.433268 -2.03641,1.114578 -1.955879,-1.21319 0.04327,-2.311264 2.036411,-1.11458 1.961087,1.199703 -0.04847,2.324753"
+             id="path1272"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1274"
+             d="m 15.60585,53.989618 -1.496767,0.0068 -0.848488,-1.206454 0.621895,-1.215186 1.496768,-0.0067 0.855058,1.200786 -0.628458,1.220859"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 20.859841,41.853339 -1.113894,0.0053 -0.631445,-0.943552 0.462814,-0.950381 1.113896,-0.0052 0.636334,0.939119 -0.467699,0.954818"
+             id="path1276"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1278"
+             d="m 25.284757,49.175836 -2.868286,-0.154443 -0.706769,-2.739225 1.312638,-2.482257 2.837569,0.539968 1.005427,2.579695 -1.580572,2.25627"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.64095,51.33268 0.859485,-3.175548 3.127334,-0.07174 1.667246,1.893644 -1.005333,2.825882 -2.974664,0.869262 -1.674076,-2.341497"
+             id="path1280"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1282"
+             d="m 21.526925,48.732968 -0.864194,0.0048 -0.489895,-0.861393 0.359066,-0.867628 0.864196,-0.0047 0.493688,0.857346 -0.362856,0.871679"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:transform-center-y="-0.01373942"
+             inkscape:transform-center-x="-0.28263144"
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 16.551679,47.262291 -0.672921,0.542246 -0.919909,-0.36846 -0.259796,-0.902337 0.672985,-0.54217 0.920353,0.362931 0.259356,0.907868"
+             id="path1284"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 23.63721,52.946151 -1.896939,-0.103254 -0.480906,-1.863752 1.036261,-1.502041 1.72196,0.235921 0.664938,1.72468 -1.04531,1.508452"
+             id="path1286"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.853191,49.947212 0.03102,-1.396519 1.11364,-0.760688 1.085024,0.611265 -0.03111,1.396517 -1.10867,0.766962 -1.089998,-0.617533"
+             id="path1288"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1290"
+             d="m 28.306103,41.324304 v 5.384271 h -0.846666 l -1.521355,-2.69875 1.5875,-2.685521 h 0.780521 m 0,9.51177 v 5.503334 l -2.989791,0.02646 -1.613959,-2.725208 1.547813,-2.764896 3.055937,-0.03969 m -16.933334,5.503334 v -5.503334 h 0.423334 l 1.627187,2.725209 -1.561041,2.764896 -0.48948,0.01323 m 0,-9.630833 v -5.384272 l 2.619375,0.02646 1.534584,2.711979 -1.5875,2.672291 -2.566459,-0.02646 m 4.669896,-3.413125 0.02646,-0.264584 3.029479,-1.42875 2.685521,1.852084 L 21.546,46.258782 18.556209,47.661074 15.831,45.782532 16.042667,43.295449"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 28.306103,41.324304 v 5.384271 h -0.846666 l -1.521355,-2.69875 1.5875,-2.685521 h 0.780521 m -16.933334,5.384272 v -5.384272 l 2.619375,0.02646 1.534584,2.711979 -1.5875,2.672291 -2.566459,-0.02646"
+             id="path1292"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1294"
+             d="m 16.042524,51.277856 0.737397,-2.791141 2.683101,-0.06305 1.430416,1.664414 -0.862527,2.483803 -2.552117,0.764037 -1.436276,-2.058055"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1296"
+             d="m 15.366676,50.243312 -1.800693,0.938868 -1.729485,-1.021933 0.03826,-1.9469 1.800696,-0.938869 1.73409,1.010573 -0.04286,1.958261"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.173633,48.840408 -2.510958,-0.135171 -0.691714,-2.335994 1.222104,-2.233901 2.484068,0.472587 0.880172,2.257775 -1.383666,1.974711"
+             id="path1298"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 22.343334,53.812366 0.278991,1.535701 -1.432154,0.968672 -1.701844,-0.567028 -0.269692,-1.5357 1.422855,-0.960797 1.701844,0.559152"
+             id="path1300"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.510382,53.792292 -1.330301,0.0057 -0.754121,-1.009278 0.552729,-1.016582 1.330302,-0.0056 0.75996,1.004535 -0.558562,1.021329"
+             id="path1302"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1304"
+             d="m 23.553527,52.731178 -1.658684,-0.09046 -0.420503,-1.632762 0.906106,-1.315881 1.505682,0.206681 0.581422,1.510926 -0.914019,1.321498"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#c4775b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 21.460097,48.535629 -0.747667,0.0037 -0.423839,-0.664208 0.31065,-0.669014 0.74767,-0.0036 0.42712,0.661086 -0.313929,0.672139"
+             id="path1306"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1308"
+             d="m 16.369379,47.199306 -0.534627,0.444804 -0.730856,-0.302247 -0.206406,-0.740187 0.534678,-0.444741 0.731209,0.297712 0.206055,0.744723"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="-0.22454644"
+             inkscape:transform-center-y="-0.01127042"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1310"
+             d="m 20.764373,41.683784 -0.947428,0.0044 -0.537078,-0.774124 0.393648,-0.779727 0.94743,-0.0043 0.541236,0.770487 -0.397803,0.783366"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1312"
+             d="m 26.035077,49.821609 0.02596,-1.168669 0.931942,-0.636577 0.907996,0.511534 -0.02603,1.168666 -0.927784,0.641828 -0.912158,-0.516779"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 16.299233,43.419436 0.024,-0.240032 2.748359,-1.296169 2.436319,1.68022 -0.216029,2.544332 -2.712354,1.272167 -2.472324,-1.704223 0.192026,-2.256295"
+             id="path1314"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1316"
+             d="m 22.408994,39.763263 h 3.02642 l 0.06983,0.02475 0.221162,2.239664 -1.722732,1.324 -1.932252,-0.928038 -0.221162,-2.239663 0.558724,-0.420711"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1318"
+             d="M 25.359302,56.696597 H 22.46873 l 1.107499,-0.770599 1.783073,0.770599"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1320"
+             d="M 11.372769,46.315096 V 41.62196 l 2.306552,0.02306 1.351313,2.363865 -1.39791,2.329271 -2.259955,-0.02307"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1322"
+             d="m 28.306103,41.588887 v 4.788959 H 27.648636 L 26.467249,43.977484 27.7,41.588887 h 0.606103"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 28.306103,51.199876 v 4.713382 l -2.710572,0.02266 -1.46323,-2.33403 1.403261,-2.368021 2.770541,-0.03399"
+             id="path1324"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1326"
+             d="M 11.372769,56.041752 V 51.13373 h 0.327742 l 1.259758,2.430415 -1.208548,2.465809 -0.378952,0.0118"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1328"
+             d="m 18.478537,56.696595 h -4.459933 v -1.206029 l 2.247253,-1.195064 2.224205,1.23892 -0.01153,1.162173"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             id="path1330"
+             d="m 13.937438,39.763263 h 4.426948 l -0.01144,0.867214 -2.230633,1.222995 -2.184875,-1.256349 -0.01144,-0.01112 0.01144,-0.822742"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             sodipodi:nodetypes="ccccccc"
+             id="path1332"
+             d="m 26.394987,41.247603 -0.324422,-0.70022 0.572266,-0.694114 0.8923,-0.0068 0.324338,0.700257 -0.56732,0.6958 -0.897251,0.0051"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.059625339"
+             inkscape:transform-center-y="0.24332649" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_cobble.png"
+             inkscape:transform-center-y="0.19411412"
+             inkscape:transform-center-x="0.047047761"
+             inkscape:connector-curvature="0"
+             style="fill:#9e6049;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 26.499209,41.10767 -0.27056,-0.559634 0.463364,-0.549209 0.730241,1.52e-4 0.27049,0.559663 -0.459302,0.550585 -0.734305,-0.0015"
+             id="path1334"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 19.210367,43.066398 -0.123841,0.77592 -0.733783,0.278716 -0.606129,-0.495983 0.127697,-0.774692 0.728773,-0.276142 0.607347,0.492191"
+             id="path1336"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1338"
+             d="m 13.548895,45.770289 -0.784422,-0.04551 -0.350805,-0.702179 0.432784,-0.652756 0.783586,0.04947 0.347743,0.697452 -0.428889,0.653588"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="-0.240379"
+             inkscape:transform-center-y="5.3604938" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1340"
+             d="m 19.817512,51.566038 -0.158378,0.769613 -0.745501,0.245659 -0.583368,-0.522564 0.162175,-0.768214 0.740381,-0.243312 0.584755,0.51883"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:transform-center-y="3.5882743"
+             inkscape:transform-center-x="-0.1609074"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 14.05449,44.28203 -0.525085,-0.03046 -0.234826,-0.470033 0.289702,-0.436949 0.524526,0.03312 0.232776,0.466868 -0.287095,0.437506"
+             id="path1342"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1344"
+             d="m 20.33487,43.216136 -0.07907,0.495427 -0.468522,0.177961 -0.387014,-0.316686 0.08153,-0.494643 0.465324,-0.176317 0.387792,0.314265"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 18.376031,52.416447 -0.08794,0.427339 -0.413952,0.136406 -0.323924,-0.290162 0.09005,-0.426562 0.411109,-0.135103 0.324694,0.288088"
+             id="path1346"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.657551,45.313099 -0.328144,0.582368 -0.667746,0.0054 -0.336921,-0.574824 0.330856,-0.58025 0.662989,-0.0048 0.339014,0.572159"
+             id="path1348"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1350"
+             d="m 26.148677,46.285713 -0.202945,0.360171 -0.412973,0.0034 -0.208373,-0.355506 0.204621,-0.358861 0.410032,-0.003 0.209667,0.353858"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1352"
+             d="m 23.916881,50.450172 -0.239233,0.364855 -0.435086,-0.02574 -0.194196,-0.389112 0.240908,-0.363356 0.431963,0.02591 0.195677,0.387468"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.51449384"
+             inkscape:transform-center-y="0.18708867" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 21.40131,47.526754 -0.136785,0.242757 -0.278347,0.0023 -0.140444,-0.239612 0.137916,-0.241875 0.276363,-0.002 0.141317,0.238501"
+             id="path1354"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1356"
+             d="m 16.069283,47.199349 -0.136785,0.242757 -0.278347,0.0023 -0.140444,-0.239612 0.137916,-0.241875 0.276363,-0.002 0.141317,0.238501"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1358"
+             d="m 13.250506,48.919288 -0.556808,0.369859 -0.597385,-0.298403 -0.03916,-0.665135 0.558262,-0.366741 0.592875,0.296777 0.04224,0.663712"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 12.700725,49.95925 -0.344364,0.228743 -0.369486,-0.184496 -0.02422,-0.41136 0.345263,-0.226815 0.366683,0.183517 0.02612,0.410479"
+             id="path1360"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:transform-center-y="0.18708867"
+             inkscape:transform-center-x="0.51449384"
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 15.56597,53.327516 -0.239233,0.364855 -0.435086,-0.02574 -0.194196,-0.389112 0.240908,-0.363356 0.431963,0.02591 0.195677,0.387468"
+             id="path1362"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1364"
+             d="m 21.209019,54.061902 -0.373668,0.298438 -0.444426,-0.175243 -0.06954,-0.471569 0.374901,-0.296305 0.441115,0.174354 0.07164,0.470362"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.014412917"
+             inkscape:transform-center-y="0.022135033" />
+          <path
+             inkscape:transform-center-y="0.014372709"
+             inkscape:transform-center-x="0.0093537852"
+             inkscape:connector-curvature="0"
+             style="fill:#b26d53;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 21.953168,54.133484 -0.242632,0.193783 -0.288576,-0.11379 -0.04515,-0.3062 0.243432,-0.192398 0.286426,0.113212 0.04652,0.305417"
+             id="path1366"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1368"
+             d="m 26.494824,52.854562 -0.784196,0.04926 -0.432784,-0.654842 0.351056,-0.700108 0.783843,-0.04522 0.429174,0.650519 -0.347088,0.700464"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 25.437669,53.686884 -0.500711,0.03145 -0.276333,-0.418118 0.224149,-0.44702 0.500486,-0.02887 0.274029,0.415357 -0.221617,0.447249"
+             id="path1370"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1372"
+             d="m 27.435553,48.806646 -0.362776,0.242374 -0.390442,-0.193696 -0.02672,-0.434058 0.363733,-0.240339 0.387501,0.192629 0.02872,0.433123"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.043860091"
+             inkscape:transform-center-y="0.02978442" />
+          <path
+             inkscape:transform-center-y="0.02978442"
+             inkscape:transform-center-x="0.043860091"
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 24.888939,40.869146 -0.362776,0.242374 -0.390442,-0.193696 -0.02672,-0.434058 0.363733,-0.240339 0.387501,0.192629 0.02872,0.433123"
+             id="path1374"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1376"
+             d="m 25.500784,41.874761 -0.466435,0.31163 -0.502006,-0.249042 -0.03435,-0.558085 0.467666,-0.309013 0.498224,0.24767 0.03693,0.556883"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="0.056385451"
+             inkscape:transform-center-y="0.038295888" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 20.335689,41.361979 -0.136785,0.242757 -0.278347,0.0023 -0.140444,-0.239612 0.137916,-0.241875 0.276363,-0.002 0.141317,0.238501"
+             id="path1378"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             d="m 16.776803,55.520299 -0.587876,0.31817 -0.56806,-0.351029 0.02095,-0.665957 0.589043,-0.314934 0.563715,0.349003 -0.01775,0.664818"
+             id="path1380"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1382"
+             d="m 15.470583,55.856465 -0.36951,0.185397 -0.344449,-0.227846 0.02573,-0.411268 0.370169,-0.183374 0.341785,0.226534 -0.02374,0.410624"
+             style="fill:#9c5f48;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path1384"
+             d="m 26.716407,40.858095 -0.262743,-0.03053 -0.102231,-0.226428 0.160165,-0.194703 0.262376,0.03175 0.101261,0.224906 -0.158875,0.195039"
+             style="opacity:0.5625;fill:#915943;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <rect
+       y="-12.786671"
+       x="-6.5162859"
+       height="3.7622321"
+       width="11.557186"
+       id="rect1044"
+       style="opacity:1;fill:#ffb463;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#f8aa59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1046"
+       width="11.557186"
+       height="3.7622321"
+       x="-6.5162859"
+       y="-9.0244446" />
+    <rect
+       y="-5.2622066"
+       x="-6.5162859"
+       height="3.7622321"
+       width="11.557186"
+       id="rect1048"
+       style="opacity:1;fill:#ed9e4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#e49544;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1050"
+       width="11.557186"
+       height="3.7622321"
+       x="-6.5162859"
+       y="-1.4999788" />
+    <rect
+       y="2.2622511"
+       x="-6.5162859"
+       height="3.7622321"
+       width="11.557186"
+       id="rect1052"
+       style="opacity:1;fill:#dc8c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="6.024488"
+       x="-6.5162859"
+       height="3.5655146"
+       width="3.8523939"
+       id="rect1054"
+       style="opacity:1;fill:#c87828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#be6e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1056"
+       width="3.8523939"
+       height="3.5655146"
+       x="-2.6638889"
+       y="6.024488" />
+    <rect
+       y="6.024488"
+       x="1.1885053"
+       height="3.5655146"
+       width="3.8523939"
+       id="rect1058"
+       style="opacity:1;fill:#b46414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   </g>
 </svg>

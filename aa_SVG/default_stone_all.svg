@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,8 +12,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1261"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="default_stone_all.svg">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="default_stone_all.svg"
+   inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs1255" />
   <sodipodi:namedview
@@ -25,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3956639"
-     inkscape:cx="162.80566"
-     inkscape:cy="815.56438"
+     inkscape:zoom="5.5826556"
+     inkscape:cx="111.69856"
+     inkscape:cy="-111.78709"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2160"
-     inkscape:window-height="1346"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="3000"
+     inkscape:window-height="1890"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -43,7 +44,8 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="-11.489594,235.52506"
        orientation="0,1"
@@ -79,6 +81,18 @@
        orientation="0,1"
        id="guide1069"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4360984,277.142"
+       orientation="0,-1"
+       id="guide1379" />
+    <sodipodi:guide
+       position="0.14218143,301.36024"
+       orientation="0,-1"
+       id="guide1450" />
+    <sodipodi:guide
+       position="20.094976,326.05242"
+       orientation="0,-1"
+       id="guide1496" />
   </sodipodi:namedview>
   <metadata
      id="metadata1258">
@@ -1336,7 +1350,7 @@
        height="16.933319"
        x="2.525697"
        y="44.541615"
-       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_stone.png"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_basalt.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1344,7 +1358,7 @@
        style="fill:#858287;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        d="M 19.459034,46.989004 V 49.1189 l -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 m -4.1275,14.485937 h -2.566458 l 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 M 2.525701,49.1189 v -2.129896 h 0.01323 l 0.47625,2.010834 -0.489479,0.119062 m 10.239375,-4.577292 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291042 0.145521,-1.230313 m 1.574271,7.844896 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -7.236354,-2.923646 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 4.721743,52.240983 5.396431,49.634838 8.002577,50.309525 7.327889,52.9289 4.721743,52.240983"
        id="path112"
-       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_stone.png"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_basalt.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1352,7 +1366,7 @@
        style="fill:#8d8a8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        d="m 14.802368,47.624004 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 M 3.914763,46.883171 3.319451,45.573483 4.642367,44.9914 5.224451,46.287858 3.914763,46.883171 m 2.659063,7.805208 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m -3.571875,4.92125 1.41552,-0.224896 0.224896,1.415521 -1.415521,0.224896 -0.224895,-1.415521 m 8.030104,-2.275417 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
        id="path114"
-       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_stone.png"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_basalt.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1360,7 +1374,7 @@
        style="fill:#646266;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        d="m 19.459034,53.643275 v 1.455208 l -0.714375,0.07937 -0.171979,-1.42875 0.886354,-0.105833 M 2.525701,55.098478 V 53.64327 l 0.542395,-0.06615 0.17198,1.42875 -0.714375,0.0926 m 8.255,-5.622395 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
        id="path116"
-       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_stone.png"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_basalt.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1368,7 +1382,7 @@
        style="fill:#6e6c70;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        d="m 16.852888,50.838692 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 M 9.457784,46.989004 7.77768,48.814629 5.952055,47.134525 7.632159,45.3089 9.457784,46.989004 m 0.264583,12.832291 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
        id="path118"
-       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_stone.png"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_stone_basalt.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
@@ -2257,5 +2271,389 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cccccccccc" />
+    <rect
+       style="opacity:1;fill:#878787;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1381"
+       width="16.933332"
+       height="16.933319"
+       x="2.525697"
+       y="2.9246817"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_andesite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 19.459034,5.3720711 v 2.129896 l -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 m -4.1275,14.4859369 h -2.566458 l 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 M 2.5257009,7.5019671 v -2.129896 h 0.01323 l 0.47625,2.010834 -0.489479,0.119062 M 12.765077,2.9246751 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291042 0.145521,-1.230313 m 1.574271,7.8448959 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -7.2363541,-2.923646 -0.635,-1.971145 1.9711461,-0.621771 0.621771,1.971146 -1.9579171,0.62177 m -5.185834,-2.473854 0.674688,-2.6061449 2.606146,0.674687 -0.674688,2.6193749 -2.606146,-0.687917"
+       id="path1383"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_andesite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#9b9b9b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 14.802368,6.0070711 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 m -10.8876051,-0.740833 -0.595312,-1.309688 1.322916,-0.582083 0.582084,1.296458 -1.309688,0.595313 m 2.659063,7.8052079 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m -3.571875,4.92125 1.41552,-0.224896 0.224896,1.415521 -1.415521,0.224896 -0.224895,-1.415521 m 8.0301041,-2.275417 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+       id="path1386"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_andesite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#737373;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 19.459034,12.026342 v 1.455208 l -0.714375,0.07937 -0.171979,-1.42875 0.886354,-0.105833 M 2.5257009,13.481545 v -1.455208 l 0.542395,-0.06615 0.17198,1.42875 -0.714375,0.0926 m 8.2550001,-5.6223949 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.9795841,7.4877069 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+       id="path1388"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_andesite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#7d7d7d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 16.852888,9.2217591 -0.992187,1.0451039 -1.045104,-0.9921879 0.992187,-1.045104 1.045104,0.992188 m -7.3951041,-3.849688 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m 0.264583,12.8322909 -2.566458,-0.568854 0.568854,-2.592916 2.5796881,0.582083 -0.5820841,2.579687"
+       id="path1390"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_andesite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#9b9b9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1392"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.489594"
+       y="-2.5186625" />
+    <rect
+       y="1.2435713"
+       x="-11.489594"
+       height="3.7622318"
+       width="11.557186"
+       id="rect1394"
+       style="opacity:1;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#878787;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1396"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.489594"
+       y="5.0057974" />
+    <rect
+       y="8.7680311"
+       x="-11.489594"
+       height="3.7622318"
+       width="11.557186"
+       id="rect1398"
+       style="opacity:1;fill:#7d7d7d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#737373;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1400"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.489594"
+       y="12.530261" />
+    <rect
+       style="opacity:1;fill:#5a5a5a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1402"
+       width="3.8523939"
+       height="3.5655146"
+       x="-7.6372023"
+       y="16.292494" />
+    <rect
+       y="16.292494"
+       x="-3.7848043"
+       height="3.5655146"
+       width="3.8523939"
+       id="rect1404"
+       style="opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1406"
+       width="3.8523939"
+       height="3.5655146"
+       x="-11.489594"
+       y="16.292494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-14.353828"
+       y="-14.329832"
+       id="text1410"
+       transform="rotate(-91.64167)"><tspan
+         sodipodi:role="line"
+         id="tspan1408"
+         x="-14.353828"
+         y="-14.329832"
+         style="font-size:2.82222px;line-height:0.85;stroke-width:0.264583">Andesite</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#bdbec1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 11.574451,19.791862 -1.164167,-0.833438 0.833438,-1.177396 1.177395,0.846667 -0.846666,1.164167 m 4.444999,-15.6501055 1.309688,-0.595312 0.582083,1.322916 -1.296458,0.582084 -0.595313,-1.309688 m -7.8052071,9.5382295 -1.164166,-0.833438 0.846666,-1.164167 1.1509368,0.846667 -0.8334368,1.150938 m -3.8629167,-6.7468748 0.224896,1.41552 -1.415521,0.224896 -0.224896,-1.415521 1.415521,-0.224895 m 13.3879168,6.4426038 0.595312,1.296459 -1.322916,0.595312 -0.582084,-1.309687 1.309688,-0.582084"
+       id="path1442"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_andesite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#bdbec1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1444"
+       width="11.557186"
+       height="3.7622318"
+       x="-23.04678"
+       y="-2.5186625" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#484a51;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 2.7583131,16.296707 0.9376073,-1.082034 1.0952056,0.938832 -0.9520038,1.09398 -1.0808091,-0.950778 m 14.6423699,1.641044 0.471541,1.359164 -1.371111,0.457146 -0.459595,-1.344767 1.359165,-0.471543 M 12.740725,9.19033 13.678332,8.1082979 14.759141,9.059076 13.809586,10.126712 12.740725,9.19033 m -0.743668,-4.1873011 -1.43026,0.092921 -0.09292,-1.43026 1.43026,-0.092921 0.09292,1.43026 M 6.7585645,7.2904328 5.4125725,7.7631987 4.942255,6.3908636 6.3001939,5.9324928 l 0.4583706,1.35794"
+       id="path1446"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_andesite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#484a51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1448"
+       width="11.557186"
+       height="3.7622318"
+       x="-23.04678"
+       y="16.095776" />
+    <rect
+       style="opacity:1;fill:#e6af91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1452"
+       width="16.933332"
+       height="16.933319"
+       x="2.6002886"
+       y="-21.293568"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_granite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#cb8868;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 19.533626,-18.846178 v 2.129896 l -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 m -4.1275,14.4859372 h -2.566458 l 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 M 2.6002927,-16.716282 v -2.129896 h 0.01323 l 0.47625,2.010834 -0.489479,0.119062 m 10.2393753,-4.577292 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291042 0.145521,-1.230313 m 1.574271,7.844896 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.2014572 1.957916,-0.6217702 0.621771,1.9579162 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -7.2363543,-2.9236462 -0.635,-1.971145 1.9711463,-0.621771 0.621771,1.971146 -1.9579173,0.62177 m -5.185834,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+       id="path1454"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_granite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#bca997;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 14.87696,-18.211178 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 m -10.8876053,-0.740833 -0.595312,-1.309688 1.322916,-0.582083 0.582084,1.296458 -1.309688,0.595313 m 2.659063,7.805208 -0.833438,1.1641662 -1.164167,-0.8466662 0.846667,-1.150937 1.150938,0.833437 m -3.571875,4.9212502 1.41552,-0.224896 0.224896,1.415521 -1.415521,0.224896 -0.224895,-1.415521 m 8.0301043,-2.275417 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+       id="path1456"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_granite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#534d45;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 19.533626,-12.191907 v 1.455208 l -0.714375,0.07937 -0.171979,-1.42875 0.886354,-0.105833 m -16.9333333,1.455208 v -1.455208 l 0.542395,-0.06615 0.17198,1.42875 -0.714375,0.0926 m 8.2550003,-5.622395 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.9795843,7.4877072 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+       id="path1458"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_granite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ebc0a8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 16.92748,-14.99649 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 m -7.3951043,-3.849688 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m 0.264583,12.8322912 -2.566458,-0.568854 0.568854,-2.592916 2.5796883,0.582083 -0.5820843,2.579687"
+       id="path1460"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_granite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#bca997;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1462"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.415003"
+       y="-26.736912" />
+    <rect
+       y="-22.974678"
+       x="-11.415003"
+       height="3.7622318"
+       width="11.557186"
+       id="rect1464"
+       style="opacity:1;fill:#ebc0a8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#e6af91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1466"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.415003"
+       y="-19.212452" />
+    <rect
+       y="-15.450218"
+       x="-11.415003"
+       height="3.7622318"
+       width="11.557186"
+       id="rect1468"
+       style="opacity:1;fill:#cb8868;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#534d45;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1470"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.415003"
+       y="-11.687988" />
+    <rect
+       style="opacity:1;fill:#48484d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1472"
+       width="3.8523939"
+       height="3.5655146"
+       x="-7.5626101"
+       y="-7.9257536" />
+    <rect
+       y="-7.9257536"
+       x="-3.7102125"
+       height="3.5655146"
+       width="3.8523939"
+       id="rect1474"
+       style="opacity:1;fill:#3c3c40;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#555559;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1476"
+       width="3.8523939"
+       height="3.5655146"
+       x="-11.415003"
+       y="-7.9257536" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.9949417"
+       y="-13.423581"
+       id="text1480"
+       transform="rotate(-91.64167)"><tspan
+         sodipodi:role="line"
+         id="tspan1478"
+         x="8.9949417"
+         y="-13.423581"
+         style="font-size:2.82222px;line-height:0.85;stroke-width:0.264583">Granite</tspan></text>
+    <rect
+       style="opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1508"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.489594"
+       y="-51.429081" />
+    <rect
+       y="-43.904617"
+       x="-11.489594"
+       height="3.7622318"
+       width="11.557186"
+       id="rect1510"
+       style="opacity:1;fill:#737373;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1512"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.489594"
+       y="-40.142387" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="33.679115"
+       y="-12.790746"
+       id="text1526"
+       transform="rotate(-91.64167)"><tspan
+         sodipodi:role="line"
+         id="tspan1524"
+         x="33.679115"
+         y="-12.790746"
+         style="font-size:2.82222px;line-height:0.85;stroke-width:0.264583">Diorite</tspan></text>
+    <rect
+       style="opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1542"
+       width="16.933332"
+       height="16.933319"
+       x="2.525697"
+       y="-45.985737"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect1558"
+       style="opacity:1;fill:#c4c4c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 19.459283,-39.721088 -2.76159,4.073136 2.76159,1.872236 z"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1566"
+       style="opacity:1;fill:#c4c4c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.500787;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 9.546875 -150.12695 L 9.546875 -127.65625 L 25.595703 -116.77344 L 43.552734 -143.25977 L 17.066406 -161.21875 L 9.546875 -150.12695 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect1569"
+       style="opacity:1;fill:#c4c4c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.500787;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 66.898438 -173.80469 L 33.861328 -173.80469 L 39.179688 -153.08008 L 70.175781 -161.03711 L 66.898438 -173.80469 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1576"
+       style="opacity:1;fill:#c4c4c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 16.462044,-33.874924 -8.200533,2.104782 0.6976319,2.717662 h 8.7410681 z"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#737373;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 19.459034,-43.538351 v 2.129896 l -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 m -4.1275,14.485937 h -2.566458 l 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 M 2.5257009,-41.408455 v -2.129896 h 0.01323 l 0.47625,2.010834 -0.489479,0.119062 m 10.2393751,-4.577292 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291042 0.145521,-1.230313 m 1.574271,7.844896 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -7.2363541,-2.923646 -0.635,-1.971145 1.9711461,-0.621771 0.621771,1.971146 -1.9579171,0.62177 m -4.1275007,-2.473854 0.674688,-2.606145 2.606146,0.674687 -0.674688,2.619375 -2.606146,-0.687917"
+       id="path1544"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 14.802368,-42.903351 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177395 1.164167,0.846666 m -10.8876051,-0.740833 -0.595312,-1.309688 1.322916,-0.582083 0.582084,1.296458 -1.309688,0.595313 m 2.659063,7.805208 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m -3.571875,4.92125 1.41552,-0.224896 0.224896,1.415521 -1.415521,0.224896 -0.224895,-1.415521 m 8.0301041,-2.275417 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+       id="path1546"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 19.459034,-36.88408 v 1.455208 l -0.714375,0.07937 -0.171979,-1.42875 0.886354,-0.105833 m -16.9333331,1.455208 v -1.455208 l 0.542395,-0.06615 0.17198,1.42875 -0.714375,0.0926 m 7.1966668,-6.151562 1.4287503,0.14552 -0.145521,1.42875 -1.4287503,-0.14552 0.145521,-1.42875 m -4.9212508,8.016874 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+       id="path1548"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 16.852888,-39.688663 -0.992187,1.045104 -1.045104,-0.992188 0.992187,-1.045104 1.045104,0.992188 m -7.3951041,-3.849688 -1.680104,1.825625 -1.825625,-1.680104 1.680104,-1.825625 1.825625,1.680104 m 0.264583,12.832291 -2.566458,-0.568854 0.568854,-2.592916 2.5796881,0.582083 -0.5820841,2.579687"
+       id="path1550"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 11.574451,-29.11856 -1.164167,-0.833438 0.833438,-1.177396 1.177395,0.846667 -0.846666,1.164167 m 4.444999,-15.650105 1.309688,-0.595312 0.582083,1.322916 -1.296458,0.582084 -0.595313,-1.309688 m -7.8052071,9.538229 -1.164166,-0.833438 0.846666,-1.164167 1.150937,0.846667 -0.833437,1.150938 m -3.862917,-5.688542 0.224896,1.41552 -1.415521,0.224896 -0.224896,-1.415521 1.415521,-0.224895 m 13.3879171,5.384271 0.595312,1.296459 -1.322916,0.595312 -0.582084,-1.309687 1.309688,-0.582084"
+       id="path1552"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#484a51;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 2.7583129,-32.613715 0.937607,-1.082034 1.095206,0.938832 -0.952004,1.09398 -1.080809,-0.950778 m 14.6423701,1.641044 0.471541,1.359164 -1.371111,0.457146 -0.459595,-1.344767 1.359165,-0.471543 m -4.659958,-8.747421 0.937607,-1.082032 1.080809,0.950778 -0.949555,1.067636 -1.068861,-0.936382 m -0.743668,-4.187301 -1.43026,0.09292 -0.09292,-1.43026 1.43026,-0.09292 0.09292,1.43026 m -5.2384921,2.287404 -1.345992,0.472766 -0.470318,-1.372335 1.357939,-0.458371 0.458371,1.35794"
+       id="path1554"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_env\textures\sc_env_stone_diorite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#c4c4c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1556"
+       width="11.557186"
+       height="3.7622318"
+       x="-11.489594"
+       y="-47.666847" />
   </g>
 </svg>

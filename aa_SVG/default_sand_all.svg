@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,8 +12,8 @@
    viewBox="0 0 90.80825 67.13002"
    version="1.1"
    id="svg1844"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="default_desert_all.svg">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="default_sand_all.svg">
   <defs
      id="defs1838" />
   <sodipodi:namedview
@@ -25,23 +23,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="182.60426"
-     inkscape:cy="66.304171"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="157.2031"
+     inkscape:cy="-132.73693"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2160"
-     inkscape:window-height="1346"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="3000"
+     inkscape:window-height="1890"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="14.386069,44.753347"
        orientation="0,1"
@@ -77,6 +76,10 @@
        orientation="0,1"
        id="guide2941"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="90.808251,-22.376667"
+       orientation="0,-1"
+       id="guide958" />
   </sodipodi:namedview>
   <metadata
      id="metadata1841">
@@ -86,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,13 +99,53 @@
      id="layer1"
      transform="translate(11.681195,-16.92268)">
     <g
+       id="g1164"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ed9e4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1060"
+         width="16.933332"
+         height="16.933332"
+         x="2.7048745"
+         y="-0.010660122"
+         ry="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f8aa59;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="M 2.7048757,10.903401 C 4.2747367,8.654443 6.4487297,7.186006 9.2268549,6.498089 l -0.01323,-0.01323 C 12.591472,5.444164 15.01241,3.649407 16.476437,1.100588 l 0.568855,-1.11125 h 2.592916 v 6.125104 c -1.472847,1.949097 -3.629201,3.364618 -6.469062,4.246563 l 0.01323,0.01323 C 9.5840419,11.264998 6.9955345,13.44781 5.4168537,16.922671 H 2.7048747 V 10.9034 M 5.4168537,-0.010662 C 5.1346317,0.597879 4.8876877,1.241699 4.6760207,1.920796 4.3849787,3.058505 3.9704647,4.09038 3.4324787,5.016421 l -0.727604,1.098021 v -6.125104 h 2.711979 M 19.638208,10.9034 v 6.019271 h -2.592916 c 0.273403,-0.617361 0.498298,-1.278819 0.674687,-1.984375 0.485069,-1.543403 1.124479,-2.888368 1.918229,-4.034896 m -3.942291,2.182813 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 M 10.536542,2.291213 9.1210209,2.516109 8.8961249,1.100588 10.311646,0.875692 10.536542,2.291213"
+         id="path1062"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+      <path
+         style="fill:#e49544;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="M 13.751316,0.87559 12.90434,2.053295 14.082046,2.88632 14.915586,1.722566 Z M 6.7527774,3.389132 6.6075662,4.817985 8.0364195,4.963712 8.1816305,3.534859 Z m 8.4403116,3.16208 -0.515731,1.349272 1.362707,0.529166 0.502296,-1.362707 z m -10.0939574,2.751254 -0.8464603,1.151351 1.1642699,0.84646 0.8335407,-1.16427 z m 6.0327064,5.053955 -1.2965611,0.595312 0.5823931,1.309481 1.309481,-0.581877 z"
+         id="path1064"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffb463;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 6.6074797,13.218503 -1.217083,0.410104 -0.410104,-1.217084 1.217083,-0.423333 0.410104,1.230313 M 17.309876,5.532357 16.264772,4.540169 17.256959,3.495065 18.302063,4.487253 17.309876,5.532357 m -5.331354,2.447396 1.11125,-0.912813 0.926042,1.11125 -1.12448,0.912813 -0.912812,-1.11125"
+         id="path1066" />
+      <path
+         style="fill:#f8aa59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 8.8961247,1.100586 10.311646,0.87569 10.536542,2.291211 9.1210207,2.516107 Z"
+         id="path1068"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#f8aa59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 15.695917,13.08621 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 z"
+         id="path1070"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
        id="g2567"
        transform="translate(-1.3178513,0.06362527)"
        inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_sand.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
-         style="opacity:1;fill:#e0d1af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:#e0d1af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="rect2535"
          width="16.933332"
          height="16.933332"
@@ -449,42 +492,41 @@
        inkscape:export-ydpi="96" />
     <text
        id="text2945"
-       y="28.051039"
-       x="1.0583335"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="26.855207"
+       x="-14.618228"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:2.11666656px;writing-mode:vertical-lr;stroke-width:0.26458332px"
-         y="1.0583335"
-         x="28.051039"
+         style="font-size:2.11667px;writing-mode:vertical-lr;stroke-width:0.264583px"
+         y="-40.28281"
+         x="52.519791"
          id="tspan2943"
          sodipodi:role="line">Sand</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1.1244721"
-       y="71.197502"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-14.022924"
+       y="69.717697"
        id="text2949"><tspan
          sodipodi:role="line"
          id="tspan2947"
-         x="71.197502"
-         y="1.1244721"
-         style="font-size:2.11666656px;writing-mode:vertical-lr;stroke-width:0.26458332px">Desert</tspan></text>
+         x="28.905722"
+         y="26.789055"
+         style="font-size:2.11667px;writing-mode:vertical-lr;stroke-width:0.264583px">Desert</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1.2567716"
-       y="47.941563"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-15.610415"
+       y="46.302086"
        id="text2953"><tspan
          sodipodi:role="line"
          id="tspan2951"
-         x="47.941563"
-         y="1.2567716"
-         style="font-size:2.11666656px;writing-mode:vertical-lr;stroke-width:0.26458332px">Silver</tspan><tspan
+         x="-15.610415"
+         y="46.302086"
+         style="font-size:2.11667px;writing-mode:vertical-lr;stroke-width:0.264583px">Silver</tspan><tspan
          id="tspan2955"
          sodipodi:role="line"
-         x="47.941563"
-         y="15.585612"
-         style="font-size:2.11666656px;writing-mode:vertical-lr;stroke-width:0.26458332px" /></text>
+         x="-15.610415"
+         y="60.74757" /></text>
     <rect
        style="opacity:1;fill:#e7c788;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect2853"
@@ -899,5 +941,233 @@
        width="3.8523936"
        id="rect3117"
        style="opacity:1;fill:#ada186;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="-5.4539948"
+       x="-11.681195"
+       height="3.7622321"
+       width="11.557185"
+       id="rect1044"
+       style="opacity:1;fill:#ffb463;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#f8aa59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1046"
+       width="11.557185"
+       height="3.7622321"
+       x="-11.681195"
+       y="-1.6917689" />
+    <rect
+       y="2.0704687"
+       x="-11.681195"
+       height="3.7622321"
+       width="11.557185"
+       id="rect1048"
+       style="opacity:1;fill:#ed9e4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#e49544;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1050"
+       width="11.557185"
+       height="3.7622321"
+       x="-11.681195"
+       y="5.8326979" />
+    <rect
+       y="9.5949278"
+       x="-11.681195"
+       height="3.7622321"
+       width="11.557185"
+       id="rect1052"
+       style="opacity:1;fill:#dc8c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="13.357165"
+       x="-11.681195"
+       height="3.5655146"
+       width="3.8523936"
+       id="rect1054"
+       style="opacity:1;fill:#c87828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:#be6e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1056"
+       width="3.8523936"
+       height="3.5655146"
+       x="-7.8287983"
+       y="13.357165" />
+    <rect
+       y="13.357165"
+       x="-3.9764042"
+       height="3.5655146"
+       width="3.8523936"
+       id="rect1058"
+       style="opacity:1;fill:#b46414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g1171"
+       inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_red_sandstone.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ed9e4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1074"
+         width="16.933332"
+         height="16.933319"
+         x="22.725727"
+         y="-0.010652493"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_orange_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f8aa59;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 39.659066,2.436738 v 2.129896 l -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 m -4.1275,14.485937 h -2.566458 l 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 M 22.725733,4.566634 V 2.436738 h 0.01323 l 0.47625,2.010834 -0.489479,0.119062 m 10.239375,-4.577292 h 2.553229 l -0.171979,1.521355 -2.526771,-0.291042 0.145521,-1.230313 m 1.574271,7.844896 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 3.307291,1.389063 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -7.236354,-2.923646 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 24.921775,7.688717 25.596463,5.082572 28.202609,5.757259 27.527921,8.376634 24.921775,7.688717"
+         id="path1076"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_orange_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffb463;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="M 35.0024,3.071738 34.168962,4.235905 32.991566,3.402467 33.838233,2.225072 35.0024,3.071738 M 24.114795,2.330905 23.519483,1.021217 24.842399,0.439134 25.424483,1.735592 24.114795,2.330905 m 2.659063,7.805208 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m -3.571875,4.92125 1.41552,-0.224896 0.224896,1.415521 -1.415521,0.224896 -0.224895,-1.415521 m 8.030104,-2.275417 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+         id="path1078"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_orange_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#dc8c3c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 39.659066,9.091009 v 1.455208 l -0.714375,0.07937 -0.171979,-1.42875 0.886354,-0.105833 M 22.725733,10.546212 V 9.091004 l 0.542395,-0.06615 0.17198,1.42875 -0.714375,0.0926 m 8.255,-5.622395 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+         id="path1080"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_orange_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e49544;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="M 37.05292,6.286426 36.060733,7.33153 35.015629,6.339342 36.007816,5.294238 37.05292,6.286426 M 29.657816,2.436738 27.977712,4.262363 26.152087,2.582259 27.832191,0.756634 29.657816,2.436738 m 0.264583,12.832291 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+         id="path1082"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_orange_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;opacity:0.1"
+         id="rect1074-7"
+         width="16.933332"
+         height="16.933319"
+         x="22.725727"
+         y="-0.010652493"
+         inkscape:export-filename="C:\Users\sirro\Minetest\minetest-5.4.0-win64\games\Space Crash\mods\sc_nodes\textures\sc_nodes_sand_orange_sandstone.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <rect
+       style="fill:#999993;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1086"
+       width="16.933334"
+       height="16.933332"
+       x="41.990013"
+       y="-0.010662446" />
+    <path
+       id="path1088"
+       d="M 54.279908,6.33933 55.272095,5.294226 56.317199,6.286413 55.325012,7.331518 54.279908,6.33933 m 1.600729,6.693958 -1.957917,0.621771 -0.621771,-1.957917 1.957917,-0.62177 0.621771,1.957916 M 44.688762,1.73558 43.379074,2.330893 42.783762,1.021205 44.106678,0.439122 44.688762,1.73558 m 8.41375,0.489479 1.164167,0.846667 -0.833438,1.164167 -1.177396,-0.833438 0.846667,-1.177396 m -8.215313,7.077604 1.150938,0.833438 -0.833438,1.164166 -1.164166,-0.846666 0.846666,-1.150938 m -0.621771,3.108854 1.217084,-0.423333 0.410104,1.230313 -1.217083,0.410104 -0.410105,-1.217084"
+       style="fill:#a6a69f;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path1090"
+       d="m 47.189074,12.107247 2.579688,0.582083 -0.582084,2.579687 -2.566458,-0.568854 0.568854,-2.592916 M 54.782616,-0.01067 54.610637,1.510684 52.083866,1.219643 52.229387,-0.01067 h 2.553229 M 41.990012,2.436726 h 0.01323 l 0.47625,2.010833 -0.489479,0.119063 V 2.436726 m 0,6.654271 0.542396,-0.06615 0.171979,1.42875 -0.714375,0.0926 V 9.090989 m 10.239375,7.831666 0.145521,-1.296458 2.526771,0.291042 -0.105834,1.005416 h -2.566458 m 6.693958,-6.376458 -0.714375,0.07938 -0.171979,-1.42875 0.886354,-0.105833 v 1.455208 m 0,-5.979583 -1.521354,0.343958 -0.463021,-1.997604 1.984375,-0.47625 v 2.129896 m -2.8575,3.413125 1.349375,0.515937 -0.502708,1.362604 -1.362604,-0.529166 0.515937,-1.349375 m 0.396875,6.548437 0.145521,-1.441979 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 48.922096,2.436718 47.241992,4.262343 45.416367,2.582239 47.096471,0.756614 48.922096,2.436718 m -6.455833,12.620625 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 M 53.803659,7.834218 54.7297,8.945468 53.605221,9.85828 52.692409,8.74703 53.803659,7.834218 m -2.275417,-1.336146 -1.42875,-0.145521 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.664479 -0.635,-1.971146 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.621771 m -4.511146,-5.08 2.606146,0.674688 L 46.7922,8.376614 44.186054,7.688697 44.860742,5.082551 m 6.932083,7.104063 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+       style="fill:#8c8c87;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#d4d4ca;fill-opacity:1"
+       id="g1098"
+       transform="translate(-13.061705,53.662228)">
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path1092"
+         d="m 56.157594,-53.308028 -0.569989,15.554556 3.061312,0.132292 v -5.17e-4 l 12.21786,0.517282 0.01343,-0.132292 0.56896,-15.435207 -12.508796,-0.517281 v 5.17e-4 z"
+         style="fill:#d4d4ca;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path1094"
+         d="m 56.157594,-53.308028 -3e-6,0.530062 2.782822,0.119057 12.509239,0.517119 0.01346,-0.331288 v -0.198773 l -2.411676,-0.09266 -10.111022,-0.424463 z"
+         style="fill:#d4d4ca;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+      <path
+         style="fill:#e5e5db;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         d="m 56.157594,-53.308028 -3e-6,0.530062 2.782822,0.119057 12.509239,0.517119 0.01346,-0.331288 v -0.198773 l -2.411676,-0.09266 -10.111022,-0.424463 z"
+         id="path1096"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <path
+       id="path1100"
+       d="m 53.803664,7.83424 0.926041,1.11125 -1.124479,0.912813 -0.912812,-1.11125 1.11125,-0.912813 m 3.611562,0.661459 -0.502708,1.362604 -1.362604,-0.529167 0.515937,-1.349375 1.349375,0.515938 m -4.11427,3.201457 1.957916,-0.62177 0.621771,1.957916 -1.957917,0.621771 -0.62177,-1.957917 m 2.778124,1.91823 1.441979,0.145521 -0.15875,1.441979 -1.42875,-0.145521 0.145521,-1.441979 m -6.707187,-3.452813 -0.635,-1.971145 1.971146,-0.621771 0.621771,1.971146 -1.957917,0.62177 M 44.186059,7.688719 44.860747,5.082574 47.466893,5.757261 46.792205,8.376636 44.186059,7.688719"
+       style="opacity:0.75;fill:#e0e0d6;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+    <path
+       id="path1102"
+       d="M 54.266684,3.07174 53.433246,4.235907 52.25585,3.402469 53.102517,2.225074 54.266684,3.07174 m -8.228542,7.064375 -0.833438,1.164166 -1.164167,-0.846666 0.846667,-1.150937 1.150938,0.833437 m 4.458229,2.645833 1.296459,-0.595312 0.595312,1.322916 -1.309687,0.582084 -0.582084,-1.309688"
+       style="opacity:0.75;fill:#e5e5db;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       id="path1104"
+       d="m 50.245017,4.923811 1.42875,0.14552 -0.145521,1.42875 -1.42875,-0.14552 0.145521,-1.42875 m -5.979584,7.487707 1.217084,-0.423333 0.410104,1.230313 -1.217084,0.410104 -0.410104,-1.217084"
+       style="opacity:0.75;fill:#bfbfb7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="path1106"
+       d="M 56.317204,6.286428 55.325017,7.331532 54.279913,6.339344 55.2721,5.29424 56.317204,6.286428 M 48.9221,2.965907 47.241996,4.791532 45.416371,3.111428 47.096475,1.285803 48.9221,2.965907 m 0.264583,12.303124 -2.566458,-0.568854 0.568854,-2.592916 2.579688,0.582083 -0.582084,2.579687"
+       style="opacity:0.75;fill:#c9c9c0;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <rect
+       y="-0.010654688"
+       x="62.193718"
+       height="16.933332"
+       width="16.933336"
+       id="rect1110"
+       style="opacity:1;fill:#999993;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_silver_sandstone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#a6a69f;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 74.483619,6.3393292 0.99219,-1.045104 1.0451,0.992187 -0.99218,1.0451055 -1.04511,-0.9921885 m 1.60073,6.6939588 -1.95792,0.621771 -0.62177,-1.957917 1.95792,-0.62177 0.62177,1.957916 M 64.892475,1.7355792 63.582787,2.3308922 62.987475,1.0212042 64.310391,0.43912119 64.892475,1.7355792 m 8.413754,0.489479 1.16416,0.846667 -0.83344,1.164167 -1.177391,-0.833438 0.846671,-1.177396 m -8.215317,7.0776045 1.150938,0.8334383 -0.833438,1.164166 -1.164166,-0.846666 0.846666,-1.1509383 m -0.621771,3.1088543 1.217084,-0.423333 0.410104,1.230313 -1.217083,0.410104 -0.410105,-1.217084"
+       id="path1112"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_silver_sandstone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#8c8c87;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 67.392787,12.107247 2.579688,0.582083 -0.582084,2.579687 -2.566458,-0.568854 0.568854,-2.592916 m 7.593542,-12.11791781 -0.17198,1.52135401 -2.52677,-0.291041 0.145521,-1.23031301 h 2.553229 M 62.193725,2.4367252 h 0.01323 l 0.47625,2.010833 -0.489479,0.119063 v -2.129896 m 0,6.6542715 0.542396,-0.06615 0.171979,1.4287503 -0.714375,0.0926 V 9.0909887 m 10.239375,7.8316663 0.145521,-1.296458 2.526767,0.291042 -0.10583,1.005416 h -2.566458 m 6.693958,-6.376458 -0.71437,0.07938 -0.17198,-1.4287503 0.88635,-0.105833 v 1.4552083 m 0,-5.9795838 -1.52135,0.343958 -0.46302,-1.997604 1.98437,-0.47625 v 2.129896 m -2.8575,3.4131255 1.34938,0.515937 -0.50271,1.362604 -1.36261,-0.529166 0.51594,-1.349375 m 0.39688,6.5484373 0.14552,-1.441979 1.44198,0.145521 -0.15875,1.441979 -1.42875,-0.145521 M 69.125809,2.4367172 67.445705,4.2623422 65.62008,2.5822382 67.300184,0.75661319 69.125809,2.4367172 m -6.455833,12.6206258 1.415521,-0.224896 0.224895,1.415521 -1.41552,0.224896 -0.224896,-1.415521 m 11.337393,-7.2231253 0.92604,1.11125 -1.12448,0.912812 -0.912807,-1.11125 1.111247,-0.912812 m -2.275414,-1.3361465 -1.42875,-0.145521 0.145521,-1.42875 1.42875,0.145521 -0.145521,1.42875 m -2.156354,3.6644798 -0.635,-1.9711463 1.971146,-0.62177 0.62177,1.971145 -1.957916,0.6217713 m -4.511146,-5.0800008 2.606146,0.674688 -0.674688,2.6193755 -2.606146,-0.687917 0.674688,-2.6061465 m 6.932083,7.1040638 0.595313,1.322916 -1.309688,0.582084 -0.582083,-1.309688 1.296458,-0.595312"
+       id="path1114"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_silver_sandstone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#e5e5db;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 74.523309,9.2894427 1.27,-0.03969 1.56104,-0.03969 1.07156,-0.02646 0.70115,-0.02646 v 0.529166 l -10.80823,0.291041 -0.01323,-0.529166 1.031875,-0.02646 2.143125,-0.05292 1.87854,-0.05292 1.16417,-0.02646 m -2.235732,-8.0830215 2.407712,0.0926 v 0.198438 l -0.0132,0.33073 -12.488338,-0.515938 V 0.78306519 L 72.287605,1.2063992 m -10.093854,7.9507295 4.471458,-0.119063 0.185209,7.1437503 h -0.01323 l -0.171981,-6.6145833 -4.471458,0.119063 v -0.529167 m 13.93031,-3.2411465 0.2249,-5.25197901 2.77813,0.119062 V 1.3122322 l -2.77813,-0.119062 -0.27781,6.6013545 h -0.0265 l 0.0529,-1.0451045 0.0265,-0.833438"
+       id="path1116"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_silver_sandstone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#d4d4ca;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 79.127059,16.3009 -4.07458,0.105834 -2.566462,0.06615 -3.995209,0.105833 -0.03969,-1.508125 -0.06615,-2.738438 -0.06615,-2.3547913 10.808231,-0.291041 V 16.3009 M 62.193714,1.3122542 l 12.488335,0.515938 -0.18521,4.511145 h -0.0132 l 0.0132,0.01323 -0.0926,1.9579175 -0.0132,0.132292 -1.07157,-0.03969 -2.16958,-0.0926 -2.196042,-0.0926 -6.760104,-0.291042 V 1.3122612 m 7.593542,3.96875 1.349375,0.145521 0.145521,-1.336146 -1.349375,-0.145521 -0.145521,1.336146 m -2.950104,10.9008338 -2.526771,0.06615 -1.441979,0.03969 -0.674688,0.01323 V 9.6863327 l 4.471458,-0.119063 0.17198,6.6145833 m 3.01625,-10.0144798 -1.28323,-0.145521 -0.132291,1.2832305 1.283229,0.14552 0.132292,-1.2832295 m 6.217708,1.6271885 0.27781,-6.6013545 2.77813,0.119062 v 6.6145835 l -3.05594,-0.132291 m -2.35479,-2.1828135 -1.997606,-0.211666 -0.211667,1.9976045 1.997603,0.211666 0.21167,-1.9976045 m -8.969377,7.5141668 0.06615,1.322917 1.362604,-0.06615 -0.06615,-1.336146 -1.362604,0.07937 m -0.410104,1.905 -0.06615,-0.992187 -1.005417,0.03969 0.05292,0.992188 1.018646,-0.03969 m 7.381875,-3.9952 0.06615,1.322917 1.362604,-0.06615 -0.06615,-1.336146 -1.362604,0.07937 m -2.579687,-0.171979 0.119062,1.997604 1.997604,-0.0926 -0.0926,-2.010833 -2.024062,0.105833 m 2.632604,3.373437 -0.06615,-0.992187 -1.005417,0.03969 0.05292,0.992188 1.018646,-0.03969"
+       id="path1118"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_silver_sandstone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#bfbfb7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       d="m 71.771642,14.23715 -1.018646,0.03969 -0.05292,-0.992188 1.005416,-0.03969 0.06615,0.992187 m -1.984374,-8.9561448 0.145521,-1.336146 1.349375,0.145521 -0.145521,1.336146 -1.349375,-0.145521 m 0.06615,0.886354 -0.132292,1.2832295 -1.283229,-0.14552 0.132291,-1.2832305 1.28323,0.145521 m 3.862911,-0.555625 -0.21166,1.9976045 -1.997606,-0.211666 0.211667,-1.9976045 1.997599,0.211666 m -9.379474,9.4191668 -1.018646,0.03969 -0.05292,-0.992188 1.005417,-0.03969 0.06615,0.992187 m 0.410104,-1.905 1.362604,-0.07937 0.06615,1.336146 -1.362604,0.06615 -0.06615,-1.322917 m 6.971771,-2.090216 1.362604,-0.07937 0.06615,1.336146 -1.362604,0.06615 -0.06615,-1.322926 m -2.579687,-0.171979 2.024062,-0.105833 0.0926,2.010833 -1.997604,0.0926 -0.119063,-1.997604"
+       id="path1120"
+       inkscape:export-filename="C:\Users\Rob\Minetest\minetest-5.0.1-win64\textures\Kenney\default\default_silver_sandstone_brick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
